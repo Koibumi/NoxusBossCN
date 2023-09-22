@@ -1,0 +1,10 @@
+[h1]This is a Chinese-translation Mod for Calamity Endgame Bosses[/h1]
+
+[h1]=[介绍]=[/h1]
+本Mod是由白衬衫制作，灾厄维基汉化组出品的诺克萨斯汉化补丁
+诺克萨斯内容99%已汉化，目前适配版本1.0.3
+
+[h1]=[使用方法]=[/h1]
+1.同时订阅诺克萨斯Mod和本Mod
+2.进入tml，在模组管理中同时启用诺克萨斯Mod和本Mod
+3.安装完成，进行游戏

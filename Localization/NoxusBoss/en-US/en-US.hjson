@@ -1,0 +1,378 @@
+Mods: {
+	NoxusBoss: {
+		Bestiary: {
+			EntropicGod: A fathomless being beyond description.
+			NoxusEgg: An anomalous egg of pure darkness. For countless eons it has been patiently waiting to hatch.
+			XerocBoss: The cosmic creator.
+			ItemDropConditions.FirstTimeExclusive: Only drops once.
+		}
+
+		Biomes: {
+			EternalGardenBiome: {
+				DisplayName: Eternal Garden
+				TownNPCDialogueName: the Eternal Garden Biome
+			}
+		}
+
+		Buffs: {
+			NoxusFumes: {
+				DisplayName: Noxus Fumes
+				Description: Cosmic hallucinations surround you...
+			}
+
+			BabyNoxusBuff: {
+				DisplayName: Noxus
+				Description: He's a smol lad now
+			}
+
+			BabyXerocBuff: {
+				DisplayName: Nameless Deity
+				Description: Regardless of its disconcerting appearance, it's benevolent
+			}
+		}
+
+		Items: {
+			Genesis: {
+				DisplayName: Genesis
+				Tooltip: Summons The Godless Spawn, Noxus
+				AlternateTooltip: Left click to summon the The Entropic God, right click to summon the Godless Spawn
+			}
+
+			NoxiousEvocator: {
+				DisplayName: Noxious Evocator
+				Tooltip: Makes cosmic hallucinations materialize around you
+			}
+
+			NoxusEclipseCalculator: {
+				DisplayName: Noxus Eclipse Calculator [DEBUG]
+				Tooltip: Provides information on upcoming Noxus Eclipses within the next 100 days
+				InfoTextPartial: A Noxus Eclipse will occur in approximately {0} days, starting at {1} and ending at {2}. It will be a partial eclipse.
+				InfoTextTotal: A Noxus Eclipse will occur in approximately {0} days, starting at {1} and ending at {2}. It will be a total eclipse.
+				InfoTextNoxusWorld: The eclipse is eternal.
+			}
+
+			NoxusMask: {
+				DisplayName: Noxus Mask
+				Tooltip: ""
+			}
+
+			NoxusTrophy: {
+				DisplayName: Noxus Trophy
+				Tooltip: ""
+			}
+
+			NoxusRelic: {
+				DisplayName: Noxus Relic
+				Tooltip: ""
+			}
+
+			NoxusSprayer: {
+				DisplayName: Noxus Sprayer
+				Tooltip:
+					'''
+					Shoots a stream of chaos mist that vaporizes everything it touches
+					'Kills 99.99% of lesser beings guaranteed!'
+					'''
+			}
+
+			OblivionRattle: {
+				DisplayName: Oblivion Rattle
+				Tooltip: ""
+			}
+
+			DeificTouch: {
+				DisplayName: Deific Touch
+				Tooltip: Reveals a light dimension behind your cursor
+			}
+
+			DivineWings: {
+				DisplayName: Divine Wings
+				Tooltip:
+					'''
+					Horizontal speed: 16.67
+					Acceleration multiplier: 3.7
+					Sublime vertical speed
+					Flight time: ∞
+					'You have passed the test'
+					'''
+			}
+
+			CheatPermissionSlip: {
+				DisplayName: Cheat Permission Slip
+				Tooltip:
+					'''
+					Congratulations! Now go download the DragonLens mod
+					It's not cheating. This slip gives you permission
+					Go on. Download it.
+					Right now.
+					'''
+			}
+
+			XerocMusicBoxItem: {
+				DisplayName: Music Box (Nameless Deity)
+				Tooltip: ""
+			}
+
+			Cattail: {
+				DisplayName: Cattail
+				Tooltip: ""
+			}
+
+			BossRushStarter: {
+				DisplayName: Terminal
+				Tooltip:
+					'''
+					We reject Boss Rush as an event in its current state. We do not consider it canonical in any way
+					As is, it's more or less just a slog with a small handful of challenges
+					In spite of this, we have decided that with Terminus' changed functionality it would be best
+					to add an alternative way of experiencing the event, for those who do enjoy it or wish to test
+					Noxus and the Nameless Deity's drops against it
+					'''
+			}
+
+			Terminus: {
+				BaseTooltip: An impossibly old artifact, locked away at the bottom of the abyss in an act of protection
+				UnopenedTooltip: Its gaze is closed
+				OpenedTooltip: Its gaze is opened. You will be tested
+			}
+
+			XerocMask: {
+				DisplayName: Nameless Deity Mask
+				Tooltip: "'Your face will be 1984'd'"
+			}
+
+			XerocTrophy: {
+				DisplayName: Nameless Deity Trophy
+				Tooltip: When given a signal by wiring, the eye will remain closed by default until a player gets close
+			}
+
+			XerocRelic: {
+				DisplayName: Nameless Deity Relic
+				Tooltip: ""
+			}
+
+			EmpyreanEmberlet: {
+				DisplayName: Empyrean Emberlet
+				Tooltip: "'An infinitesimal fragment of something incomprehensible'"
+			}
+
+			# This weapon references the genesis bomb, a strong TNT-like block that had the same function as this, except in Minecraft. The 2012 pays respect to it.
+			ThePurifier: {
+				DisplayName: The Purifier
+				Tooltip:
+					'''
+					Resets the entire world to its original state
+					This process can take a while, so don't be alarmed if the game idles for a bit
+					Once thrown, the bomb takes 15 seconds to detonate
+					If you accidentally throw it, you can save and quit to prevent it from exploding
+					2012
+					'''
+			}
+
+			EntropicDye: {
+				DisplayName: Entropic Dye
+				Tooltip: ""
+			}
+
+			NuminousDye: {
+				DisplayName: Numinous Dye
+				Tooltip: ""
+			}
+
+			DivineMonolith: {
+				DisplayName: Divine Monolith
+				Tooltip: ""
+			}
+
+			GoodApple: {
+				DisplayName: Good Apple
+				Tooltip: ""
+			}
+
+			MidnightMonolith: {
+				DisplayName: Midnight Monolith
+				Tooltip: ""
+			}
+
+			EternalGardenMusicBoxItem: {
+				DisplayName: Music Box (Eternal Garden)
+				Tooltip: ""
+			}
+
+			Rok: {
+				DisplayName: Rok
+				Tooltip: It's just an ordinary rock
+			}
+		}
+
+		NPCs: {
+			NoxusEggCutscene.DisplayName: ???
+
+			NoxusEgg: {
+				DisplayName: Godless Spawn, Noxus
+				DisplayNameSingular: Godless Spawn, Noxus
+
+				BossChecklistIntegration: {
+					SpawnInfo: Use the [i:NoxusBoss/Genesis]
+					DespawnMessage: "[c/7D5CC4:Noxus vanishes in the blink of an eye.]"
+				}
+			}
+
+			EntropicGod: {
+				DisplayName: The Entropic God, Noxus
+				DisplayNameSingular: The Entropic God, Noxus
+
+				BossChecklistIntegration: {
+					SpawnInfo: Use the [i:NoxusBoss/Genesis]
+					DespawnMessage: "[c/7D5CC4:Noxus vanishes in the blink of an eye.]"
+				}
+			}
+
+			XerocBoss: {
+				DisplayName: Nameless Deity
+				DisplayNameSingular: Nameless Deity
+				SillyDeathCountSuffix: ", Tormentor of Nohitters"
+
+				BossChecklistIntegration: {
+					SpawnInfo: Use the [i:CalamityMod/Terminus] after its gaze has opened
+					DespawnMessage: "[c/FF463D:You have failed the test.]"
+				}
+			}
+		}
+
+		Projectiles: {
+			DarkComet.DisplayName: Dark Comet
+			DarkFireball.DisplayName: Dark Fireball
+			DarkPortal.DisplayName: Dark Portal
+			DarkWave.DisplayName: Dark Wave
+			DistortionField.DisplayName: Distortion Field
+			GroundStompShock.DisplayName: Ground Stomp Shock
+			NightmareDeathRay.DisplayName: Nightmare Death Ray
+			NoxSpike.DisplayName: Nox Spike
+			NoxusExplosion.DisplayName: Noxus Explosion
+			NoxusGas.DisplayName: Noxus Gas
+			NoxusSprayerGas.DisplayName: Noxus Sprayer Gas
+			BabyNoxus.DisplayName: Baby Noxus
+			ArcingStarburst.DisplayName: Starburst
+			BackgroundStar.DisplayName: Star
+			BookConstellation.DisplayName: Grand Wisdom
+			ClockConstellation.DisplayName: Chronos' Hand
+			ControlledStar.DisplayName: Star
+			ConvergingSupernovaEnergy.DisplayName: Supernova Plasma
+			ExplodingStar.DisplayName: Star
+			LightDagger.DisplayName: Light Dagger
+			LightPortal.DisplayName: Light Portal
+			LightWave.DisplayName: Light Wave
+			Quasar.DisplayName: Quasar
+			Starburst.DisplayName: Starburst
+			StarPatterenedStarburst.DisplayName: Starburst
+			SunFireball.DisplayName: Sun Fireball
+			SuperCosmicBeam.DisplayName: Cosmic Deathray
+			SuperLightBeam.DisplayName: Light Deathray
+			Supernova.DisplayName: Supernova
+			SwordConstellation.DisplayName: Orion's Sword
+			TelegraphedLightLaserbeam.DisplayName: Light Deathray
+			TelegraphedScreenSlice.DisplayName: Dimensional Slice
+			TelegraphedScreenSlice2.DisplayName: Dimensional Slice
+			TelegraphedStarLaserbeam.DisplayName: Solar Burst
+			TerminusProj.DisplayName: Terminus
+			GodRayVisual.DisplayName: God Ray Visual
+			WindStreakVisual.DisplayName: Wind
+			BabyXeroc.DisplayName: Baby Deity
+			ThePurifierProj.DisplayName: The Purifier
+			SwordConstellationSlashVisual.DisplayName: Good Visual Design
+			TelegraphedPortalLaserbeam.DisplayName: Cosmic Burst
+			SlowSolarSpark.DisplayName: Solar Spark
+		}
+
+		Tiles: {
+			EternalGardenMusicBox.MapEntry: Music Box
+			XerocMusicBox.MapEntry: Music Box
+		}
+
+		XerocDimensionMainMenu.DisplayName: Light Dimension
+
+		Configs: {
+			NoxusBossConfig: {
+				DisplayName: Config
+
+				ScreenShatterEffects: {
+					Label: Screen Shatter Effects
+					Tooltip: Enables screen shatter effects. Disable if they're too straining on the eyes.
+				}
+
+				VisualOverlayIntensity: {
+					Label: Visual Overlay Intensity
+					Tooltip: Changes the intensity of visual overlays such as blur and chromatic aberration.
+				}
+			}
+		}
+
+		Dialog: {
+			PostWoFDefeatNoxusIndicator: A mysterious object has begun orbiting the planet...
+			PostMLNightNoxusIndicator: A dark presence approaches...
+			FinalBossDefeatNoxusIndicator: A dark presence is stirring...
+			FinalBossDefeatNoxusIndicator_SeenNoxus: The dark presence is stirring...
+			TerminusHintLine1: You have done well.
+			TerminusHintLine2: Now, seek the Terminus. Your final test is at hand.
+			XerocEnterGardenText: Your final test begins.
+			XerocEndScreenText: You have passed the test.
+			XerocPlayerDeathText: You have failed the test.
+			XerocEndScreenMainMenuTip: You have passed the test. You have passed the test. You have passed the test. You have passed the test. You have passed the test. You have passed the test. You have passed the test. You have passed the test. You have passed the test. You have passed the test.
+			XerocNoxusSprayerTip: Do not.
+			XerocStatusText: You have passed the test.
+			XerocStatusPercentageText: You have passed the test:
+			CattailText: CATTAIL PLACED!
+			PurifierMultiplayerUseAlertText: The Purifier has been deployed by {0}. The world will be reset in 15 seconds.
+			PurifierEntertainingRantText:
+				'''
+				Hi! This white background is natural. Your game is not broken. Please do not report the long wait as a bug. Please.
+				Just sit back, relax, and drink some water if you haven't done so in a while. Or just focus on something else. Your call.
+				Anyway, as you might've guessed, the world generation is being done all over again from scratch.
+				Let's talk about that, shall we? Why this process takes so long and is so strange, to be specific.
+				For starters, did you know that Terraria's worlds are just a giant 8401x2401 grid of tiles?
+				It's sized such that all worlds up to large can fit within it.
+				That grid exists in memory from the moment you start the game up until the moment you close it. Dozens of megabytes of memory, to be exact.
+				There is some form of "chunking", or splitting them up into subsections, but that's really only used in multiplayer, because sending the entire world across the network to clients would be terrible and very likely cause crashes.
+				This is why when servers are about to die you can fall off the map. That's you walking outside of the bounds of one of these "chunks" because the server can't send you the other chunks.
+				Back to worldgen, everything has to operate with this grid. Unlike, say, Minecraft, the world generation isn't something that can be done on the fly. It must be done all at once.
+				Furthermore, many of the worldgen steps are done synchronously, or one at a time, instead of having multiple happening at the same time.
+				Of course, you couldn't do the latter for everything, since in a lot of cases you'd run into conflicts. But as you can imagine, having this run in parallel where possible would be a really desirable boon for performance.
+				In some cases, certain steps just aren't very efficient. Certain situations can result in Settling Liquids steps taking several seconds at a time.
+				The Desertification step from what I can tell boils down to a concerning amount of looping. First horizontally throughout the entire desert.
+				Then vertically from top to bottom. Then through all "clusters" throughout the desert, and then through all tiles inside of the cluster.
+				I attribute most of these inefficiencies to modders and not the vanilla game, however (and I'm also guilty of this).
+				An old, weird practice I used to do was using recursion (aka having a function that calls itself. It's a bit weird to explain) to calculate all water in a given area for the Sulphurous Sea, and then doing that many, many times repeatedly.
+				It's... a mess.
+				Anyway! I'd go on further but it's possible that your world is almost fully wiped. Wouldn't want to get abruptly cut off!
+				I'll give you this monologue again the next time you have worlds to reset. See you around!
+				'''
+			CelesteMusicCreditText:
+				'''
+				Now Playing:
+				'wavedash.ppt'
+				By Lena Raine
+				'''
+		}
+
+		PlayerDeathMessages: {
+			Xeroc1: "{0} failed the test."
+			Xeroc2: "{0}'s atomic structure was divided for the purpose of being absorbed by the garden."
+			Xeroc3: "{0} died in bliss as the divine light consumed them."
+			Xeroc4: "{0}'s form will soon be one with the stars."
+			Xeroc5: "{0}'s spirit will linger in the garden as their body disintegrates."
+			Xeroc6: "{0}'s purpose has been fulfilled."
+			Xeroc7: "{0} witnessed eternity, and then perished."
+			Xeroc8: "{0}'s fate has concluded."
+			Xeroc9: "{0} died in spite of their valiant efforts."
+			Xeroc10: "{0} calmly faces the light."
+			Xeroc11: "{0} became one with all."
+			Xeroc12: "{0} faded into the aether."
+			Xeroc13: "{0} dissolved into the cosmic tapestry."
+			Xeroc14: "{0} transcended mortality, becoming stardust."
+			Xeroc15: "{0}'s journey ended in the sacred embrace of the garden."
+			Xeroc16: "{0} merged with the symphony of the universe."
+			Xeroc17: "{0} dissolved into the infinite lattice of existence."
+		}
+	}
+}
