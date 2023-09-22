@@ -9,20 +9,20 @@ Mods: {
 
 		Biomes: {
 			EternalGardenBiome: {
-				DisplayName: Eternal Garden
+				DisplayName: 永恒花园
 				TownNPCDialogueName: the Eternal Garden Biome
 			}
 		}
 
 		Buffs: {
 			NoxusFumes: {
-				DisplayName: Noxus Fumes
-				Description: Cosmic hallucinations surround you...
+				DisplayName: 诺克萨斯烟雾
+				Description: 宇宙幻象萦绕在你周围......
 			}
 
 			BabyNoxusBuff: {
-				DisplayName: Noxus
-				Description: He's a smol lad now
+				DisplayName: 诺克萨斯
+				Description: 他现在是个小家伙了
 			}
 
 			BabyXerocBuff: {
@@ -33,13 +33,13 @@ Mods: {
 
 		Items: {
 			Genesis: {
-				DisplayName: Genesis
+				DisplayName: 起源石
 				Tooltip: Summons The Godless Spawn, Noxus
 				AlternateTooltip: Left click to summon the The Entropic God, right click to summon the Godless Spawn
 			}
 
 			NoxiousEvocator: {
-				DisplayName: Noxious Evocator
+				DisplayName: 致害招魂晶
 				Tooltip: Makes cosmic hallucinations materialize around you
 			}
 
@@ -52,22 +52,22 @@ Mods: {
 			}
 
 			NoxusMask: {
-				DisplayName: Noxus Mask
+				DisplayName: 诺克萨斯面具
 				Tooltip: ""
 			}
 
 			NoxusTrophy: {
-				DisplayName: Noxus Trophy
+				DisplayName: 诺克萨斯纪念章
 				Tooltip: ""
 			}
 
 			NoxusRelic: {
-				DisplayName: Noxus Relic
+				DisplayName: 诺克萨斯圣物
 				Tooltip: ""
 			}
 
 			NoxusSprayer: {
-				DisplayName: Noxus Sprayer
+				DisplayName: 诺克萨斯喷雾器
 				Tooltip:
 					'''
 					Shoots a stream of chaos mist that vaporizes everything it touches
@@ -76,7 +76,7 @@ Mods: {
 			}
 
 			OblivionRattle: {
-				DisplayName: Oblivion Rattle
+				DisplayName: 遗忘泼浪鼓
 				Tooltip: ""
 			}
 
@@ -98,13 +98,13 @@ Mods: {
 			}
 
 			CheatPermissionSlip: {
-				DisplayName: Cheat Permission Slip
+				DisplayName: 作弊许可单
 				Tooltip:
 					'''
-					Congratulations! Now go download the DragonLens mod
-					It's not cheating. This slip gives you permission
-					Go on. Download it.
-					Right now.
+					恭喜！现在去下载DragonLens mod吧
+					这不是作弊，这张单子允许你这样做
+					快点，去下载它。
+					立刻，马上。
 					'''
 			}
 
@@ -114,7 +114,7 @@ Mods: {
 			}
 
 			Cattail: {
-				DisplayName: Cattail
+				DisplayName: 香蒲
 				Tooltip: ""
 			}
 
@@ -195,13 +195,13 @@ Mods: {
 			}
 
 			EternalGardenMusicBoxItem: {
-				DisplayName: Music Box (Eternal Garden)
+				DisplayName: 音乐盒(永恒花园)
 				Tooltip: ""
 			}
 
 			Rok: {
-				DisplayName: Rok
-				Tooltip: It's just an ordinary rock
+				DisplayName: 石
+				Tooltip: 它只是块普通的石头
 			}
 		}
 
@@ -209,29 +209,29 @@ Mods: {
 			NoxusEggCutscene.DisplayName: ???
 
 			NoxusEgg: {
-				DisplayName: Godless Spawn, Noxus
-				DisplayNameSingular: Godless Spawn, Noxus
+				DisplayName: 虚神魔卵，诺克萨斯
+				DisplayNameSingular: 虚神魔卵，诺克萨斯
 
 				BossChecklistIntegration: {
-					SpawnInfo: Use the [i:NoxusBoss/Genesis]
+					SpawnInfo: 使用[i:NoxusBoss/Genesis]
 					DespawnMessage: "[c/7D5CC4:Noxus vanishes in the blink of an eye.]"
 				}
 			}
 
 			EntropicGod: {
-				DisplayName: The Entropic God, Noxus
-				DisplayNameSingular: The Entropic God, Noxus
+				DisplayName: 暗熵终神，诺克萨斯
+				DisplayNameSingular: 暗熵终神，诺克萨斯
 
 				BossChecklistIntegration: {
-					SpawnInfo: Use the [i:NoxusBoss/Genesis]
-					DespawnMessage: "[c/7D5CC4:Noxus vanishes in the blink of an eye.]"
+					SpawnInfo: 使用[i:NoxusBoss/Genesis]
+					DespawnMessage: "[c/7D5CC4:诺克萨斯在转瞬之间消失了。]"
 				}
 			}
 
 			XerocBoss: {
-				DisplayName: Nameless Deity
-				DisplayNameSingular: Nameless Deity
-				SillyDeathCountSuffix: ", Tormentor of Nohitters"
+				DisplayName: 无名光神
+				DisplayNameSingular: 无名光神
+				SillyDeathCountSuffix: "，无伤人的拷打者"
 
 				BossChecklistIntegration: {
 					SpawnInfo: Use the [i:CalamityMod/Terminus] after its gaze has opened
@@ -286,8 +286,8 @@ Mods: {
 		}
 
 		Tiles: {
-			EternalGardenMusicBox.MapEntry: Music Box
-			XerocMusicBox.MapEntry: Music Box
+			EternalGardenMusicBox.MapEntry: 音乐盒
+			XerocMusicBox.MapEntry: 音乐盒
 		}
 
 		XerocDimensionMainMenu.DisplayName: Light Dimension
