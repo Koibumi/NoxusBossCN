@@ -1,9 +1,9 @@
 Mods: {
 	NoxusBoss: {
 		Bestiary: {
-			EntropicGod: A fathomless being beyond description.
-			NoxusEgg: An anomalous egg of pure darkness. For countless eons it has been patiently waiting to hatch.
-			XerocBoss: The cosmic creator.
+			EntropicGod: 无法描述的不可名状之存在。
+			NoxusEgg: 由纯粹黑暗构成的异常之卵。无数个世纪以来，它一直在耐心的等待着孵化。
+			XerocBoss: 创世之神。
 			ItemDropConditions.FirstTimeExclusive: Only drops once.
 		}
 
@@ -26,7 +26,7 @@ Mods: {
 			}
 
 			BabyXerocBuff: {
-				DisplayName: Nameless Deity
+				DisplayName: 无名光神
 				Description: Regardless of its disconcerting appearance, it's benevolent
 			}
 		}
@@ -34,21 +34,21 @@ Mods: {
 		Items: {
 			Genesis: {
 				DisplayName: 起源石
-				Tooltip: Summons The Godless Spawn, Noxus
-				AlternateTooltip: Left click to summon the The Entropic God, right click to summon the Godless Spawn
+				Tooltip: 召唤虚神魔卵，诺克萨斯
+				AlternateTooltip: 左键召唤暗熵终神，右键召唤虚神魔卵
 			}
 
 			NoxiousEvocator: {
-				DisplayName: 致害招魂晶
-				Tooltip: Makes cosmic hallucinations materialize around you
+				DisplayName: 致害诱晶
+				Tooltip: 让宇宙幻象在你的周围浮现
 			}
 
 			NoxusEclipseCalculator: {
-				DisplayName: Noxus Eclipse Calculator [DEBUG]
-				Tooltip: Provides information on upcoming Noxus Eclipses within the next 100 days
+				DisplayName: 诺克萨斯日食计算器[DEBUG]
+				Tooltip: 提供关于未来100天内即将到来的诺克萨斯日食的信息
 				InfoTextPartial: A Noxus Eclipse will occur in approximately {0} days, starting at {1} and ending at {2}. It will be a partial eclipse.
 				InfoTextTotal: A Noxus Eclipse will occur in approximately {0} days, starting at {1} and ending at {2}. It will be a total eclipse.
-				InfoTextNoxusWorld: The eclipse is eternal.
+				InfoTextNoxusWorld: 日食永不消散。
 			}
 
 			NoxusMask: {
@@ -70,8 +70,8 @@ Mods: {
 				DisplayName: 诺克萨斯喷雾器
 				Tooltip:
 					'''
-					Shoots a stream of chaos mist that vaporizes everything it touches
-					'Kills 99.99% of lesser beings guaranteed!'
+					喷出一股混乱烟雾，蒸发掉它接触的一切
+					“保证能杀死99.9%的低等生物！”
 					'''
 			}
 
@@ -81,19 +81,19 @@ Mods: {
 			}
 
 			DeificTouch: {
-				DisplayName: Deific Touch
-				Tooltip: Reveals a light dimension behind your cursor
+				DisplayName: 神化之触
+				Tooltip: 在光标后展露出一个光之维度
 			}
 
 			DivineWings: {
-				DisplayName: Divine Wings
+				DisplayName: 上神之翼
 				Tooltip:
 					'''
-					Horizontal speed: 16.67
-					Acceleration multiplier: 3.7
-					Sublime vertical speed
-					Flight time: ∞
-					'You have passed the test'
+					水平飞行速度: 16.67
+					加速倍率: 3.7
+					卓越的垂直飞行速度
+                                        飞行时间: ∞
+					“你已经通过了试炼”
 					'''
 			}
 
@@ -109,7 +109,7 @@ Mods: {
 			}
 
 			XerocMusicBoxItem: {
-				DisplayName: Music Box (Nameless Deity)
+				DisplayName: 音乐盒（无名光神）
 				Tooltip: ""
 			}
 
@@ -119,35 +119,35 @@ Mods: {
 			}
 
 			BossRushStarter: {
-				DisplayName: Terminal
+				DisplayName: 终末之石
 				Tooltip:
 					'''
-					We reject Boss Rush as an event in its current state. We do not consider it canonical in any way
-					As is, it's more or less just a slog with a small handful of challenges
-					In spite of this, we have decided that with Terminus' changed functionality it would be best
-					to add an alternative way of experiencing the event, for those who do enjoy it or wish to test
-					Noxus and the Nameless Deity's drops against it
+					目前，我们拒绝将Boss Rush视作一个事件，无论如何我们都不认为它是个规范的挑战
+					事实上，它充其量也只是个拥有些许挑战性的战斗
+					尽管如此，我们还是觉得随着终末石功能的改变
+					最好为那些喜欢或期待试炼的人增加一种体验事件的替代方式
+					诺克萨斯和无名光神的掉落物与其对应
 					'''
 			}
 
 			Terminus: {
-				BaseTooltip: An impossibly old artifact, locked away at the bottom of the abyss in an act of protection
-				UnopenedTooltip: Its gaze is closed
-				OpenedTooltip: Its gaze is opened. You will be tested
+				BaseTooltip: 一件不可思议的古老造物，其被尘封深渊底部以进行保护
+				UnopenedTooltip: 它的眼睛闭上了
+				OpenedTooltip: 它的眼睛睁开了，你将进行一场试炼
 			}
 
 			XerocMask: {
-				DisplayName: Nameless Deity Mask
-				Tooltip: "'Your face will be 1984'd'"
+				DisplayName: 无名光神面具
+				Tooltip: "'你的脸将会变成【数据删除】'"
 			}
 
 			XerocTrophy: {
-				DisplayName: Nameless Deity Trophy
+				DisplayName: 无名光神纪念章
 				Tooltip: When given a signal by wiring, the eye will remain closed by default until a player gets close
 			}
 
 			XerocRelic: {
-				DisplayName: Nameless Deity Relic
+				DisplayName: 无名光神圣物
 				Tooltip: ""
 			}
 
@@ -170,12 +170,12 @@ Mods: {
 			}
 
 			EntropicDye: {
-				DisplayName: Entropic Dye
+				DisplayName: 暗熵末神染料
 				Tooltip: ""
 			}
 
 			NuminousDye: {
-				DisplayName: Numinous Dye
+				DisplayName: 光辉圣神染料
 				Tooltip: ""
 			}
 
@@ -195,7 +195,7 @@ Mods: {
 			}
 
 			EternalGardenMusicBoxItem: {
-				DisplayName: 音乐盒(永恒花园)
+				DisplayName: 音乐盒（永恒花园）
 				Tooltip: ""
 			}
 
@@ -214,7 +214,7 @@ Mods: {
 
 				BossChecklistIntegration: {
 					SpawnInfo: 使用[i:NoxusBoss/Genesis]
-					DespawnMessage: "[c/7D5CC4:Noxus vanishes in the blink of an eye.]"
+					DespawnMessage: "[c/7D5CC4:诺克萨斯在转瞬之间消失了。]"
 				}
 			}
 
@@ -294,16 +294,16 @@ Mods: {
 
 		Configs: {
 			NoxusBossConfig: {
-				DisplayName: Config
+				DisplayName: 配置
 
 				ScreenShatterEffects: {
-					Label: Screen Shatter Effects
-					Tooltip: Enables screen shatter effects. Disable if they're too straining on the eyes.
+					Label: 碎屏效果
+					Tooltip: 启用碎屏效果。如果会伤害到眼睛的话请禁用它。
 				}
 
 				VisualOverlayIntensity: {
-					Label: Visual Overlay Intensity
-					Tooltip: Changes the intensity of visual overlays such as blur and chromatic aberration.
+					Label: 视觉覆盖强度
+					Tooltip: 更改视觉覆盖的强度，例如模糊和色差。
 				}
 			}
 		}
@@ -313,15 +313,15 @@ Mods: {
 			PostMLNightNoxusIndicator: A dark presence approaches...
 			FinalBossDefeatNoxusIndicator: A dark presence is stirring...
 			FinalBossDefeatNoxusIndicator_SeenNoxus: The dark presence is stirring...
-			TerminusHintLine1: You have done well.
-			TerminusHintLine2: Now, seek the Terminus. Your final test is at hand.
-			XerocEnterGardenText: Your final test begins.
-			XerocEndScreenText: You have passed the test.
-			XerocPlayerDeathText: You have failed the test.
+			TerminusHintLine1: 你做的很好。
+			TerminusHintLine2: 现在，去找到终末石，你的最终试炼就在眼前。
+			XerocEnterGardenText: 你的最终试炼开始了。
+			XerocEndScreenText: 你已经通过了试炼。
+			XerocPlayerDeathText: 你未能通过试炼。
 			XerocEndScreenMainMenuTip: You have passed the test. You have passed the test. You have passed the test. You have passed the test. You have passed the test. You have passed the test. You have passed the test. You have passed the test. You have passed the test. You have passed the test.
-			XerocNoxusSprayerTip: Do not.
-			XerocStatusText: You have passed the test.
-			XerocStatusPercentageText: You have passed the test:
+			XerocNoxusSprayerTip: 别这样做。
+			XerocStatusText: 你已经通过了试炼。
+			XerocStatusPercentageText: 你已经通过了试炼：
 			CattailText: CATTAIL PLACED!
 			PurifierMultiplayerUseAlertText: The Purifier has been deployed by {0}. The world will be reset in 15 seconds.
 			PurifierEntertainingRantText:
@@ -356,7 +356,7 @@ Mods: {
 		}
 
 		PlayerDeathMessages: {
-			Xeroc1: "{0} failed the test."
+			Xeroc1: "{0}未能通过试炼。"
 			Xeroc2: "{0}'s atomic structure was divided for the purpose of being absorbed by the garden."
 			Xeroc3: "{0} died in bliss as the divine light consumed them."
 			Xeroc4: "{0}'s form will soon be one with the stars."
