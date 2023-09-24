@@ -143,7 +143,7 @@ Mods: {
 
 			XerocTrophy: {
 				DisplayName: 无名光神纪念章
-				Tooltip: When given a signal by wiring, the eye will remain closed by default until a player gets close
+				Tooltip: 当接收电线发出的信号后，默认情况下眼睛将闭上，直到玩家靠近为止。
 			}
 
 			XerocRelic: {
@@ -309,10 +309,10 @@ Mods: {
 		}
 
 		Dialog: {
-			PostWoFDefeatNoxusIndicator: A mysterious object has begun orbiting the planet...
-			PostMLNightNoxusIndicator: A dark presence approaches...
-			FinalBossDefeatNoxusIndicator: A dark presence is stirring...
-			FinalBossDefeatNoxusIndicator_SeenNoxus: The dark presence is stirring...
+			PostWoFDefeatNoxusIndicator: 一个神秘物体开始绕地球运转......
+			PostMLNightNoxusIndicator: 一团黑暗的存在正在逼近......
+			FinalBossDefeatNoxusIndicator: 一团黑暗的存在正在不断搅动......
+			FinalBossDefeatNoxusIndicator_SeenNoxus: 黑暗的存在正在不断搅动......
 			TerminusHintLine1: 你做的很好。
 			TerminusHintLine2: 现在，去找到终末石，你的最终试炼就在眼前。
 			XerocEnterGardenText: 你的最终试炼开始了。
@@ -323,7 +323,7 @@ Mods: {
 			XerocStatusText: 你已经通过了试炼。
 			XerocStatusPercentageText: 你已经通过了试炼：
 			CattailText: 香 蒲 已 放 置！
-			PurifierMultiplayerUseAlertText: The Purifier has been deployed by {0}. The world will be reset in 15 seconds.
+			PurifierMultiplayerUseAlertText: 净化者已由｛0｝部署，世界将在15秒内重置。
 			PurifierEntertainingRantText:
 				'''
 				你好！这种白色的背景很正常，你的游戏没有炸，请不要长时间等待报错。
@@ -344,7 +344,7 @@ Mods: {
 				然而，我将这种效率低下的生成方式归结于mod作者们，而不是原版游戏（我也对此感到内疚）。
 				在过去，我常用的奇怪做法是使用递归（也就是调用自身的函数，这解释起来有点奇怪）来计算硫磺海给定区域内所有的水，然后重复多次。
                                 aaaaa，这......简直是一团糟。
-				无论如何！我很想继续说下去，但你的世界估计已经被彻底抹去了，我不想说一半被打断！
+				无论如何！我很想继续说下去，但你的世界估计已经被彻底抹去了，我可不想说到一半被打断！
 				下次你有世界要重置时，我会再给你放一次这段独白。回头见！
 				'''
 			CelesteMusicCreditText:
@@ -357,22 +357,22 @@ Mods: {
 
 		PlayerDeathMessages: {
 			Xeroc1: "{0}未能通过试炼。"
-			Xeroc2: "{0}'s atomic structure was divided for the purpose of being absorbed by the garden."
-			Xeroc3: "{0} died in bliss as the divine light consumed them."
-			Xeroc4: "{0}'s form will soon be one with the stars."
-			Xeroc5: "{0}'s spirit will linger in the garden as their body disintegrates."
-			Xeroc6: "{0}'s purpose has been fulfilled."
-			Xeroc7: "{0}见证了永恒，然后湮灭。"
+			Xeroc2: "{0}的原子结构被切割了，并被花园所吸收。"
+			Xeroc3: "{0}在被圣神光辉吞噬的过程中幸福的死去。"
+			Xeroc4: "{0}的形体将于群星融为一体。"
+			Xeroc5: "{0}的灵魂随着身体的崩解，在花园中徘徊。"
+			Xeroc6: "{0}的目的实现了。"
+			Xeroc7: "{0}见证了永恒，然后在此湮灭。"
 			Xeroc8: "{0}的命运结束了。"
-			Xeroc9: "{0} died in spite of their valiant efforts."
-			Xeroc10: "{0} calmly faces the light."
+			Xeroc9: "{0}在不屈的努力下死去了。"
+			Xeroc10: "{0}平静地面对了光芒。"
 			Xeroc11: "{0}与大群融为一体。"
-			Xeroc12: "{0} faded into the aether."
-			Xeroc13: "{0} dissolved into the cosmic tapestry."
-			Xeroc14: "{0} transcended mortality, becoming stardust."
-			Xeroc15: "{0}'s journey ended in the sacred embrace of the garden."
-			Xeroc16: "{0} merged with the symphony of the universe."
-			Xeroc17: "{0} dissolved into the infinite lattice of existence."
+			Xeroc12: "{0}消失于以太之中。"
+			Xeroc13: "{0}融入了宇宙的壁毯之中。"
+			Xeroc14: "{0}超越死亡，成为了星尘。"
+			Xeroc15: "{0}的旅途在花园那神圣的怀抱中结束了。"
+			Xeroc16: "{0}与宇宙交响乐融为一体。"
+			Xeroc17: "{0}溶解于无限栅格的存在之中。"
 		}
 	}
 }
