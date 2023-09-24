@@ -46,8 +46,8 @@ Mods: {
 			NoxusEclipseCalculator: {
 				DisplayName: 诺克萨斯日食计算器[DEBUG]
 				Tooltip: 提供关于未来100天内即将到来的诺克萨斯日食的信息
-				InfoTextPartial: A Noxus Eclipse will occur in approximately {0} days, starting at {1} and ending at {2}. It will be a partial eclipse.
-				InfoTextTotal: A Noxus Eclipse will occur in approximately {0} days, starting at {1} and ending at {2}. It will be a total eclipse.
+				InfoTextPartial: 诺克萨斯日食大约将在{0}天后发生，从{1}开始到{2}结束。将会是日偏食。
+				InfoTextTotal: 诺克萨斯日食大约将在{0}天后发生，从{1}开始到{2}结束。将会是日全食。
 				InfoTextNoxusWorld: 日食永不消散。
 			}
 
@@ -180,7 +180,7 @@ Mods: {
 			}
 
 			DivineMonolith: {
-				DisplayName: Divine Monolith
+				DisplayName: 圣神之石
 				Tooltip: ""
 			}
 
@@ -190,7 +190,7 @@ Mods: {
 			}
 
 			MidnightMonolith: {
-				DisplayName: Midnight Monolith
+				DisplayName: 至暗之石
 				Tooltip: ""
 			}
 
@@ -290,7 +290,7 @@ Mods: {
 			XerocMusicBox.MapEntry: 音乐盒
 		}
 
-		XerocDimensionMainMenu.DisplayName: Light Dimension
+		XerocDimensionMainMenu.DisplayName: 光之维度
 
 		Configs: {
 			NoxusBossConfig: {
@@ -340,11 +340,11 @@ Mods: {
 				当然，后者不可能适用于所有情况，因为在很多情况下会发生冲突。但正如你想象的，在可能的情况下并行运行对性能来说是一个益处。
 				有时候某些步骤并不是很有效，在某些情况下，一次沉淀液体的步骤需要几秒钟。
 				据我所知，沙漠化的步骤可以说是有着令人担忧的循环量。首先是整个沙漠的水平方向。
-				Then vertically from top to bottom. Then through all "clusters" throughout the desert, and then through all tiles inside of the cluster.
-				I attribute most of these inefficiencies to modders and not the vanilla game, however (and I'm also guilty of this).
-				An old, weird practice I used to do was using recursion (aka having a function that calls itself. It's a bit weird to explain) to calculate all water in a given area for the Sulphurous Sea, and then doing that many, many times repeatedly.
-				It's... a mess.
-				Anyway! I'd go on further but it's possible that your world is almost fully wiped. Wouldn't want to get abruptly cut off!
+				然后是从上到下的垂直方向。然后穿过整个沙漠的所有“集群”，再然后穿过集群内部的所有物块。
+				然而，我将这种效率低下的生成方式归结于mod作者们，而不是原版游戏（我也对此感到内疚）。
+				在过去，我常用的奇怪做法是使用递归（也就是调用自身的函数，这解释起来有点奇怪）来计算硫磺海给定区域内所有的水，然后重复多次。
+                                aaaaa，这......简直是一团糟。
+				无论如何！我很想继续说下去，但你的世界估计已经被彻底抹去了，我不想说一半被打断！
 				下次你有世界要重置时，我会再给你放一次这段独白。回头见！
 				'''
 			CelesteMusicCreditText:
