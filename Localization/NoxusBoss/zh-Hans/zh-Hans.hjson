@@ -4,7 +4,7 @@ Mods: {
 			EntropicGod: 无法描述的不可名状之存在。
 			NoxusEgg: 由纯粹黑暗构成的异常之卵。无数个世纪以来，它一直在耐心的等待着孵化。
 			XerocBoss: 创世之神。
-			ItemDropConditions.FirstTimeExclusive: Only drops once.
+			ItemDropConditions.FirstTimeExclusive: 仅在首次击败时掉落。
 		}
 
 		Biomes: {
@@ -16,7 +16,7 @@ Mods: {
 
 		Buffs: {
 			NoxusFumes: {
-				DisplayName: 诺克萨斯烟雾
+				DisplayName: 诺克萨斯之雾
 				Description: 宇宙幻象萦绕在你周围......
 			}
 
@@ -27,7 +27,7 @@ Mods: {
 
 			BabyXerocBuff: {
 				DisplayName: 无名光神
-				Description: Regardless of its disconcerting appearance, it's benevolent
+				Description: 不管它的外表如何令人不安，它仍是慈爱的
 			}
 		}
 
@@ -234,8 +234,8 @@ Mods: {
 				SillyDeathCountSuffix: "，无伤人的拷打者"
 
 				BossChecklistIntegration: {
-					SpawnInfo: Use the [i:CalamityMod/Terminus] after its gaze has opened
-					DespawnMessage: "[c/FF463D:You have failed the test.]"
+					SpawnInfo: 使用[i:CalamityMod/Terminus]在它的眼睛睁开后。
+					DespawnMessage: "[c/FF463D:你未能通过试炼。]"
 				}
 			}
 		}
@@ -318,40 +318,40 @@ Mods: {
 			XerocEnterGardenText: 你的最终试炼开始了。
 			XerocEndScreenText: 你已经通过了试炼。
 			XerocPlayerDeathText: 你未能通过试炼。
-			XerocEndScreenMainMenuTip: You have passed the test. You have passed the test. You have passed the test. You have passed the test. You have passed the test. You have passed the test. You have passed the test. You have passed the test. You have passed the test. You have passed the test.
+			XerocEndScreenMainMenuTip: 你已经通过了试炼。你已经通过了试炼。你已经通过了试炼。你已经通过了试炼。你已经通过了试炼。你已经通过了试炼。你已经通过了试炼。你已经通过了试炼。你已经通过了试炼。你已经通过了试炼。
 			XerocNoxusSprayerTip: 别这样做。
 			XerocStatusText: 你已经通过了试炼。
 			XerocStatusPercentageText: 你已经通过了试炼：
-			CattailText: CATTAIL PLACED!
+			CattailText: 香 蒲 已 放 置！
 			PurifierMultiplayerUseAlertText: The Purifier has been deployed by {0}. The world will be reset in 15 seconds.
 			PurifierEntertainingRantText:
 				'''
-				Hi! This white background is natural. Your game is not broken. Please do not report the long wait as a bug. Please.
-				Just sit back, relax, and drink some water if you haven't done so in a while. Or just focus on something else. Your call.
-				Anyway, as you might've guessed, the world generation is being done all over again from scratch.
-				Let's talk about that, shall we? Why this process takes so long and is so strange, to be specific.
-				For starters, did you know that Terraria's worlds are just a giant 8401x2401 grid of tiles?
-				It's sized such that all worlds up to large can fit within it.
-				That grid exists in memory from the moment you start the game up until the moment you close it. Dozens of megabytes of memory, to be exact.
-				There is some form of "chunking", or splitting them up into subsections, but that's really only used in multiplayer, because sending the entire world across the network to clients would be terrible and very likely cause crashes.
-				This is why when servers are about to die you can fall off the map. That's you walking outside of the bounds of one of these "chunks" because the server can't send you the other chunks.
-				Back to worldgen, everything has to operate with this grid. Unlike, say, Minecraft, the world generation isn't something that can be done on the fly. It must be done all at once.
-				Furthermore, many of the worldgen steps are done synchronously, or one at a time, instead of having multiple happening at the same time.
-				Of course, you couldn't do the latter for everything, since in a lot of cases you'd run into conflicts. But as you can imagine, having this run in parallel where possible would be a really desirable boon for performance.
-				In some cases, certain steps just aren't very efficient. Certain situations can result in Settling Liquids steps taking several seconds at a time.
-				The Desertification step from what I can tell boils down to a concerning amount of looping. First horizontally throughout the entire desert.
+				你好！这种白色的背景很正常，你的游戏没有炸，请不要长时间等待报错。
+				坐下来放松一下，如果你有一段时间没喝水的话就喝点水吧。或者专注于其他事情，像是你的电话。
+				不管怎样，正如你可能已猜到的，世界正在从头开始生成。
+				让我们谈谈，好吗？具体说说为什么这个过程需要这么长时间，而且这么奇怪。
+                                首先，你知道泰拉瑞亚的世界只是一个巨大的8401x2401物块网格吗？
+                                它的大小可以容纳整个世界。
+                                从你开始游戏的那一刻起，直到关闭游戏，这个网格一直存在于内存中。确切来说是几十兆字节的内存。
+				它有着某种形式的“分块”，即拆分成一个个子部分。但这实际上只适用于多人游戏，因为通过网络将整个世界传输到客户端将是非常可怕的，并且很可能导致游戏崩溃。
+				这就是为什么当服务器即将崩溃时，你会从地图上掉下来，因为你超出了其中一个“区块”的界限，服务器无法向你发送其他区块。
+				回到世界生成，一切东西都要在这个网格中进行。与我的世界不同，世界生成并非是一件能在飞行中完成的事，必须一次性完成。
+				此外，许多世界生成的步骤都是同步完成的，或者一次一个，而不是同时进行多个。
+				当然，后者不可能适用于所有情况，因为在很多情况下会发生冲突。但正如你想象的，在可能的情况下并行运行对性能来说是一个益处。
+				有时候某些步骤并不是很有效，在某些情况下，一次沉淀液体的步骤需要几秒钟。
+				据我所知，沙漠化的步骤可以说是有着令人担忧的循环量。首先是整个沙漠的水平方向。
 				Then vertically from top to bottom. Then through all "clusters" throughout the desert, and then through all tiles inside of the cluster.
 				I attribute most of these inefficiencies to modders and not the vanilla game, however (and I'm also guilty of this).
 				An old, weird practice I used to do was using recursion (aka having a function that calls itself. It's a bit weird to explain) to calculate all water in a given area for the Sulphurous Sea, and then doing that many, many times repeatedly.
 				It's... a mess.
 				Anyway! I'd go on further but it's possible that your world is almost fully wiped. Wouldn't want to get abruptly cut off!
-				I'll give you this monologue again the next time you have worlds to reset. See you around!
+				下次你有世界要重置时，我会再给你放一次这段独白。回头见！
 				'''
 			CelesteMusicCreditText:
 				'''
-				Now Playing:
+				正在播放:
 				'wavedash.ppt'
-				By Lena Raine
+				作者：Lena Raine
 				'''
 		}
 
@@ -362,11 +362,11 @@ Mods: {
 			Xeroc4: "{0}'s form will soon be one with the stars."
 			Xeroc5: "{0}'s spirit will linger in the garden as their body disintegrates."
 			Xeroc6: "{0}'s purpose has been fulfilled."
-			Xeroc7: "{0} witnessed eternity, and then perished."
-			Xeroc8: "{0}'s fate has concluded."
+			Xeroc7: "{0}见证了永恒，然后湮灭。"
+			Xeroc8: "{0}的命运结束了。"
 			Xeroc9: "{0} died in spite of their valiant efforts."
 			Xeroc10: "{0} calmly faces the light."
-			Xeroc11: "{0} became one with all."
+			Xeroc11: "{0}与大群融为一体。"
 			Xeroc12: "{0} faded into the aether."
 			Xeroc13: "{0} dissolved into the cosmic tapestry."
 			Xeroc14: "{0} transcended mortality, becoming stardust."
