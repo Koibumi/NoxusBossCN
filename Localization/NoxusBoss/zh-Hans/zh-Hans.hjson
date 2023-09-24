@@ -152,19 +152,19 @@ Mods: {
 			}
 
 			EmpyreanEmberlet: {
-				DisplayName: Empyrean Emberlet
-				Tooltip: "'An infinitesimal fragment of something incomprehensible'"
+				DisplayName: 天界神烬
+				Tooltip: "'一块不可名状之物的无穷小的碎片'"
 			}
 
 			# This weapon references the genesis bomb, a strong TNT-like block that had the same function as this, except in Minecraft. The 2012 pays respect to it.
 			ThePurifier: {
-				DisplayName: The Purifier
+				DisplayName: 净化者
 				Tooltip:
 					'''
-					Resets the entire world to its original state
-					This process can take a while, so don't be alarmed if the game idles for a bit
-					Once thrown, the bomb takes 15 seconds to detonate
-					If you accidentally throw it, you can save and quit to prevent it from exploding
+					将整个世界重置为初始状态
+					这个过程可能需要一段时间，所以如果游戏暂停了一段时间的话不必惊慌
+					一旦投掷，炸弹需要15秒才会引爆
+					如果你不小心把它扔出去了，可以保存并退出防止它爆炸
 					2012
 					'''
 			}
