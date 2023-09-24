@@ -294,16 +294,30 @@ Mods: {
 
 		Configs: {
 			NoxusBossConfig: {
-				DisplayName: 配置
+				DisplayName: Config
 
-				ScreenShatterEffects: {
-					Label: 碎屏效果
-					Tooltip: 启用碎屏效果。如果会伤害到眼睛的话请禁用它。
+                PhotosensitivityMode: {
+					Label: Photosensitivity Mode
+					Tooltip: Toggles effects that rely on sudden, flashing animations. This affects related config options when toggled, though they can be manually overridden if desired.
 				}
 
+				ScreenShakeIntensity: {
+					Label: Screen Shake Intensity
+					Tooltip:
+						'''
+						Changes the intensity of screen shake effects. At zero, all screen shake effects induced by this mod are disabled.
+						If Calamity's config disallows screen shake, this config is set to zero.
+						'''
+				}
+
+				ScreenShatterEffects: {
+					Label: Screen Shatter Effects
+					Tooltip: Toggles screen shatter effects. Disable if they're too straining on the eyes.
+                }
+
 				VisualOverlayIntensity: {
-					Label: 视觉覆盖强度
-					Tooltip: 更改视觉覆盖的强度，例如模糊和色差。
+					Label: Visual Overlay Intensity
+					Tooltip: Changes the intensity of visual overlays such as blur and chromatic aberration.
 				}
 			}
 		}
