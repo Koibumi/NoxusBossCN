@@ -32,10 +32,448 @@ Mods: {
 		}
 
 		Items: {
+			Cattail: {
+				DisplayName: Cattail
+				Tooltip: ""
+			}
+
+			CheatPermissionSlip: {
+				DisplayName: Cheat Permission Slip
+				Tooltip:
+					'''
+					Congratulations! Now go download the DragonLens mod
+					It's not cheating. This slip gives you permission
+					Go on. Download it.
+					Right now.
+					'''
+			}
+
+			DeificTouch: {
+				DisplayName: Deific Touch
+				Tooltip: Reveals a light dimension behind your cursor
+			}
+
+			DivineMonolith: {
+				DisplayName: Divine Monolith
+				Tooltip: ""
+			}
+
+			DivineWings: {
+				DisplayName: Divine Wings
+				Tooltip:
+					'''
+					Horizontal speed: 16.67
+					Acceleration multiplier: 3.7
+					Sublime vertical speed
+					Flight time: ∞
+					'You have passed the test'
+					'''
+			}
+
+			EmpyreanEmberlet: {
+				DisplayName: Empyrean Emberlet
+				Tooltip: "'An infinitesimal fragment of something incomprehensible'"
+			}
+
+			EntropicDye: {
+				DisplayName: Entropic Dye
+				Tooltip: ""
+			}
+
+			EternalGardenMusicBoxItem: {
+				DisplayName: Music Box (Eternal Garden)
+				Tooltip: ""
+			}
+
 			Genesis: {
 				DisplayName: Genesis
 				Tooltip: Summons The Godless Spawn, Noxus
 				AlternateTooltip: Left click to summon the The Entropic God, right click to summon the Godless Spawn
+			}
+
+			GoodApple: {
+				DisplayName: Good Apple
+				Tooltip: The good apple never falls far from the good tree!
+			}
+
+			LoreNoxus: {
+				DisplayName: Noxus
+				Tooltip:
+					'''
+					[c/E3AF40:Whispers from on high dance in your ears...]
+					Press "Left Shift" to listen closer
+					'''
+				Lore:
+					'''
+					Absurd.
+					That aberration's intentions and origins are cloaked in the deepest abyss of obscurity, yet one thing is certain: 
+
+					Though neither God nor Dragon, it bears a distinguished, exalted might that only they could lay claim to.
+
+					What divine orchestration could have brought such extraordinary circumstances, unveiling the zenith of its grotesque powers?
+					Is it the hand of destiny, carefully weaving the tapestry of existence? Is it mere chance? Or is it perhaps simply an unruly display of nature's caprice?
+					Gods and Dragons... are they the full extent of all? Might greater beings such as this linger in the realms far beyond Terraria?
+					There are endless questions to be asked regarding the events that have transpired, yet scant few answers.
+					'''
+			}
+
+			LoreXeroc: {
+				DisplayName: The Nameless Deity
+				Tooltip:
+					'''
+					[c/E3AF40:Whispers from on high dance in your ears...]
+					Press "Left Shift" to listen closer
+					'''
+				Lore: ""
+				Determiner1: a
+				Determiner2: the
+				Verb1: refracts
+				Verb2: transcends
+				Verb3: divines
+				Verb4: foresees
+				Verb5: walks
+				Verb6: blazes
+				Verb7: fuses
+				Verb8: ascends
+				Verb9: traces
+				Verb10: treads
+				Verb11: glimpses
+				Verb12: succumbs
+				Verb13: discovers
+				Verb14: unlocks
+				Verb15: seeks
+				Verb16: triumphs
+				Verb17: navigates
+				Verb18: weaves
+				Verb19: resonates
+				Verb20: experiences
+				Verb21: times
+				Verb22: expands
+				Verb23: enlightens
+				Verb24: unveils
+				Verb25: births
+				Verb26: unifies
+				Verb27: embarks
+				Verb28: finds
+				Verb29: distills
+				Verb30: tests
+				Verb31: unfolds
+				Verb32: flutters
+				Verb33: graces
+				Verb34: wishes
+				Verb35: savors
+				Verb36: evades
+				Verb37: cherishes
+				Verb38: radiates
+				Verb39: perorates
+				Verb40: shines
+				Verb41: burns
+				Verb42: erases
+				Verb43: obliterates
+				Verb44: betrays
+				Verb45: accepts
+				Verb46: excises
+				Verb47: breathes
+				Verb48: projects
+				Verb49: understands
+				Verb50: bathes
+				Verb51: gasps
+				Verb52: eclipses
+				Verb53: illuminates
+				Verb54: beckons
+				Verb55: builds
+				Verb56: creates
+				Verb57: prays
+				Verb58: controls
+				Verb59: grasps
+				Verb60: flies
+				Verb61: melts
+				Verb62: dissolves
+				Verb63: repents
+				Verb64: subjugates
+				Verb65: flows
+				Verb66: decomposes
+				Verb67: energizes
+				Verb68: exempts
+				Verb69: realizes
+				Verb70: dotes
+				Verb71: drifts
+				Verb72: reels
+				Verb73: materializes
+				Verb74: generates
+				Verb75: purifies
+				Verb76: writes
+				Verb77: docks
+				Verb78: declines
+				Verb79: progenates
+				Verb80: remembers
+				Verb81: soars
+				Verb82: faces
+				Verb83: immortalizes
+				Verb84: orbits
+				Verb85: sectarianizes
+				Verb86: coalesces
+				Verb87: heals
+				Verb88: acknowledges
+				Verb89: petrifies
+				Verb90: silences
+				Verb91: freezes
+				Verb92: qualifies
+				Verb93: excels
+				Verb94: contemplates
+				Verb95: cures
+				Verb96: reanimates
+				Verb97: differentiates
+				Verb98: crawls
+				Verb99: devours
+				Verb100: terminates
+				Adjective1: ineffable
+				Adjective2: effulgent
+				Adjective3: transient
+				Adjective4: wistful
+				Adjective5: blissful
+				Adjective6: eternal
+				Adjective7: twisted
+				Adjective8: omniscient
+				Adjective9: omnipotent
+				Adjective10: benevolent
+				Adjective11: hopeful
+				Adjective12: sublime
+				Adjective13: vigorous
+				Adjective14: demoded
+				Adjective15: dispiteous
+				Adjective16: beautiful
+				Adjective17: gaudy
+				Adjective18: ephemeral
+				Adjective19: refulgent
+				Adjective20: wanton
+				Adjective21: unyielding
+				Adjective22: clandestine
+				Adjective23: wise
+				Adjective24: obdurate
+				Adjective25: insouciant
+				Adjective26: antediluvian
+				Adjective27: sacred
+				Adjective28: labyrinthine
+				Adjective29: enigmatic
+				Adjective30: introspective
+				Adjective31: nimble
+				Adjective32: distilled
+				Adjective33: intoxicating
+				Adjective34: honest
+				Adjective35: happy
+				Adjective36: excellent
+				Adjective37: apotheotic
+				Adjective38: halcyon
+				Adjective39: tranquil
+				Adjective40: peaceful
+				Adjective41: unwieldy
+				Adjective42: murderous
+				Adjective43: whimsical
+				Adjective44: blessed
+				Adjective45: edenic
+				Adjective46: cosmic
+				Adjective47: ancient
+				Adjective48: impressive
+				Adjective49: glorious
+				Adjective50: frigid
+				Adjective51: gilded
+				Adjective52: infallible
+				Adjective53: odd
+				Adjective54: devoted
+				Adjective55: fated
+				Adjective56: unsullied
+				Adjective57: grotesque
+				Adjective58: resplendent
+				Adjective59: infinite
+				Adjective60: stained
+				Adjective61: witty
+				Adjective62: flawed
+				Adjective63: eschatological
+				Adjective64: unholy
+				Adjective65: monosynaptic
+				Adjective66: episodical
+				Adjective67: inalienable
+				Adjective68: penitent
+				Adjective69: flickering
+				Adjective70: rapacious
+				Adjective71: abstract
+				Adjective72: complex
+				Adjective73: mystifying
+				Adjective74: puelline
+				Adjective75: sempiternal
+				Adjective76: zealous
+				Adjective77: ethereal
+				Adjective78: exothermic
+				Adjective79: dazzling
+				Adjective80: Pavlovian
+				Adjective81: enticing
+				Adjective82: resurrected
+				Adjective83: monochromatic
+				Adjective84: sleepy
+				Adjective85: muddled
+				Adjective86: empty
+				Adjective87: faded
+				Adjective88: ecstatic
+				Adjective89: content
+				Adjective90: dreamy
+				Adjective91: poetic
+				Adjective92: knighted
+				Adjective93: defensive
+				Adjective94: worried
+				Adjective95: hallowed
+				Adjective96: cupric
+				Adjective97: supercharged
+				Adjective98: reclusive
+				Adjective99: clever
+				Adjective100: complete
+				Noun1: cleric
+				Noun2: god
+				Noun3: being
+				Noun4: blade
+				Noun5: trial
+				Noun6: tapestry
+				Noun7: fire
+				Noun8: star
+				Noun9: ion
+				Noun10: painting
+				Noun11: nature
+				Noun12: warrior
+				Noun13: serf
+				Noun14: home
+				Noun15: digit
+				Noun16: logarithm
+				Noun17: season
+				Noun18: apple
+				Noun19: sinner
+				Noun20: word
+				Noun21: thread
+				Noun22: executioner
+				Noun23: blood
+				Noun24: nebula
+				Noun25: light
+				Noun26: cloak
+				Noun27: crown
+				Noun28: antigen
+				Noun29: slime
+				Noun30: agent
+				Noun31: wizard
+				Noun32: castle
+				Noun33: table
+				Noun34: laser
+				Noun35: yttrium
+				Noun36: brimstone
+				Noun37: terrain
+				Noun38: fruit
+				Noun39: mother
+				Noun40: priest
+				Noun41: epiphany
+				Noun42: gate
+				Noun43: interpolant
+				Noun44: wand
+				Noun45: wind
+				Noun46: pond
+				Noun47: hymn
+				Noun48: mist
+				Noun49: fortitude
+				Noun50: glade
+				Noun51: judge
+				Noun52: conquerer
+				Noun53: avarice
+				Noun54: titan
+				Noun55: cinquain
+				Noun56: destiny
+				Noun57: cynosure
+				Noun58: tree
+				Noun59: cell
+				Noun60: entropy
+				Noun61: life
+				Noun62: reaper
+				Noun63: snake
+				Noun64: ark
+				Noun65: covenant
+				Noun66: ankh
+				Noun67: insignia
+				Noun68: bell
+				Noun69: language
+				Noun70: gift
+				Noun71: saffron
+				Noun72: alchemist
+				Noun73: jaunt
+				Noun74: quadrant
+				Noun75: stamen
+				Noun76: iris
+				Noun77: censer
+				Noun78: platinum
+				Noun79: lava
+				Noun80: hand
+				Noun81: corner
+				Noun82: shadow
+				Noun83: calamity
+				Noun84: scrap
+				Noun85: spirit
+				Noun86: scale
+				Noun87: ash
+				Noun88: plasma
+				Noun89: dragon
+				Noun90: matter
+				Noun91: singularity
+				Noun92: world
+				Noun93: fossil
+				Noun94: galaxy
+				Noun95: sunshine
+				Noun96: necromancer
+				Noun97: moratorium
+				Noun98: annal
+				Noun99: time
+				Noun100: circle
+				Noun101: ogscule
+				Preposition1: about
+				Preposition2: above
+				Preposition3: across
+				Preposition4: after
+				Preposition5: against
+				Preposition6: along
+				Preposition7: among
+				Preposition8: around
+				Preposition9: as
+				Preposition10: at
+				Preposition11: before
+				Preposition12: behind
+				Preposition13: below
+				Preposition14: beneath
+				Preposition15: beside
+				Preposition16: betwixt
+				Preposition17: beyond
+				Preposition18: by
+				Preposition19: despite
+				Preposition20: during
+				Preposition21: except
+				Preposition22: for
+				Preposition23: from
+				Preposition24: into
+				Preposition25: like
+				Preposition26: nears
+				Preposition27: of
+				Preposition28: on
+				Preposition29: opposite
+				Preposition30: over
+				Preposition31: since
+				Preposition32: than
+				Preposition33: to
+				Preposition34: toward
+				Preposition35: under
+				Preposition36: until
+				Preposition37: up
+				Preposition38: upon
+				Preposition39: with
+				Preposition40: within
+				Preposition41: without
+			}
+
+			MidnightMonolith: {
+				DisplayName: Midnight Monolith
+				Tooltip: ""
 			}
 
 			NoxiousEvocator: {
@@ -56,11 +494,6 @@ Mods: {
 				Tooltip: ""
 			}
 
-			NoxusTrophy: {
-				DisplayName: Noxus Trophy
-				Tooltip: ""
-			}
-
 			NoxusRelic: {
 				DisplayName: Noxus Relic
 				Tooltip: ""
@@ -75,50 +508,27 @@ Mods: {
 					'''
 			}
 
+			NoxusTrophy: {
+				DisplayName: Noxus Trophy
+				Tooltip: ""
+			}
+
+			NuminousDye: {
+				DisplayName: Numinous Dye
+				Tooltip: ""
+			}
+
 			OblivionRattle: {
 				DisplayName: Oblivion Rattle
 				Tooltip: ""
 			}
 
-			DeificTouch: {
-				DisplayName: Deific Touch
-				Tooltip: Reveals a light dimension behind your cursor
+			Rok: {
+				DisplayName: Rok
+				Tooltip: It's just an ordinary rock
 			}
 
-			DivineWings: {
-				DisplayName: Divine Wings
-				Tooltip:
-					'''
-					Horizontal speed: 16.67
-					Acceleration multiplier: 3.7
-					Sublime vertical speed
-					Flight time: ∞
-					'You have passed the test'
-					'''
-			}
-
-			CheatPermissionSlip: {
-				DisplayName: Cheat Permission Slip
-				Tooltip:
-					'''
-					Congratulations! Now go download the DragonLens mod
-					It's not cheating. This slip gives you permission
-					Go on. Download it.
-					Right now.
-					'''
-			}
-
-			XerocMusicBoxItem: {
-				DisplayName: Music Box (Nameless Deity)
-				Tooltip: ""
-			}
-
-			Cattail: {
-				DisplayName: Cattail
-				Tooltip: ""
-			}
-
-			BossRushStarter: {
+			Terminal: {
 				DisplayName: Terminal
 				Tooltip:
 					'''
@@ -136,27 +546,6 @@ Mods: {
 				OpenedTooltip: Its gaze is opened. You will be tested
 			}
 
-			XerocMask: {
-				DisplayName: Nameless Deity Mask
-				Tooltip: "'Your face will be 1984'd'"
-			}
-
-			XerocTrophy: {
-				DisplayName: Nameless Deity Trophy
-				Tooltip: When given a signal by wiring, the eye will remain closed by default until a player gets close
-			}
-
-			XerocRelic: {
-				DisplayName: Nameless Deity Relic
-				Tooltip: ""
-			}
-
-			EmpyreanEmberlet: {
-				DisplayName: Empyrean Emberlet
-				Tooltip: "'An infinitesimal fragment of something incomprehensible'"
-			}
-
-			# This weapon references the genesis bomb, a strong TNT-like block that had the same function as this, except in Minecraft. The 2012 pays respect to it.
 			ThePurifier: {
 				DisplayName: The Purifier
 				Tooltip:
@@ -169,39 +558,24 @@ Mods: {
 					'''
 			}
 
-			EntropicDye: {
-				DisplayName: Entropic Dye
+			XerocMask: {
+				DisplayName: Nameless Deity Mask
+				Tooltip: "'Your face will be 1984'd'"
+			}
+
+			XerocMusicBoxItem: {
+				DisplayName: Music Box (Nameless Deity)
 				Tooltip: ""
 			}
 
-			NuminousDye: {
-				DisplayName: Numinous Dye
+			XerocRelic: {
+				DisplayName: Nameless Deity Relic
 				Tooltip: ""
 			}
 
-			DivineMonolith: {
-				DisplayName: Divine Monolith
-				Tooltip: ""
-			}
-
-			GoodApple: {
-				DisplayName: Good Apple
-				Tooltip: ""
-			}
-
-			MidnightMonolith: {
-				DisplayName: Midnight Monolith
-				Tooltip: ""
-			}
-
-			EternalGardenMusicBoxItem: {
-				DisplayName: Music Box (Eternal Garden)
-				Tooltip: ""
-			}
-
-			Rok: {
-				DisplayName: Rok
-				Tooltip: It's just an ordinary rock
+			XerocTrophy: {
+				DisplayName: Nameless Deity Trophy
+				Tooltip: When given a signal by wiring, the eye will remain closed by default until a player gets close
 			}
 		}
 
@@ -241,29 +615,32 @@ Mods: {
 		}
 
 		Projectiles: {
-			DarkComet.DisplayName: Dark Comet
-			DarkFireball.DisplayName: Dark Fireball
-			DarkPortal.DisplayName: Dark Portal
-			DarkWave.DisplayName: Dark Wave
-			DistortionField.DisplayName: Distortion Field
-			GroundStompShock.DisplayName: Ground Stomp Shock
-			NightmareDeathRay.DisplayName: Nightmare Death Ray
-			NoxSpike.DisplayName: Nox Spike
-			NoxusExplosion.DisplayName: Noxus Explosion
-			NoxusGas.DisplayName: Noxus Gas
-			NoxusSprayerGas.DisplayName: Noxus Sprayer Gas
-			BabyNoxus.DisplayName: Baby Noxus
 			ArcingStarburst.DisplayName: Starburst
+			BabyNoxus.DisplayName: Baby Noxus
+			BabyXeroc.DisplayName: Baby Deity
 			BackgroundStar.DisplayName: Star
 			BookConstellation.DisplayName: Grand Wisdom
 			ClockConstellation.DisplayName: Chronos' Hand
 			ControlledStar.DisplayName: Star
 			ConvergingSupernovaEnergy.DisplayName: Supernova Plasma
+			DarkComet.DisplayName: Dark Comet
+			DarkFireball.DisplayName: Dark Fireball
+			DarkPortal.DisplayName: Dark Portal
+			DarkWave.DisplayName: Dark Wave
+			DistortionField.DisplayName: Distortion Field
 			ExplodingStar.DisplayName: Star
+			GodRayVisual.DisplayName: God Ray Visual
+			GroundStompShock.DisplayName: Ground Stomp Shock
 			LightDagger.DisplayName: Light Dagger
 			LightPortal.DisplayName: Light Portal
 			LightWave.DisplayName: Light Wave
+			NightmareDeathRay.DisplayName: Nightmare Death Ray
+			NoxSpike.DisplayName: Nox Spike
+			NoxusExplosion.DisplayName: Noxus Explosion
+			NoxusGas.DisplayName: Noxus Gas
+			NoxusSprayerGas.DisplayName: Noxus Sprayer Gas
 			Quasar.DisplayName: Quasar
+			SlowSolarSpark.DisplayName: Solar Spark
 			Starburst.DisplayName: Starburst
 			StarPatterenedStarburst.DisplayName: Starburst
 			SunFireball.DisplayName: Sun Fireball
@@ -271,18 +648,15 @@ Mods: {
 			SuperLightBeam.DisplayName: Light Deathray
 			Supernova.DisplayName: Supernova
 			SwordConstellation.DisplayName: Orion's Sword
+			SwordConstellationSlashVisual.DisplayName: Good Visual Design
 			TelegraphedLightLaserbeam.DisplayName: Light Deathray
+			TelegraphedPortalLaserbeam.DisplayName: Cosmic Burst
 			TelegraphedScreenSlice.DisplayName: Dimensional Slice
 			TelegraphedScreenSlice2.DisplayName: Dimensional Slice
 			TelegraphedStarLaserbeam.DisplayName: Solar Burst
-			TerminusProj.DisplayName: Terminus
-			GodRayVisual.DisplayName: God Ray Visual
-			WindStreakVisual.DisplayName: Wind
-			BabyXeroc.DisplayName: Baby Deity
 			ThePurifierProj.DisplayName: The Purifier
-			SwordConstellationSlashVisual.DisplayName: Good Visual Design
-			TelegraphedPortalLaserbeam.DisplayName: Cosmic Burst
-			SlowSolarSpark.DisplayName: Solar Spark
+			TerminusProj.DisplayName: Terminus
+			WindStreakVisual.DisplayName: Wind
 		}
 
 		Tiles: {
@@ -296,7 +670,7 @@ Mods: {
 			NoxusBossConfig: {
 				DisplayName: Config
 
-                PhotosensitivityMode: {
+				PhotosensitivityMode: {
 					Label: Photosensitivity Mode
 					Tooltip: Toggles effects that rely on sudden, flashing animations. This affects related config options when toggled, though they can be manually overridden if desired.
 				}
@@ -313,7 +687,7 @@ Mods: {
 				ScreenShatterEffects: {
 					Label: Screen Shatter Effects
 					Tooltip: Toggles screen shatter effects. Disable if they're too straining on the eyes.
-                }
+				}
 
 				VisualOverlayIntensity: {
 					Label: Visual Overlay Intensity

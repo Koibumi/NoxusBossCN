@@ -32,10 +32,447 @@ Mods: {
 		}
 
 		Items: {
+			Cattail: {
+				DisplayName: 香蒲
+				Tooltip: ""
+			}
+
+			CheatPermissionSlip: {
+				DisplayName: 作弊许可单
+				Tooltip:
+					'''
+					恭喜！现在去下载DragonLens mod吧
+					这不是作弊，这张单子允许你这样做
+					快点，去下载它。
+					立刻，马上。
+					'''
+			}
+
+			DeificTouch: {
+				DisplayName: 神化之触
+				Tooltip: 在光标后展露出一个光之维度
+			}
+
+			DivineMonolith: {
+				DisplayName: 圣神之石
+				Tooltip: ""
+			}
+
+			DivineWings: {
+				DisplayName: 上神之翼
+				Tooltip:
+					'''
+					水平飞行速度: 16.67
+					加速倍率: 3.7
+					卓越的垂直飞行速度
+					飞行时间: ∞
+					“你已经通过了试炼”
+					'''
+			}
+
+			EmpyreanEmberlet: {
+				DisplayName: 天界神烬
+				Tooltip: "'一块不可名状之物的无穷小的碎片'"
+
+			EntropicDye: {
+				DisplayName: 暗熵末神染料
+				Tooltip: ""
+			}
+
+			EternalGardenMusicBoxItem: {
+				DisplayName: 音乐盒（永恒花园）
+				Tooltip: ""
+			}
+
 			Genesis: {
 				DisplayName: 起源石
 				Tooltip: 召唤虚神魔卵，诺克萨斯
 				AlternateTooltip: 左键召唤暗熵终神，右键召唤虚神魔卵
+			}
+
+			GoodApple: {
+				DisplayName: Good Apple
+				Tooltip: The good apple never falls far from the good tree!
+			}
+
+			LoreNoxus: {
+				DisplayName: Noxus
+				Tooltip:
+					'''
+					[c/E3AF40:Whispers from on high dance in your ears...]
+					Press "Left Shift" to listen closer
+					'''
+				Lore:
+					'''
+					Absurd.
+					That aberration's intentions and origins are cloaked in the deepest abyss of obscurity, yet one thing is certain: 
+
+					Though neither God nor Dragon, it bears a distinguished, exalted might that only they could lay claim to.
+
+					What divine orchestration could have brought such extraordinary circumstances, unveiling the zenith of its grotesque powers?
+					Is it the hand of destiny, carefully weaving the tapestry of existence? Is it mere chance? Or is it perhaps simply an unruly display of nature's caprice?
+					Gods and Dragons... are they the full extent of all? Might greater beings such as this linger in the realms far beyond Terraria?
+					There are endless questions to be asked regarding the events that have transpired, yet scant few answers.
+					'''
+			}
+
+			LoreXeroc: {
+				DisplayName: The Nameless Deity
+				Tooltip:
+					'''
+					[c/E3AF40:Whispers from on high dance in your ears...]
+					Press "Left Shift" to listen closer
+					'''
+				Lore: ""
+				Determiner1: a
+				Determiner2: the
+				Verb1: refracts
+				Verb2: transcends
+				Verb3: divines
+				Verb4: foresees
+				Verb5: walks
+				Verb6: blazes
+				Verb7: fuses
+				Verb8: ascends
+				Verb9: traces
+				Verb10: treads
+				Verb11: glimpses
+				Verb12: succumbs
+				Verb13: discovers
+				Verb14: unlocks
+				Verb15: seeks
+				Verb16: triumphs
+				Verb17: navigates
+				Verb18: weaves
+				Verb19: resonates
+				Verb20: experiences
+				Verb21: times
+				Verb22: expands
+				Verb23: enlightens
+				Verb24: unveils
+				Verb25: births
+				Verb26: unifies
+				Verb27: embarks
+				Verb28: finds
+				Verb29: distills
+				Verb30: tests
+				Verb31: unfolds
+				Verb32: flutters
+				Verb33: graces
+				Verb34: wishes
+				Verb35: savors
+				Verb36: evades
+				Verb37: cherishes
+				Verb38: radiates
+				Verb39: perorates
+				Verb40: shines
+				Verb41: burns
+				Verb42: erases
+				Verb43: obliterates
+				Verb44: betrays
+				Verb45: accepts
+				Verb46: excises
+				Verb47: breathes
+				Verb48: projects
+				Verb49: understands
+				Verb50: bathes
+				Verb51: gasps
+				Verb52: eclipses
+				Verb53: illuminates
+				Verb54: beckons
+				Verb55: builds
+				Verb56: creates
+				Verb57: prays
+				Verb58: controls
+				Verb59: grasps
+				Verb60: flies
+				Verb61: melts
+				Verb62: dissolves
+				Verb63: repents
+				Verb64: subjugates
+				Verb65: flows
+				Verb66: decomposes
+				Verb67: energizes
+				Verb68: exempts
+				Verb69: realizes
+				Verb70: dotes
+				Verb71: drifts
+				Verb72: reels
+				Verb73: materializes
+				Verb74: generates
+				Verb75: purifies
+				Verb76: writes
+				Verb77: docks
+				Verb78: declines
+				Verb79: progenates
+				Verb80: remembers
+				Verb81: soars
+				Verb82: faces
+				Verb83: immortalizes
+				Verb84: orbits
+				Verb85: sectarianizes
+				Verb86: coalesces
+				Verb87: heals
+				Verb88: acknowledges
+				Verb89: petrifies
+				Verb90: silences
+				Verb91: freezes
+				Verb92: qualifies
+				Verb93: excels
+				Verb94: contemplates
+				Verb95: cures
+				Verb96: reanimates
+				Verb97: differentiates
+				Verb98: crawls
+				Verb99: devours
+				Verb100: terminates
+				Adjective1: ineffable
+				Adjective2: effulgent
+				Adjective3: transient
+				Adjective4: wistful
+				Adjective5: blissful
+				Adjective6: eternal
+				Adjective7: twisted
+				Adjective8: omniscient
+				Adjective9: omnipotent
+				Adjective10: benevolent
+				Adjective11: hopeful
+				Adjective12: sublime
+				Adjective13: vigorous
+				Adjective14: demoded
+				Adjective15: dispiteous
+				Adjective16: beautiful
+				Adjective17: gaudy
+				Adjective18: ephemeral
+				Adjective19: refulgent
+				Adjective20: wanton
+				Adjective21: unyielding
+				Adjective22: clandestine
+				Adjective23: wise
+				Adjective24: obdurate
+				Adjective25: insouciant
+				Adjective26: antediluvian
+				Adjective27: sacred
+				Adjective28: labyrinthine
+				Adjective29: enigmatic
+				Adjective30: introspective
+				Adjective31: nimble
+				Adjective32: distilled
+				Adjective33: intoxicating
+				Adjective34: honest
+				Adjective35: happy
+				Adjective36: excellent
+				Adjective37: apotheotic
+				Adjective38: halcyon
+				Adjective39: tranquil
+				Adjective40: peaceful
+				Adjective41: unwieldy
+				Adjective42: murderous
+				Adjective43: whimsical
+				Adjective44: blessed
+				Adjective45: edenic
+				Adjective46: cosmic
+				Adjective47: ancient
+				Adjective48: impressive
+				Adjective49: glorious
+				Adjective50: frigid
+				Adjective51: gilded
+				Adjective52: infallible
+				Adjective53: odd
+				Adjective54: devoted
+				Adjective55: fated
+				Adjective56: unsullied
+				Adjective57: grotesque
+				Adjective58: resplendent
+				Adjective59: infinite
+				Adjective60: stained
+				Adjective61: witty
+				Adjective62: flawed
+				Adjective63: eschatological
+				Adjective64: unholy
+				Adjective65: monosynaptic
+				Adjective66: episodical
+				Adjective67: inalienable
+				Adjective68: penitent
+				Adjective69: flickering
+				Adjective70: rapacious
+				Adjective71: abstract
+				Adjective72: complex
+				Adjective73: mystifying
+				Adjective74: puelline
+				Adjective75: sempiternal
+				Adjective76: zealous
+				Adjective77: ethereal
+				Adjective78: exothermic
+				Adjective79: dazzling
+				Adjective80: Pavlovian
+				Adjective81: enticing
+				Adjective82: resurrected
+				Adjective83: monochromatic
+				Adjective84: sleepy
+				Adjective85: muddled
+				Adjective86: empty
+				Adjective87: faded
+				Adjective88: ecstatic
+				Adjective89: content
+				Adjective90: dreamy
+				Adjective91: poetic
+				Adjective92: knighted
+				Adjective93: defensive
+				Adjective94: worried
+				Adjective95: hallowed
+				Adjective96: cupric
+				Adjective97: supercharged
+				Adjective98: reclusive
+				Adjective99: clever
+				Adjective100: complete
+				Noun1: cleric
+				Noun2: god
+				Noun3: being
+				Noun4: blade
+				Noun5: trial
+				Noun6: tapestry
+				Noun7: fire
+				Noun8: star
+				Noun9: ion
+				Noun10: painting
+				Noun11: nature
+				Noun12: warrior
+				Noun13: serf
+				Noun14: home
+				Noun15: digit
+				Noun16: logarithm
+				Noun17: season
+				Noun18: apple
+				Noun19: sinner
+				Noun20: word
+				Noun21: thread
+				Noun22: executioner
+				Noun23: blood
+				Noun24: nebula
+				Noun25: light
+				Noun26: cloak
+				Noun27: crown
+				Noun28: antigen
+				Noun29: slime
+				Noun30: agent
+				Noun31: wizard
+				Noun32: castle
+				Noun33: table
+				Noun34: laser
+				Noun35: yttrium
+				Noun36: brimstone
+				Noun37: terrain
+				Noun38: fruit
+				Noun39: mother
+				Noun40: priest
+				Noun41: epiphany
+				Noun42: gate
+				Noun43: interpolant
+				Noun44: wand
+				Noun45: wind
+				Noun46: pond
+				Noun47: hymn
+				Noun48: mist
+				Noun49: fortitude
+				Noun50: glade
+				Noun51: judge
+				Noun52: conquerer
+				Noun53: avarice
+				Noun54: titan
+				Noun55: cinquain
+				Noun56: destiny
+				Noun57: cynosure
+				Noun58: tree
+				Noun59: cell
+				Noun60: entropy
+				Noun61: life
+				Noun62: reaper
+				Noun63: snake
+				Noun64: ark
+				Noun65: covenant
+				Noun66: ankh
+				Noun67: insignia
+				Noun68: bell
+				Noun69: language
+				Noun70: gift
+				Noun71: saffron
+				Noun72: alchemist
+				Noun73: jaunt
+				Noun74: quadrant
+				Noun75: stamen
+				Noun76: iris
+				Noun77: censer
+				Noun78: platinum
+				Noun79: lava
+				Noun80: hand
+				Noun81: corner
+				Noun82: shadow
+				Noun83: calamity
+				Noun84: scrap
+				Noun85: spirit
+				Noun86: scale
+				Noun87: ash
+				Noun88: plasma
+				Noun89: dragon
+				Noun90: matter
+				Noun91: singularity
+				Noun92: world
+				Noun93: fossil
+				Noun94: galaxy
+				Noun95: sunshine
+				Noun96: necromancer
+				Noun97: moratorium
+				Noun98: annal
+				Noun99: time
+				Noun100: circle
+				Noun101: ogscule
+				Preposition1: about
+				Preposition2: above
+				Preposition3: across
+				Preposition4: after
+				Preposition5: against
+				Preposition6: along
+				Preposition7: among
+				Preposition8: around
+				Preposition9: as
+				Preposition10: at
+				Preposition11: before
+				Preposition12: behind
+				Preposition13: below
+				Preposition14: beneath
+				Preposition15: beside
+				Preposition16: betwixt
+				Preposition17: beyond
+				Preposition18: by
+				Preposition19: despite
+				Preposition20: during
+				Preposition21: except
+				Preposition22: for
+				Preposition23: from
+				Preposition24: into
+				Preposition25: like
+				Preposition26: nears
+				Preposition27: of
+				Preposition28: on
+				Preposition29: opposite
+				Preposition30: over
+				Preposition31: since
+				Preposition32: than
+				Preposition33: to
+				Preposition34: toward
+				Preposition35: under
+				Preposition36: until
+				Preposition37: up
+				Preposition38: upon
+				Preposition39: with
+				Preposition40: within
+				Preposition41: without
+			}
+
+			MidnightMonolith: {
+				DisplayName: 至暗之石
+				Tooltip: ""
 			}
 
 			NoxiousEvocator: {
@@ -56,11 +493,6 @@ Mods: {
 				Tooltip: ""
 			}
 
-			NoxusTrophy: {
-				DisplayName: 诺克萨斯纪念章
-				Tooltip: ""
-			}
-
 			NoxusRelic: {
 				DisplayName: 诺克萨斯圣物
 				Tooltip: ""
@@ -75,50 +507,27 @@ Mods: {
 					'''
 			}
 
+			NoxusTrophy: {
+				DisplayName: 诺克萨斯纪念章
+				Tooltip: ""
+			}
+
+			NuminousDye: {
+				DisplayName: 光辉圣神染料
+				Tooltip: ""
+			}
+
 			OblivionRattle: {
 				DisplayName: 遗忘泼浪鼓
 				Tooltip: ""
 			}
 
-			DeificTouch: {
-				DisplayName: 神化之触
-				Tooltip: 在光标后展露出一个光之维度
+			Rok: {
+				DisplayName: 石
+				Tooltip: 它只是块普通的石头
 			}
 
-			DivineWings: {
-				DisplayName: 上神之翼
-				Tooltip:
-					'''
-					水平飞行速度: 16.67
-					加速倍率: 3.7
-					卓越的垂直飞行速度
-					飞行时间: ∞
-					“你已经通过了试炼”
-					'''
-			}
-
-			CheatPermissionSlip: {
-				DisplayName: 作弊许可单
-				Tooltip:
-					'''
-					恭喜！现在去下载DragonLens mod吧
-					这不是作弊，这张单子允许你这样做
-					快点，去下载它。
-					立刻，马上。
-					'''
-			}
-
-			XerocMusicBoxItem: {
-				DisplayName: 音乐盒（无名光神）
-				Tooltip: ""
-			}
-
-			Cattail: {
-				DisplayName: 香蒲
-				Tooltip: ""
-			}
-
-			BossRushStarter: {
+			Terminal: {
 				DisplayName: 终末之石
 				Tooltip:
 					'''
@@ -136,27 +545,6 @@ Mods: {
 				OpenedTooltip: 它的眼睛睁开了，你将进行一场试炼
 			}
 
-			XerocMask: {
-				DisplayName: 无名光神面具
-				Tooltip: "'你的脸将会变成【数据删除】'"
-			}
-
-			XerocTrophy: {
-				DisplayName: 无名光神纪念章
-				Tooltip: 当接收电线发出的信号后，默认情况下眼睛将闭上，直到玩家靠近为止。
-			}
-
-			XerocRelic: {
-				DisplayName: 无名光神圣物
-				Tooltip: ""
-			}
-
-			EmpyreanEmberlet: {
-				DisplayName: 天界神烬
-				Tooltip: "'一块不可名状之物的无穷小的碎片'"
-			}
-
-			# This weapon references the genesis bomb, a strong TNT-like block that had the same function as this, except in Minecraft. The 2012 pays respect to it.
 			ThePurifier: {
 				DisplayName: 净化者
 				Tooltip:
@@ -169,39 +557,24 @@ Mods: {
 					'''
 			}
 
-			EntropicDye: {
-				DisplayName: 暗熵末神染料
+			XerocMask: {
+				DisplayName: 无名光神面具
+				Tooltip: "'你的脸将会变成【数据删除】'"
+			}
+
+			XerocMusicBoxItem: {
+				DisplayName: 音乐盒（无名光神）
 				Tooltip: ""
 			}
 
-			NuminousDye: {
-				DisplayName: 光辉圣神染料
+			XerocRelic: {
+				DisplayName: 无名光神圣物
 				Tooltip: ""
 			}
 
-			DivineMonolith: {
-				DisplayName: 圣神之石
-				Tooltip: ""
-			}
-
-			GoodApple: {
-				DisplayName: Good Apple
-				Tooltip: ""
-			}
-
-			MidnightMonolith: {
-				DisplayName: 至暗之石
-				Tooltip: ""
-			}
-
-			EternalGardenMusicBoxItem: {
-				DisplayName: 音乐盒（永恒花园）
-				Tooltip: ""
-			}
-
-			Rok: {
-				DisplayName: 石
-				Tooltip: 它只是块普通的石头
+			XerocTrophy: {
+				DisplayName: 无名光神纪念章
+				Tooltip: 当接收电线发出的信号后，默认情况下眼睛将闭上，直到玩家靠近为止。
 			}
 		}
 
@@ -234,36 +607,39 @@ Mods: {
 				SillyDeathCountSuffix: "，无伤人的拷打者"
 
 				BossChecklistIntegration: {
-					SpawnInfo: 使用[i:CalamityMod/Terminus]在它的眼睛睁开后。
+					SpawnInfo: 在[i:CalamityMod/Terminus]的眼睛睁开后，使用它。
 					DespawnMessage: "[c/FF463D:你未能通过试炼。]"
 				}
 			}
 		}
 
 		Projectiles: {
-			DarkComet.DisplayName: 暗之彗星
-			DarkFireball.DisplayName: 暗之火球
-			DarkPortal.DisplayName: 暗之门
-			DarkWave.DisplayName: 暗之浪潮
-			DistortionField.DisplayName: 扭曲力场
-			GroundStompShock.DisplayName: 撼地冲击
-			NightmareDeathRay.DisplayName: 梦魇死光
-			NoxSpike.DisplayName: 熵神尖刺
-			NoxusExplosion.DisplayName: 熵神爆破
-			NoxusGas.DisplayName: 熵神雾气
-			NoxusSprayerGas.DisplayName: 诺克萨斯喷雾雾气
-			BabyNoxus.DisplayName: 诺克萨斯宝宝
 			ArcingStarburst.DisplayName: 星爆
+			BabyNoxus.DisplayName: 诺克萨斯宝宝
+			BabyXeroc.DisplayName: 光神宝宝
 			BackgroundStar.DisplayName: 星辰
 			BookConstellation.DisplayName: 宏神之智
 			ClockConstellation.DisplayName: 柯罗诺斯之手
 			ControlledStar.DisplayName: 星辰
 			ConvergingSupernovaEnergy.DisplayName: 超新星等离子体
+			DarkComet.DisplayName: 暗之彗星
+			DarkFireball.DisplayName: 暗之火球
+			DarkPortal.DisplayName: 暗之门
+			DarkWave.DisplayName: 暗之浪潮
+			DistortionField.DisplayName: 扭曲力场
 			ExplodingStar.DisplayName: 星辰
+			GodRayVisual.DisplayName: 上帝之光
+			GroundStompShock.DisplayName: 撼地冲击
 			LightDagger.DisplayName: 光之匕首
 			LightPortal.DisplayName: 光之门
 			LightWave.DisplayName: 光之浪潮
+			NightmareDeathRay.DisplayName: 梦魇死光
+			NoxSpike.DisplayName: 熵神尖刺
+			NoxusExplosion.DisplayName: 熵神爆破
+			NoxusGas.DisplayName: 熵神雾气
+			NoxusSprayerGas.DisplayName: 诺克萨斯喷雾雾气
 			Quasar.DisplayName: 恒星
+			SlowSolarSpark.DisplayName: 耀阳火花
 			Starburst.DisplayName: 星爆
 			StarPatterenedStarburst.DisplayName: 星爆
 			SunFireball.DisplayName: 烈阳火球
@@ -271,18 +647,15 @@ Mods: {
 			SuperLightBeam.DisplayName: 光之死亡射线
 			Supernova.DisplayName: 超新星
 			SwordConstellation.DisplayName: 猎户座之剑
+			SwordConstellationSlashVisual.DisplayName: 非常好视觉设计
 			TelegraphedLightLaserbeam.DisplayName: 光之死亡射线
+			TelegraphedPortalLaserbeam.DisplayName: 寰宇爆破
 			TelegraphedScreenSlice.DisplayName: 维度裂片
 			TelegraphedScreenSlice2.DisplayName: 维度裂片
 			TelegraphedStarLaserbeam.DisplayName: 烈阳爆发
-			TerminusProj.DisplayName: 终末石
-			GodRayVisual.DisplayName: 上帝之光
-			WindStreakVisual.DisplayName: 风
-			BabyXeroc.DisplayName: 光神宝宝
 			ThePurifierProj.DisplayName: 净化者
-			SwordConstellationSlashVisual.DisplayName: 非常好视觉设计
-			TelegraphedPortalLaserbeam.DisplayName: 寰宇爆破
-			SlowSolarSpark.DisplayName: 耀阳火花
+			TerminusProj.DisplayName: 终末石
+			WindStreakVisual.DisplayName: 风
 		}
 
 		Tiles: {
@@ -296,7 +669,7 @@ Mods: {
 			NoxusBossConfig: {
 				DisplayName: Config
 
-                PhotosensitivityMode: {
+				PhotosensitivityMode: {
 					Label: Photosensitivity Mode
 					Tooltip: Toggles effects that rely on sudden, flashing animations. This affects related config options when toggled, though they can be manually overridden if desired.
 				}
@@ -313,7 +686,7 @@ Mods: {
 				ScreenShatterEffects: {
 					Label: Screen Shatter Effects
 					Tooltip: Toggles screen shatter effects. Disable if they're too straining on the eyes.
-                }
+				}
 
 				VisualOverlayIntensity: {
 					Label: Visual Overlay Intensity
