@@ -97,18 +97,18 @@ Mods: {
 			}
 
 			LoreNoxus: {
-				DisplayName: Noxus
+				DisplayName: 诺克萨斯
 				Tooltip:
 					'''
-					[c/E3AF40:Whispers from on high dance in your ears...]
-					Press "Left Shift" to listen closer
+					[c/E3AF40:寄宿其上的低语流入你的耳中……]
+					按住“左Shift”仔细聆听
 					'''
 				Lore:
 					'''
-					Absurd.
+					荒谬至极。
 					That aberration's intentions and origins are cloaked in the deepest abyss of obscurity, yet one thing is certain: 
 
-					Though neither God nor Dragon, it bears a distinguished, exalted might that only they could lay claim to.
+					虽然它既不是神明也不是巨龙，但它承载着一种只有他们才能够拥有的一种卓越而崇高的力量。
 
 					What divine orchestration could have brought such extraordinary circumstances, unveiling the zenith of its grotesque powers?
 					Is it the hand of destiny, carefully weaving the tapestry of existence? Is it mere chance? Or is it perhaps simply an unruly display of nature's caprice?
@@ -118,11 +118,11 @@ Mods: {
 			}
 
 			LoreXeroc: {
-				DisplayName: The Nameless Deity
+				DisplayName: 无名光神
 				Tooltip:
 					'''
-					[c/E3AF40:Whispers from on high dance in your ears...]
-					Press "Left Shift" to listen closer
+					[c/E3AF40:寄宿其上的低语流入你的耳中……]
+					按住“左Shift”仔细聆听
 					'''
 				Lore: ""
 				Determiner1: a
