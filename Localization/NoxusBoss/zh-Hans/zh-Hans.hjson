@@ -73,6 +73,7 @@ Mods: {
 			EmpyreanEmberlet: {
 				DisplayName: 天界神烬
 				Tooltip: "'一块不可名状之物的无穷小的碎片'"
+			}
 
 			EntropicDye: {
 				DisplayName: 暗熵末神染料
