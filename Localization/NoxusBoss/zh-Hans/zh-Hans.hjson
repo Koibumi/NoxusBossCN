@@ -93,7 +93,7 @@ Mods: {
 
 			GoodApple: {
 				DisplayName: Good Apple
-				Tooltip: The good apple never falls far from the good tree!
+				Tooltip: 好苹果不会掉在离好树很远的地方!
 			}
 
 			LoreNoxus: {
@@ -106,7 +106,7 @@ Mods: {
 				Lore:
 					'''
 					荒谬至极。
-					That aberration's intentions and origins are cloaked in the deepest abyss of obscurity, yet one thing is certain: 
+					这般畸变的意图与由来尘封于至暗的深渊底部，但有一件事可以肯定：
 
 					虽然它既不是神明也不是巨龙，但它承载着一种只有他们才能够拥有的一种卓越而崇高的力量。
 
@@ -125,58 +125,58 @@ Mods: {
 					按住“左Shift”仔细聆听
 					'''
 				Lore: ""
-				Determiner1: a
-				Determiner2: the
-				Verb1: refracts
-				Verb2: transcends
-				Verb3: divines
-				Verb4: foresees
-				Verb5: walks
-				Verb6: blazes
-				Verb7: fuses
-				Verb8: ascends
-				Verb9: traces
-				Verb10: treads
-				Verb11: glimpses
-				Verb12: succumbs
-				Verb13: discovers
-				Verb14: unlocks
-				Verb15: seeks
-				Verb16: triumphs
-				Verb17: navigates
-				Verb18: weaves
-				Verb19: resonates
-				Verb20: experiences
-				Verb21: times
-				Verb22: expands
-				Verb23: enlightens
-				Verb24: unveils
-				Verb25: births
-				Verb26: unifies
-				Verb27: embarks
-				Verb28: finds
-				Verb29: distills
-				Verb30: tests
-				Verb31: unfolds
-				Verb32: flutters
-				Verb33: graces
-				Verb34: wishes
-				Verb35: savors
-				Verb36: evades
-				Verb37: cherishes
-				Verb38: radiates
-				Verb39: perorates
-				Verb40: shines
-				Verb41: burns
-				Verb42: erases
-				Verb43: obliterates
-				Verb44: betrays
-				Verb45: accepts
-				Verb46: excises
-				Verb47: breathes
-				Verb48: projects
-				Verb49: understands
-				Verb50: bathes
+				Determiner1: 一个
+				Determiner2: 
+				Verb1: 折射在
+				Verb2: 超出了
+				Verb3: 预言了
+				Verb4: 预见了
+				Verb5: 行走于
+				Verb6: 燃烧
+				Verb7: 融合于
+				Verb8: 上升
+				Verb9: 追寻着
+				Verb10: 踏在了
+				Verb11: 瞥见了
+				Verb12: 屈服于
+				Verb13: 发现了
+				Verb14: 解锁
+				Verb15: 寻找着
+				Verb16: 战胜了
+				Verb17: 航行于
+				Verb18: 编织着
+				Verb19: 回荡着
+				Verb20: 体验了
+				Verb21: 计算着
+				Verb22: 扩大了
+				Verb23: 开导了
+				Verb24: 介绍着
+				Verb25: 诞生于
+				Verb26: 统一了
+				Verb27: 登上了
+				Verb28: 找到了
+				Verb29: 提取了
+				Verb30: 测试了
+				Verb31: 打开了
+				Verb32: 挥动着
+				Verb33: 装饰着
+				Verb34: 盼望着
+				Verb35: 鉴赏着
+				Verb36: 躲避了
+				Verb37: 爱护着
+				Verb38: 发射了
+				Verb39: 得出了
+				Verb40: 照耀了
+				Verb41: 烧尽了
+				Verb42: 抹除了
+				Verb43: 清除了
+				Verb44: 出卖了
+				Verb45: 同意了
+				Verb46: 切除了
+				Verb47: 呼出了
+				Verb48: 计划着
+				Verb49: 理解了
+				Verb50: 覆盖着
 				Verb51: gasps
 				Verb52: eclipses
 				Verb53: illuminates
@@ -227,56 +227,56 @@ Mods: {
 				Verb98: crawls
 				Verb99: devours
 				Verb100: terminates
-				Adjective1: ineffable
-				Adjective2: effulgent
-				Adjective3: transient
-				Adjective4: wistful
-				Adjective5: blissful
-				Adjective6: eternal
-				Adjective7: twisted
-				Adjective8: omniscient
-				Adjective9: omnipotent
-				Adjective10: benevolent
-				Adjective11: hopeful
-				Adjective12: sublime
-				Adjective13: vigorous
-				Adjective14: demoded
-				Adjective15: dispiteous
-				Adjective16: beautiful
-				Adjective17: gaudy
-				Adjective18: ephemeral
-				Adjective19: refulgent
-				Adjective20: wanton
-				Adjective21: unyielding
-				Adjective22: clandestine
-				Adjective23: wise
-				Adjective24: obdurate
-				Adjective25: insouciant
-				Adjective26: antediluvian
-				Adjective27: sacred
-				Adjective28: labyrinthine
-				Adjective29: enigmatic
-				Adjective30: introspective
-				Adjective31: nimble
-				Adjective32: distilled
-				Adjective33: intoxicating
-				Adjective34: honest
-				Adjective35: happy
-				Adjective36: excellent
-				Adjective37: apotheotic
-				Adjective38: halcyon
-				Adjective39: tranquil
-				Adjective40: peaceful
-				Adjective41: unwieldy
-				Adjective42: murderous
-				Adjective43: whimsical
-				Adjective44: blessed
-				Adjective45: edenic
-				Adjective46: cosmic
-				Adjective47: ancient
-				Adjective48: impressive
-				Adjective49: glorious
-				Adjective50: frigid
+				Adjective1: 不可名状的
+				Adjective2: 璀璨的
+				Adjective3: 短暂的
+				Adjective4: 伤感的
+				Adjective5: 幸福的
+				Adjective6: 永恒的
+				Adjective7: 扭曲的
+				Adjective8: 无所不知的
+				Adjective9: 无所不能的
+				Adjective10: 仁慈的
+				Adjective11: 希望的
+				Adjective12: 崇高的
+				Adjective13: 强壮的
+				Adjective14: 退环境的
+				Adjective15: 残忍的
+				Adjective16: 美丽的
+				Adjective17: 花里胡哨的
+				Adjective18: 短暂的
+				Adjective19: 灿烂的
+				Adjective20: 放荡的
+				Adjective21: 坚定的
+				Adjective22: 秘密的
+				Adjective23: 开明的
+				Adjective24: 固执的
+				Adjective25: 漫不经心的
+				Adjective26: 古老的
+				Adjective27: 神圣的
+				Adjective28: 错综复杂的
+				Adjective29: 谜一般的
+				Adjective30: 自省的
+				Adjective31: 敏捷的
+				Adjective32: 净化的
+				Adjective33: 醉人的
+				Adjective34: 坦诚的
+				Adjective35: 高兴的
+				Adjective36: 非凡的
+				Adjective37: 神化的
+				Adjective38: 太平的
+				Adjective39: 宁静的
+				Adjective40: 和平的
+				Adjective41: 笨拙的
+				Adjective42: 起杀心的
+				Adjective43: 异想天开的
+				Adjective44: 祝福的
+				Adjective45: 伊甸园的
+				Adjective46: 宇宙的
+				Adjective47: 古代的
+				Adjective48: 令人钦佩的
+				Adjective49: 光荣的
+				Adjective50: 寒冷的
 				Adjective51: gilded
 				Adjective52: infallible
 				Adjective53: odd
@@ -328,13 +328,13 @@ Mods: {
 				Adjective99: clever
 				Adjective100: complete
 				Noun1: cleric
-				Noun2: god
-				Noun3: being
+				Noun2: 神明
+				Noun3: 存在
 				Noun4: blade
 				Noun5: trial
 				Noun6: tapestry
 				Noun7: fire
-				Noun8: star
+				Noun8: 群星
 				Noun9: ion
 				Noun10: painting
 				Noun11: nature
