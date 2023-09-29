@@ -227,6 +227,55 @@ Mods: {
 				Verb98: crawls
 				Verb99: devours
 				Verb100: terminates
+				Verb101: dissevers
+				Verb102: elucidates
+				Verb103: states
+				Verb104: mourns
+				Verb105: blossoms
+				Verb106: decays
+				Verb107: accedes
+				Verb108: acquiesces
+				Verb109: sets
+				Verb110: aspires
+				Verb111: haunts
+				Verb112: dwells
+				Verb113: ponders
+				Verb114: rejects
+				Verb115: broods
+				Verb116: collapses
+				Verb117: appears
+				Verb118: weeps
+				Verb119: confesses
+				Verb120: grins
+				Verb121: palpitates
+				Verb122: unforms
+				Verb123: quivers
+				Verb124: kowtows
+				Verb125: flagellates
+				Verb126: grows
+				Verb127: pulses
+				Verb128: deceives
+				Verb130: warns
+				Verb131: nods
+				Verb132: ignores
+				Verb133: demeans
+				Verb134: surpasses
+				Verb135: composes
+				Verb136: demolishes
+				Verb137: celebrates
+				Verb138: speaks
+				Verb139: promises
+				Verb140: telegraphs
+				Verb141: performs
+				Verb142: senses
+				Verb143: anticipates
+				Verb144: annuls
+				Verb145: blows
+				Verb146: strikes
+				Verb147: emerges
+				Verb148: decides
+				Verb149: abolishes
+				Verb150: writhes
 				Adjective1: ineffable
 				Adjective2: effulgent
 				Adjective3: transient
@@ -327,6 +376,106 @@ Mods: {
 				Adjective98: reclusive
 				Adjective99: clever
 				Adjective100: complete
+				Adjective101: elven
+				Adjective102: bucolic
+				Adjective103: aged
+				Adjective104: Xeroc-blessed
+				Adjective105: efficient
+				Adjective106: callous
+				Adjective107: vivid
+				Adjective108: premature
+				Adjective109: brutal
+				Adjective110: intriguing
+				Adjective111: bizarre
+				Adjective112: unforgettable
+				Adjective113: creative
+				Adjective114: foreign
+				Adjective115: beastly
+				Adjective116: treasured
+				Adjective117: lonely
+				Adjective118: unstoppable
+				Adjective119: harmonious
+				Adjective120: hexagonal
+				Adjective121: pre-programmed
+				Adjective122: hijacked
+				Adjective123: opulent
+				Adjective124: technosapient
+				Adjective125: misdirected
+				Adjective126: knowledgeable
+				Adjective127: chivalric
+				Adjective128: eccentric
+				Adjective129: linguistic
+				Adjective130: transcribed
+				Adjective131: inaccurate
+				Adjective132: coterminous
+				Adjective133: farsighted
+				Adjective134: Plutonian
+				Adjective135: violet
+				Adjective136: tinted
+				Adjective137: pagan
+				Adjective138: obscured
+				Adjective139: infamous
+				Adjective140: stalwart
+				Adjective141: remiss
+				Adjective142: bejeweled
+				Adjective143: reverent
+				Adjective144: lurid
+				Adjective145: entombed
+				Adjective146: cloudy
+				Adjective147: Stygian
+				Adjective148: wretched
+				Adjective149: pernicious
+				Adjective150: debonair
+				Adjective151: hunted
+				Adjective152: innocent
+				Adjective153: indignant
+				Adjective154: withered
+				Adjective155: solemn
+				Adjective156: idyllic
+				Adjective157: unexpected
+				Adjective158: slanderous
+				Adjective159: inevitable
+				Adjective160: customary
+				Adjective161: silken
+				Adjective162: blind
+				Adjective163: dismal
+				Adjective164: scintillating
+				Adjective165: apropos
+				Adjective166: unobstructed
+				Adjective167: mirrored
+				Adjective168: willing
+				Adjective169: forceful
+				Adjective170: disturbed
+				Adjective171: symbolic
+				Adjective172: achromatic
+				Adjective173: inspired
+				Adjective174: legendary
+				Adjective175: natural
+				Adjective176: insular
+				Adjective177: impassioned
+				Adjective178: Hellenistic
+				Adjective179: determined
+				Adjective180: visionary
+				Adjective181: unspun
+				Adjective182: elusive
+				Adjective183: dissappointing
+				Adjective184: untested
+				Adjective185: resolute
+				Adjective186: curious
+				Adjective187: eldritch
+				Adjective188: persuasive
+				Adjective189: paralyzing
+				Adjective190: wrathful
+				Adjective191: forsaken
+				Adjective192: betrayed
+				Adjective193: pallid
+				Adjective194: insipid
+				Adjective195: malignant
+				Adjective196: temporary
+				Adjective197: grandiose
+				Adjective198: vilified
+				Adjective199: algebraic
+				Adjective200: eloquent
 				Noun1: cleric
 				Noun2: god
 				Noun3: being
@@ -427,7 +576,107 @@ Mods: {
 				Noun98: annal
 				Noun99: time
 				Noun100: circle
-				Noun101: ogscule
+				Noun101: vane
+				Noun102: leaf
+				Noun103: axel
+				Noun104: wind
+				Noun105: eye
+				Noun106: key
+				Noun107: coral
+				Noun108: stardust
+				Noun109: theremin
+				Noun110: pen
+				Noun111: mercury
+				Noun112: obsidian
+				Noun113: portrait
+				Noun114: ambrosia
+				Noun115: tiger
+				Noun116: laiche
+				Noun117: concert
+				Noun118: ritual
+				Noun119: oni
+				Noun120: mantel
+				Noun121: invention
+				Noun122: fly
+				Noun123: astigmatism
+				Noun124: robot
+				Noun125: witch
+				Noun126: sophomore
+				Noun127: nightmare
+				Noun128: glue
+				Noun129: alphabet
+				Noun130: integer
+				Noun131: farm
+				Noun132: extraterrestrial
+				Noun133: inselberg
+				Noun134: train
+				Noun135: alderman
+				Noun136: stork
+				Noun137: moon
+				Noun138: hedge
+				Noun139: sapphire
+				Noun140: commander
+				Noun141: macaw
+				Noun142: brain
+				Noun143: vassal
+				Noun144: glass
+				Noun145: cosine
+				Noun146: satellite
+				Noun147: hunter
+				Noun148: ring
+				Noun149: man
+				Noun150: shell
+				Noun151: progeny
+				Noun152: magnesium
+				Noun153: granite
+				Noun154: empire
+				Noun155: assailant
+				Noun156: aether
+				Noun157: automata
+				Noun158: rainforest
+				Noun159: gatekeeper
+				Noun160: patron
+				Noun161: specialist
+				Noun162: quid
+				Noun163: flagstone
+				Noun164: byte
+				Noun165: lightyear
+				Noun166: affection
+				Noun167: Egyptian
+				Noun168: cannon
+				Noun169: chi
+				Noun170: orator
+				Noun171: frigate
+				Noun172: boffin
+				Noun173: offspring
+				Noun174: beacon
+				Noun175: philosopher
+				Noun176: goth
+				Noun177: attuner
+				Noun178: soldier
+				Noun179: text
+				Noun180: experiment
+				Noun181: realist
+				Noun182: cloth
+				Noun183: explorer
+				Noun184: limerick
+				Noun185: gene
+				Noun186: lamp
+				Noun187: cyanide
+				Noun188: extremist
+				Noun189: maker
+				Noun190: nepenthe
+				Noun191: shore
+				Noun192: flute
+				Noun193: empress
+				Noun194: swizzle
+				Noun195: racer
+				Noun196: vagrant
+				Noun197: caregiver
+				Noun198: despot
+				Noun199: observer
+				Noun200: scientist
+				Noun201: ogscule
 				Preposition1: about
 				Preposition2: above
 				Preposition3: across
@@ -469,6 +718,23 @@ Mods: {
 				Preposition39: with
 				Preposition40: within
 				Preposition41: without
+				EasterEggSentence: Fr ong bussin
+				# This key is used for the purpose of defining the general layout of the language's grammar. Barring requirements below you can create any rules you want.
+				# This system relies on Phrase Structure Rules. It would be wise to research this independently to get a firmer grasp on how this works.
+				# In this context the rules are obviously very primitive and incapable of inferring necessary context to create natural sentences, but that is intentional.
+				# The form 'A = B, C, D ...' indicates what A should be replaced with when generating a random sentence. A is referred to as a 'keyword'.
+				# B, C, D, etc. are all possible options that the random number generator can choose from. Spacing is important, as spaces are used to delineate things in need of replacement.
+				# For this to work, a SENTENCE keyword is required (though its contents can vary), as it serves as the entry point for all text generation.
+				# DETERMINER, NOUN, PREPOSITION, ADJECTIVE, and VERB keywords are all valid, and are auto-generated in the mod's code from the various words listed nearby.
+				PhraseStructureRules:
+					'''
+					SENTENCE = SUBJECT PREDICATE OBJECT, SUBJECT PREDICATE
+					SUBJECT = NOUNPHRASE
+					PREDICATE = VERBPHRASE
+					OBJECT = NOUNPHRASE, PREPOSITION NOUNPHRASE
+					NOUNPHRASE = DETERMINER ADJECTIVE NOUN, DETERMINER NOUN
+					VERBPHRASE = VERB PREPOSITION NOUNPHRASE
+					'''
 			}
 
 			MidnightMonolith: {
