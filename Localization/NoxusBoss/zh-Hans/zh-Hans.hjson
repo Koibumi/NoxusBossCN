@@ -528,54 +528,54 @@ Mods: {
 				Noun50: 空地
 				Noun51: 法官
 				Noun52: 征服者
-				Noun53: avarice
-				Noun54: titan
-				Noun55: cinquain
-				Noun56: destiny
-				Noun57: cynosure
+				Noun53: 贪婪
+				Noun54: 巨人
+				Noun55: 五行诗
+				Noun56: 命运
+				Noun57: 焦点
 				Noun58: 树木
 				Noun59: 细胞
-				Noun60: entropy
+				Noun60: 熵
 				Noun61: 生命
-				Noun62: reaper
+				Noun62: 收割者
 				Noun63: 蛇
 				Noun64: 方舟
-				Noun65: covenant
-				Noun66: ankh
-				Noun67: insignia
-				Noun68: bell
-				Noun69: language
+				Noun65: 协议
+				Noun66: 安卡
+				Noun67: 徽章
+				Noun68: 铃声
+				Noun69: 语言
 				Noun70: 礼物
-				Noun71: saffron
-				Noun72: alchemist
-				Noun73: jaunt
-				Noun74: quadrant
-				Noun75: stamen
-				Noun76: iris
-				Noun77: censer
-				Noun78: platinum
-				Noun79: lava
+				Noun71: 藏红花
+				Noun72: 炼金术士
+				Noun73: 旅行
+				Noun74: 四分仪
+				Noun75: 雄蕊
+				Noun76: 虹膜
+				Noun77: 香炉
+				Noun78: 铂金
+				Noun79: 岩浆
 				Noun80: 手
-				Noun81: corner
-				Noun82: shadow
+				Noun81: 角落
+				Noun82: 暗影
 				Noun83: 灾厄
-				Noun84: scrap
+				Noun84: 废料
 				Noun85: 魂灵
-				Noun86: scale
-				Noun87: ash
-				Noun88: plasma
+				Noun86: 大小
+				Noun87: 灰烬
+				Noun88: 等离子体
 				Noun89: 巨龙
-				Noun90: matter
-				Noun91: singularity
+				Noun90: 物质
+				Noun91: 奇点
 				Noun92: 世界
-				Noun93: fossil
-				Noun94: galaxy
-				Noun95: sunshine
-				Noun96: necromancer
-				Noun97: moratorium
-				Noun98: annal
+				Noun93: 化石
+				Noun94: 银河
+				Noun95: 阳光
+				Noun96: 巫师
+				Noun97: 暂停
+				Noun98: 年鉴
 				Noun99: 时间
-				Noun100: circle
+				Noun100: 圆环
 				Noun101: vane
 				Noun102: leaf
 				Noun103: axel
@@ -718,7 +718,7 @@ Mods: {
 				Preposition39: with
 				Preposition40: within
 				Preposition41: without
-				EasterEggSentence: Fr ong bussin
+				EasterEggSentence: 是的，虫潮开荒摸了
 				# This key is used for the purpose of defining the general layout of the language's grammar. Barring requirements below you can create any rules you want.
 				# This system relies on Phrase Structure Rules. It would be wise to research this independently to get a firmer grasp on how this works.
 				# In this context the rules are obviously very primitive and incapable of inferring necessary context to create natural sentences, but that is intentional.
