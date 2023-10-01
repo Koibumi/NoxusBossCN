@@ -1,8 +1,6 @@
 using Terraria.ModLoader;
 
-namespace NoxusBossCN
-{
-	public class NoxusBossCN : Mod
-	{
-	}
+namespace NoxusBossCN {
+    public class NoxusBossCN : Mod {
+    }
 }
