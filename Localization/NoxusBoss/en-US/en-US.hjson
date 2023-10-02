@@ -85,6 +85,18 @@ Mods: {
 				Tooltip: ""
 			}
 
+			FakeTerminus: {
+				DisplayName: Terminus
+				BaseTooltip: An impossibly old artifact, locked away at the bottom of the abyss in an act of protection
+				UnopenedTooltip: Its gaze is closed
+				OpenedTooltip: Its gaze is opened. You will be tested
+				Tooltip:
+					'''
+					Replaced
+					Replaced2
+					'''
+			}
+
 			Genesis: {
 				DisplayName: Genesis
 				Tooltip: Summons The Godless Spawn, Noxus
@@ -806,12 +818,6 @@ Mods: {
 					'''
 			}
 
-			Terminus: {
-				BaseTooltip: An impossibly old artifact, locked away at the bottom of the abyss in an act of protection
-				UnopenedTooltip: Its gaze is closed
-				OpenedTooltip: Its gaze is opened. You will be tested
-			}
-
 			ThePurifier: {
 				DisplayName: The Purifier
 				Tooltip:
@@ -1007,6 +1013,12 @@ Mods: {
 				'wavedash.ppt'
 				By Lena Raine
 				'''
+			XerocStairwayText1: Welcome, usurper.
+			XerocStairwayText2: In solitude, only you behold the heavenly splendor enveloping this realm.
+			XerocStairwayText3: Your presence here has been ordained, so that you might fathom your destiny.
+			XerocStairwayText4: The Dark One drifts in your domain. It is incumbent upon you to conquer it.
+			XerocStairwayText5: Once triumphant, your fate shall interlace with mine once more, and you will be tested.
+			XerocStairwayText6: Good luck.
 		}
 
 		PlayerDeathMessages: {

@@ -85,6 +85,18 @@ Mods: {
 				Tooltip: ""
 			}
 
+			FakeTerminus: {
+				DisplayName: Terminus
+				BaseTooltip: An impossibly old artifact, locked away at the bottom of the abyss in an act of protection
+				UnopenedTooltip: Its gaze is closed
+				OpenedTooltip: Its gaze is opened. You will be tested
+				Tooltip:
+					'''
+					Replaced
+					Replaced2
+					'''
+			}
+
 			Genesis: {
 				DisplayName: 起源石
 				Tooltip: 召唤虚神魔卵，诺克萨斯
@@ -806,12 +818,6 @@ Mods: {
 					'''
 			}
 
-			Terminus: {
-				BaseTooltip: 一件不可思议的古老造物，其被尘封深渊底部以进行保护
-				UnopenedTooltip: 它的眼睛闭上了
-				OpenedTooltip: 它的眼睛睁开了，你将进行一场试炼
-			}
-
 			ThePurifier: {
 				DisplayName: 净化者
 				Tooltip:
@@ -1007,6 +1013,12 @@ Mods: {
 				'wavedash.ppt'
 				作者：Lena Raine
 				'''
+			XerocStairwayText1: Welcome, usurper.
+			XerocStairwayText2: In solitude, only you behold the heavenly splendor enveloping this realm.
+			XerocStairwayText3: Your presence here has been ordained, so that you might fathom your destiny.
+			XerocStairwayText4: The Dark One drifts in your domain. It is incumbent upon you to conquer it.
+			XerocStairwayText5: Once triumphant, your fate shall interlace with mine once more, and you will be tested.
+			XerocStairwayText6: Good luck.
 		}
 
 		PlayerDeathMessages: {
