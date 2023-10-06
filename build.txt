@@ -1,6 +1,6 @@
-﻿displayName = 灾厄Mod-汉化补丁
-author = Kcovin&灾厄维基汉化组
-version = 3.0.3
+﻿displayName = 众神之怒Mod-汉化补丁
+author = 白衬衫&灾厄维基汉化组
+version = 1.0
 modReferences = NoxusBoss
 buildIgnore = *.csproj, compile_temp\*, obj\*, bin\*, .vs\*, lib\*
 side=client
