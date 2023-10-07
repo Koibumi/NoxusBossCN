@@ -940,7 +940,7 @@ Mods: {
 
 		Configs: {
 			NoxusBossConfig: {
-				DisplayName: Config
+				DisplayName: 配置
 
 				PhotosensitivityMode: {
 					Label: Photosensitivity Mode
@@ -1003,7 +1003,7 @@ Mods: {
 				然后是从上到下的垂直方向。然后穿过整个沙漠的所有“集群”，再然后穿过集群内部的所有物块。
 				然而，我将这种效率低下的生成方式归结于mod作者们，而不是原版游戏（我也对此感到内疚）。
 				在过去，我常用的奇怪做法是使用递归（也就是调用自身的函数，这解释起来有点奇怪）来计算硫磺海给定区域内所有的水，然后重复多次。
-				aaaaa，这......简直是一团糟。
+				呃啊，这......简直是一团糟。
 				无论如何！我很想继续说下去，但你的世界估计已经被彻底抹去了，我可不想说到一半被打断！
 				下次你有世界要重置时，我会再给你放一次这段独白。回头见！
 				'''
@@ -1013,12 +1013,12 @@ Mods: {
 				'wavedash.ppt'
 				作者：Lena Raine
 				'''
-			XerocStairwayText1: Welcome, usurper.
-			XerocStairwayText2: In solitude, only you behold the heavenly splendor enveloping this realm.
-			XerocStairwayText3: Your presence here has been ordained, so that you might fathom your destiny.
-			XerocStairwayText4: The Dark One drifts in your domain. It is incumbent upon you to conquer it.
-			XerocStairwayText5: Once triumphant, your fate shall interlace with mine once more, and you will be tested.
-			XerocStairwayText6: Good luck.
+			XerocStairwayText1: 欢迎，篡位者。
+			XerocStairwayText2: 在孤独中，唯有你能看到笼罩在这片领域天堂般的辉煌景象。
+			XerocStairwayText3: 你命中注定来到此地，只有这样，你方可了解你的命运。
+			XerocStairwayText4: 黑暗者在你的领地内游荡。将其征服是你义不容辞的责任。
+			XerocStairwayText5: 一旦胜利，你的命运将再次与我的命运交织在一起，你将受到一场试炼。
+			XerocStairwayText6: 祝你好运。
 		}
 
 		PlayerDeathMessages: {
