@@ -86,7 +86,7 @@ Mods: {
 			}
 
 			FakeTerminus: {
-				DisplayName: Terminus
+				DisplayName: 终末石
 				BaseTooltip: An impossibly old artifact, locked away at the bottom of the abyss in an act of protection
 				UnopenedTooltip: Its gaze is closed
 				OpenedTooltip: Its gaze is opened. You will be tested
@@ -1013,11 +1013,11 @@ Mods: {
 				'wavedash.ppt'
 				作者：Lena Raine
 				'''
-			XerocStairwayText1: 欢迎，篡位者。
-			XerocStairwayText2: 在孤独中，唯有你能看到笼罩在这片领域天堂般的辉煌景象。
-			XerocStairwayText3: 你命中注定来到此地，只有这样，你方可了解你的命运。
-			XerocStairwayText4: 黑暗者在你的领地内游荡。将其征服是你义不容辞的责任。
-			XerocStairwayText5: 一旦胜利，你的命运将再次与我的命运交织在一起，你将受到一场试炼。
+			XerocStairwayText1: 欢迎，僭越者。
+			XerocStairwayText2: 在孤独中，唯有你能见证笼罩在这片领域天堂般的辉煌。
+			XerocStairwayText3: 你命中注定来到此地，只有这样，你才方可了解你的命运。
+			XerocStairwayText4: 黑暗之主在你的领地内游荡，将其征服是你义不容辞的责任。
+			XerocStairwayText5: 一旦胜利，你的命运将再次与我的命运交织在一起，而你将受到试炼。
 			XerocStairwayText6: 祝你好运。
 		}
 
