@@ -25,9 +25,14 @@ Mods: {
 				Description: He's a smol lad now
 			}
 
-			BabyXerocBuff: {
-				DisplayName: Nameless Deity
-				Description: Regardless of its disconcerting appearance, it's benevolent
+			BlackHolePetbuff: {
+				DisplayName: Black Hole
+				Description: The infinite cosine distills behind a blessed cinquain
+			}
+
+			StarPetBuff: {
+				DisplayName: Star
+				Description: The light shall guide you
 			}
 		}
 
@@ -70,9 +75,9 @@ Mods: {
 					'''
 			}
 
-			EmpyreanEmberlet: {
-				DisplayName: Empyrean Emberlet
-				Tooltip: "'An infinitesimal fragment of something incomprehensible'"
+			BlackHole: {
+				DisplayName: Black Hole
+				Tooltip: "'It's literally just a black hole'"
 			}
 
 			EntropicDye: {
@@ -267,6 +272,7 @@ Mods: {
 				Verb126: grows
 				Verb127: pulses
 				Verb128: deceives
+				Verb129: strikes
 				Verb130: warns
 				Verb131: nods
 				Verb132: ignores
@@ -849,6 +855,11 @@ Mods: {
 				DisplayName: Nameless Deity Trophy
 				Tooltip: When given a signal by wiring, the eye will remain closed by default until a player gets close
 			}
+
+			Starseed: {
+				DisplayName: Starseed
+				Tooltip: ""
+			}
 		}
 
 		NPCs: {
@@ -889,8 +900,8 @@ Mods: {
 		Projectiles: {
 			ArcingStarburst.DisplayName: Starburst
 			BabyNoxus.DisplayName: Baby Noxus
-			BabyXeroc.DisplayName: Baby Deity
 			BackgroundStar.DisplayName: Star
+			BlackHole.DisplayName: Black Hole
 			BookConstellation.DisplayName: Grand Wisdom
 			ClockConstellation.DisplayName: Chronos' Hand
 			ControlledStar.DisplayName: Star
@@ -929,6 +940,8 @@ Mods: {
 			ThePurifierProj.DisplayName: The Purifier
 			TerminusProj.DisplayName: Terminus
 			WindStreakVisual.DisplayName: Wind
+			BlackHolePet.DisplayName: Black Hole Pet
+			StarPet.DisplayName: Star
 		}
 
 		Tiles: {
@@ -1019,6 +1032,15 @@ Mods: {
 			XerocStairwayText4: The Dark One drifts in your domain. It is incumbent upon you to conquer it.
 			XerocStairwayText5: Once triumphant, your fate shall interlace with mine once more, and you will be tested.
 			XerocStairwayText6: Good luck.
+			OgsculeDontAnnoyCalDevsText: This ogscule effect is not added by the base Calamity Mod. Don't annoy their developers about it.
+		}
+
+		Colors: {
+			CattailAnimationTextHex: 6FA024
+			NoxusTextHex: 745CBC
+			PurifierWarningTextHex: F00448
+			VanillaEventTextHex: 32FF82
+			XerocTextHex: FF3F5D
 		}
 
 		PlayerDeathMessages: {

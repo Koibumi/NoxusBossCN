@@ -25,9 +25,14 @@ Mods: {
 				Description: 他现在是个小家伙了
 			}
 
-			BabyXerocBuff: {
-				DisplayName: 无名光神
-				Description: 不管它的外表如何令人不安，它仍是慈爱的
+			BlackHolePetbuff: {
+				DisplayName: Black Hole
+				Description: The infinite cosine distills behind a blessed cinquain
+			}
+
+			StarPetBuff: {
+				DisplayName: Star
+				Description: The light shall guide you
 			}
 		}
 
@@ -70,9 +75,9 @@ Mods: {
 					'''
 			}
 
-			EmpyreanEmberlet: {
-				DisplayName: 天界神烬
-				Tooltip: “一块不可名状之物的无穷小的碎片”
+			BlackHole: {
+				DisplayName: Black Hole
+				Tooltip: "'It's literally just a black hole'"
 			}
 
 			EntropicDye: {
@@ -87,9 +92,9 @@ Mods: {
 
 			FakeTerminus: {
 				DisplayName: 终末石
-				BaseTooltip: An impossibly old artifact, locked away at the bottom of the abyss in an act of protection
-				UnopenedTooltip: Its gaze is closed
-				OpenedTooltip: Its gaze is opened. You will be tested
+				BaseTooltip: 一件不可思议的古老造物，其被尘封深渊底部以进行保护
+				UnopenedTooltip: 它的眼睛闭上了
+				OpenedTooltip: 它的眼睛睁开了，你将进行一场试炼
 				Tooltip:
 					'''
 					Replaced
@@ -267,6 +272,7 @@ Mods: {
 				Verb126: grows
 				Verb127: pulses
 				Verb128: deceives
+				Verb129: strikes
 				Verb130: warns
 				Verb131: nods
 				Verb132: ignores
@@ -849,6 +855,11 @@ Mods: {
 				DisplayName: 无名光神纪念章
 				Tooltip: 当接收电线发出的信号后，默认情况下眼睛将闭上，直到玩家靠近为止。
 			}
+
+			Starseed: {
+				DisplayName: Starseed
+				Tooltip: ""
+			}
 		}
 
 		NPCs: {
@@ -889,8 +900,8 @@ Mods: {
 		Projectiles: {
 			ArcingStarburst.DisplayName: 星爆
 			BabyNoxus.DisplayName: 诺克萨斯宝宝
-			BabyXeroc.DisplayName: 光神宝宝
 			BackgroundStar.DisplayName: 星辰
+			BlackHole.DisplayName: Black Hole
 			BookConstellation.DisplayName: 宏神之智
 			ClockConstellation.DisplayName: 柯罗诺斯之手
 			ControlledStar.DisplayName: 星辰
@@ -929,6 +940,8 @@ Mods: {
 			ThePurifierProj.DisplayName: 净化者
 			TerminusProj.DisplayName: 终末石
 			WindStreakVisual.DisplayName: 风
+			BlackHolePet.DisplayName: Black Hole Pet
+			StarPet.DisplayName: Star
 		}
 
 		Tiles: {
@@ -1019,6 +1032,15 @@ Mods: {
 			XerocStairwayText4: 黑暗之主在你的领地内游荡，将其征服是你义不容辞的责任。
 			XerocStairwayText5: 一旦胜利，你的命运将再次与我的命运交织在一起，而你将受到试炼。
 			XerocStairwayText6: 祝你好运。
+			OgsculeDontAnnoyCalDevsText: This ogscule effect is not added by the base Calamity Mod. Don't annoy their developers about it.
+		}
+
+		Colors: {
+			CattailAnimationTextHex: 6FA024
+			NoxusTextHex: 745CBC
+			PurifierWarningTextHex: F00448
+			VanillaEventTextHex: 32FF82
+			XerocTextHex: FF3F5D
 		}
 
 		PlayerDeathMessages: {
