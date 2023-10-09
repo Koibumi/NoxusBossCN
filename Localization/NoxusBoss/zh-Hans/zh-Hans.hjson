@@ -77,7 +77,7 @@ Mods: {
 
 			BlackHole: {
 				DisplayName: 黑洞
-				Tooltip: "'它是个黑洞，字面意义上的'"
+				Tooltip: “它是个黑洞，字面意义上的”
 			}
 
 			EntropicDye: {
