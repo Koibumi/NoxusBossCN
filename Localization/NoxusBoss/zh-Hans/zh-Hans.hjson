@@ -594,8 +594,8 @@ Mods: {
 				Noun98: 年鉴
 				Noun99: 时间
 				Noun100: 圆环
-				Noun101: vane
-				Noun102: leaf
+				Noun101: 叶片
+				Noun102: 落叶
 				Noun103: axel
 				Noun104: wind
 				Noun105: eye
@@ -757,7 +757,7 @@ Mods: {
 
 			MidnightMonolith: {
 				DisplayName: 至暗之石
-				Tooltip: Can be worn as a vanity accessory
+				Tooltip: 可作为时装饰品携带
 			}
 
 			NoxiousEvocator: {
@@ -857,7 +857,7 @@ Mods: {
 			}
 
 			Starseed: {
-				DisplayName: 星辰之种
+				DisplayName: 恒星之种
 				Tooltip: ""
 			}
 		}
@@ -940,10 +940,10 @@ Mods: {
 			ThePurifierProj.DisplayName: 净化者
 			TerminusProj.DisplayName: 终末石
 			WindStreakVisual.DisplayName: 风
-			BlackHolePet.DisplayName: Black Hole Pet
-			StarPet.DisplayName: Star
-			LightSlashTelegraph.DisplayName: Light Slash Telegraph
-			LightSlash.DisplayName: Light Slash
+			BlackHolePet.DisplayName: 黑洞宠物
+			StarPet.DisplayName: 恒星
+			LightSlashTelegraph.DisplayName: 光斩预判线
+			LightSlash.DisplayName: 光斩
 		}
 
 		Tiles: {
