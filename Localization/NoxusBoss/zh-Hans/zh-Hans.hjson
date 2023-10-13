@@ -60,7 +60,7 @@ Mods: {
 
 			DivineMonolith: {
 				DisplayName: 圣神之石
-				Tooltip: ""
+				Tooltip: Can be worn as a vanity accessory
 			}
 
 			DivineWings: {
@@ -757,7 +757,7 @@ Mods: {
 
 			MidnightMonolith: {
 				DisplayName: 至暗之石
-				Tooltip: ""
+				Tooltip: Can be worn as a vanity accessory
 			}
 
 			NoxiousEvocator: {
@@ -942,6 +942,8 @@ Mods: {
 			WindStreakVisual.DisplayName: 风
 			BlackHolePet.DisplayName: Black Hole Pet
 			StarPet.DisplayName: Star
+			LightSlashTelegraph.DisplayName: Light Slash Telegraph
+			LightSlash.DisplayName: Light Slash
 		}
 
 		Tiles: {
