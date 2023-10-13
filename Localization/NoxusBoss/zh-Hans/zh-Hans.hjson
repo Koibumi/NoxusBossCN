@@ -60,7 +60,7 @@ Mods: {
 
 			DivineMonolith: {
 				DisplayName: 圣神之石
-				Tooltip: Can be worn as a vanity accessory
+				Tooltip: 可作为时装饰品携带
 			}
 
 			DivineWings: {
@@ -997,7 +997,7 @@ Mods: {
 			XerocNoxusSprayerTip: 别这样做。
 			XerocStatusText: 你已经通过了试炼。
 			XerocStatusPercentageText: 你已经通过了试炼：
-			CattailText: 香 蒲 已 放 置！
+			CattailText: CATTAIL PLACED!
 			PurifierMultiplayerUseAlertText: 净化者已由｛0｝部署，世界将在15秒内重置。
 			PurifierEntertainingRantText:
 				'''
