@@ -27,7 +27,7 @@ Mods: {
 
 			BlackHolePetbuff: {
 				DisplayName: 黑洞
-				Description: The infinite cosine distills behind a blessed cinquain
+				Description: 无尽的余弦从神圣的五行诗后提取
 			}
 
 			StarPetBuff: {
@@ -142,9 +142,9 @@ Mods: {
 					按住“左Shift”仔细聆听
 					'''
 				Lore: ""
-				Determiner1: 一个
-				Determiner2: Verb1: 折射在
-				// Verb1: refracts
+				Determiner1:  
+				Determiner2:  
+				Verb1: 折射在
 				Verb2: 超出了
 				Verb3: 预言了
 				Verb4: 预见了
@@ -1034,7 +1034,7 @@ Mods: {
 			XerocStairwayText4: 黑暗之主在你的领地内游荡，将其征服是你义不容辞的责任。
 			XerocStairwayText5: 一旦胜利，你的命运将再次与我的命运交织在一起，而你将受到试炼。
 			XerocStairwayText6: 祝你好运。
-			OgsculeDontAnnoyCalDevsText: This ogscule effect is not added by the base Calamity Mod. Don't annoy their developers about it.
+			OgsculeDontAnnoyCalDevsText: 这个ogscule的效果不是灾厄本体加的，不要拿这个去打扰他们的开发者。
 		}
 
 		Colors: {
