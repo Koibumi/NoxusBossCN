@@ -31,8 +31,8 @@ Mods: {
 			}
 
 			StarPetBuff: {
-				DisplayName: 星辰
-				Description: 光将指明你前进的方向
+				DisplayName: 恒星
+				Description: 光明将指明你前进的方向
 			}
 		}
 
@@ -194,9 +194,9 @@ Mods: {
 				Verb48: 计划着
 				Verb49: 理解了
 				Verb50: 覆盖着
-				Verb51: gasps
-				Verb52: eclipses
-				Verb53: illuminates
+				Verb51: 喘着
+				Verb52: 遮住了
+				Verb53: 照亮了
 				Verb54: beckons
 				Verb55: builds
 				Verb56: creates
