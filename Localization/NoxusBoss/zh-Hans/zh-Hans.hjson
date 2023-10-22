@@ -142,8 +142,8 @@ Mods: {
 					按住“左Shift”仔细聆听
 					'''
 				Lore: ""
-				Determiner1:  
-				Determiner2:  
+				Determiner1: 1
+				Determiner2: 2
 				Verb1: 折射在
 				Verb2: 超出了
 				Verb3: 预言了
@@ -958,27 +958,27 @@ Mods: {
 				DisplayName: 配置
 
 				PhotosensitivityMode: {
-					Label: Photosensitivity Mode
-					Tooltip: Toggles effects that rely on sudden, flashing animations. This affects related config options when toggled, though they can be manually overridden if desired.
+					Label: 光敏模式
+					Tooltip: 开关突然闪屏的动画效果。开关该配置时会影响相关的选项，尽管如果需要的话可以手动覆盖它们。
 				}
 
 				ScreenShakeIntensity: {
-					Label: Screen Shake Intensity
+					Label: 屏幕抖动强度
 					Tooltip:
 						'''
-						Changes the intensity of screen shake effects. At zero, all screen shake effects induced by this mod are disabled.
-						If Calamity's config disallows screen shake, this config is set to zero.
+						更改屏幕抖动效果的强度。强度为0时，所有该mod引起的屏幕抖动效果都将被禁用。
+						如果灾厄的配置禁止了屏幕抖动，此强度将直接设置为0。
 						'''
 				}
 
 				ScreenShatterEffects: {
-					Label: Screen Shatter Effects
-					Tooltip: Toggles screen shatter effects. Disable if they're too straining on the eyes.
+					Label: 碎屏效果
+					Tooltip: 启用碎屏效果，如果它会伤害到你眼睛的话请禁用它。
 				}
 
 				VisualOverlayIntensity: {
-					Label: Visual Overlay Intensity
-					Tooltip: Changes the intensity of visual overlays such as blur and chromatic aberration.
+					Label: 视觉叠加强度
+					Tooltip: 调整视觉叠加的强度，比如模糊和色差。
 				}
 			}
 		}
