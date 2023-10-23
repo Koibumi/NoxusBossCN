@@ -4,13 +4,13 @@ Mods: {
 			EntropicGod: 无法描述的不可名状之存在。
 			NoxusEgg: 由纯粹黑暗构成的异常之卵。无数个世纪以来，它一直在耐心的等待着孵化。
 			ItemDropConditions.FirstTimeExclusive: 仅在首次击败时掉落。
-			XerocBoss1: Creation.
-			XerocBoss2: Shining light.
-			XerocBoss3: Celestial interweavings.
-			XerocBoss4: Power.
-			XerocBoss5: Unending.
-			XerocBoss6: The Maker.
-			XerocBoss7: Omniscience.
+			XerocBoss1: 创世。
+			XerocBoss2: 璀璨之光。
+			XerocBoss3: 天界的交织。
+			XerocBoss4: 神力。
+			XerocBoss5: 无穷无尽。
+			XerocBoss6: 制造者。
+			XerocBoss7: 全知之神。
 		}
 
 		Biomes: {
@@ -213,9 +213,9 @@ Mods: {
 				Verb51: 喘着
 				Verb52: 遮住了
 				Verb53: 照亮了
-				Verb54: beckons
-				Verb55: builds
-				Verb56: creates
+				Verb54: 招手示意着
+				Verb55: 构建了
+				Verb56: 创造了
 				Verb57: prays
 				Verb58: controls
 				Verb59: grasps
@@ -1062,9 +1062,9 @@ Mods: {
 		}
 		
 		FannyDialog: {
-			StairwayText1: 阶梯？！这是从哪来的？其他东西呢！让我看看能不能找到这方面的资料……
+			StairwayText1: 阶梯？！这是从哪来的？其他东西呢？让我看看能不能找到这方面的资料……
 			StairwayText2: 电子游戏里的阶梯，看起来没有尽头……
-			StairwayText3: 哦！我找到了一些关于“BLJ”的东西！你可以试一下米妮？
+			StairwayText3: 哦！我找到了一些关于“BLJ”的东西！你可以试一下它？
 			StairwayText4: 等等，那来自另一个游戏……
 			StairwayText5: 好吧，继续往上走！总有什么事会发生的……？
 			StairwayTextTop1: 等等，爹？！！是你吗？？？
