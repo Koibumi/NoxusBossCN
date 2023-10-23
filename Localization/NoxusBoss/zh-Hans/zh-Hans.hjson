@@ -929,13 +929,13 @@ Mods: {
 			DarkWave.DisplayName: 暗之浪潮
 			DistortionField.DisplayName: 扭曲力场
 			ExplodingStar.DisplayName: 星辰
-			FallingGalaxy.DisplayName: Newborn Galaxy
+			FallingGalaxy.DisplayName: 新生之银河
 			GodRayVisual.DisplayName: 上帝之光
 			GroundStompShock.DisplayName: 撼地冲击
 			LightDagger.DisplayName: 光之匕首
 			LightPortal.DisplayName: 光之门
-			LightSlash.DisplayName: Light Slash
-			LightSlashTelegraph.DisplayName: Light Slash Telegraph
+			LightSlash.DisplayName: 光之斩击
+			LightSlashTelegraph.DisplayName: 光之斩击预警线
 			LightWave.DisplayName: 光之浪潮
 			NightmareDeathRay.DisplayName: 梦魇死光
 			NoxSpike.DisplayName: 熵神尖刺
@@ -959,7 +959,7 @@ Mods: {
 			TelegraphedStarLaserbeam.DisplayName: 烈阳爆发
 			ThePurifierProj.DisplayName: 净化者
 			TerminusProj.DisplayName: 终末石
-			VergilScreenSlice.DisplayName: Judgement Cut
+			VergilScreenSlice.DisplayName: 审判斩切
 			WindStreakVisual.DisplayName: 风
 		}
 
@@ -1009,7 +1009,7 @@ Mods: {
 			TerminusHintLine2: 现在，去找到终末石，你的最终试炼就在眼前。
 			XerocEnterGardenText: 你的最终试炼开始了。
 			XerocEndScreenText: 你已经通过了试炼。
-			XerocEndScreenSkipText: Press ESCAPE to not get sent to the title screen!
+			XerocEndScreenSkipText: 按住ESCAPE键将不会被送到标题页面！
 			XerocPlayerDeathText: 你未能通过试炼。
 			XerocEndScreenMainMenuTip: 你已经通过了试炼。你已经通过了试炼。你已经通过了试炼。你已经通过了试炼。你已经通过了试炼。你已经通过了试炼。你已经通过了试炼。你已经通过了试炼。你已经通过了试炼。你已经通过了试炼。
 			XerocNoxusSprayerTip: 别这样做。
@@ -1052,12 +1052,12 @@ Mods: {
 			XerocStairwayText4: 黑暗之主在你的领地内游荡，将其征服是你义不容辞的责任。
 			XerocStairwayText5: 一旦胜利，你的命运将再次与我的命运交织在一起，而你将受到试炼。
 			XerocStairwayText6: 祝你好运。
-			XerocStairwayTextFanny1: Welcome, usurpe-
-			XerocStairwayTextFanny2: Wait, Fanny? What the hell are you doing here?! I thought I disowned you!
-			XerocStairwayTextFanny3: Uhhhhhhhhhhhhh, no.
-			XerocStairwayTextFanny4: Anyway, uh, you. Go kill Noxus.
-			XerocStairwayTextFanny5: We'll... fight in my garden when you're done, I guess?
-			XerocStairwayTextFanny6: Please don't bring Fanny with you.
+			XerocStairwayTextFanny1: 欢迎，僭越—
+			XerocStairwayTextFanny2: 等等，Fanny？你他妈在这干什么？！我以为我已经跟你断绝关系了！
+			XerocStairwayTextFanny3: 啊啊啊啊啊啊啊啊，不不不不不。
+			XerocStairwayTextFanny4: 不管怎样，呃，你，去杀了诺克萨斯。
+			XerocStairwayTextFanny5: 我想，我们将……在我的花园里打一架，在你完事之后？
+			XerocStairwayTextFanny6: 别把Fanny一起带过来，好吗。
 			OgsculeDontAnnoyCalDevsText: 这个ogscule的效果不是灾厄本体加的，不要拿这个去打扰他们的开发者。
 		}
 		
