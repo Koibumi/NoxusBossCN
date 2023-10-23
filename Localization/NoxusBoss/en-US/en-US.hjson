@@ -3,8 +3,14 @@ Mods: {
 		Bestiary: {
 			EntropicGod: A fathomless being beyond description.
 			NoxusEgg: An anomalous egg of pure darkness. For countless eons it has been patiently waiting to hatch.
-			XerocBoss: The cosmic creator.
 			ItemDropConditions.FirstTimeExclusive: Only drops once.
+			XerocBoss1: Creation.
+			XerocBoss2: Shining light.
+			XerocBoss3: Celestial interweavings.
+			XerocBoss4: Power.
+			XerocBoss5: Unending.
+			XerocBoss6: The Maker.
+			XerocBoss7: Omniscience.
 		}
 
 		Biomes: {
@@ -110,7 +116,17 @@ Mods: {
 
 			GoodApple: {
 				DisplayName: Good Apple
-				Tooltip: The good apple never falls far from the good tree!
+				Tooltip:
+					'''
+					The good apple never falls far from the good tree!
+					You must pass the test
+					'''
+				TooltipPostXeroc:
+					'''
+					The good apple never falls far from the good tree!
+					Grants 1 extra max life
+					May be used an unlimited number of times
+					'''
 			}
 
 			LoreNoxus: {
@@ -902,6 +918,7 @@ Mods: {
 			BabyNoxus.DisplayName: Baby Noxus
 			BackgroundStar.DisplayName: Star
 			BlackHole.DisplayName: Black Hole
+			BlackHolePet.DisplayName: Black Hole
 			BookConstellation.DisplayName: Grand Wisdom
 			ClockConstellation.DisplayName: Chronos' Hand
 			ControlledStar.DisplayName: Star
@@ -912,10 +929,13 @@ Mods: {
 			DarkWave.DisplayName: Dark Wave
 			DistortionField.DisplayName: Distortion Field
 			ExplodingStar.DisplayName: Star
+			FallingGalaxy.DisplayName: Newborn Galaxy
 			GodRayVisual.DisplayName: God Ray Visual
 			GroundStompShock.DisplayName: Ground Stomp Shock
 			LightDagger.DisplayName: Light Dagger
 			LightPortal.DisplayName: Light Portal
+			LightSlash.DisplayName: Light Slash
+			LightSlashTelegraph.DisplayName: Light Slash Telegraph
 			LightWave.DisplayName: Light Wave
 			NightmareDeathRay.DisplayName: Nightmare Death Ray
 			NoxSpike.DisplayName: Nox Spike
@@ -926,6 +946,7 @@ Mods: {
 			SlowSolarSpark.DisplayName: Solar Spark
 			Starburst.DisplayName: Starburst
 			StarPatterenedStarburst.DisplayName: Starburst
+			StarPet.DisplayName: Star
 			SunFireball.DisplayName: Sun Fireball
 			SuperCosmicBeam.DisplayName: Cosmic Deathray
 			SuperLightBeam.DisplayName: Light Deathray
@@ -935,15 +956,11 @@ Mods: {
 			TelegraphedLightLaserbeam.DisplayName: Light Deathray
 			TelegraphedPortalLaserbeam.DisplayName: Cosmic Burst
 			TelegraphedScreenSlice.DisplayName: Dimensional Slice
-			TelegraphedScreenSlice2.DisplayName: Dimensional Slice
 			TelegraphedStarLaserbeam.DisplayName: Solar Burst
 			ThePurifierProj.DisplayName: The Purifier
 			TerminusProj.DisplayName: Terminus
+			VergilScreenSlice.DisplayName: Judgement Cut
 			WindStreakVisual.DisplayName: Wind
-			BlackHolePet.DisplayName: Black Hole Pet
-			StarPet.DisplayName: Star
-			LightSlashTelegraph.DisplayName: Light Slash Telegraph
-			LightSlash.DisplayName: Light Slash
 		}
 
 		Tiles: {
@@ -992,6 +1009,7 @@ Mods: {
 			TerminusHintLine2: Now, seek the Terminus. Your final test is at hand.
 			XerocEnterGardenText: Your final test begins.
 			XerocEndScreenText: You have passed the test.
+			XerocEndScreenSkipText: Press ESCAPE to not get sent to the title screen!
 			XerocPlayerDeathText: You have failed the test.
 			XerocEndScreenMainMenuTip: You have passed the test. You have passed the test. You have passed the test. You have passed the test. You have passed the test. You have passed the test. You have passed the test. You have passed the test. You have passed the test. You have passed the test.
 			XerocNoxusSprayerTip: Do not.
@@ -1034,7 +1052,27 @@ Mods: {
 			XerocStairwayText4: The Dark One drifts in your domain. It is incumbent upon you to conquer it.
 			XerocStairwayText5: Once triumphant, your fate shall interlace with mine once more, and you will be tested.
 			XerocStairwayText6: Good luck.
+			XerocStairwayTextFanny1: Welcome, usurpe-
+			XerocStairwayTextFanny2: Wait, Fanny? What the hell are you doing here?! I thought I disowned you!
+			XerocStairwayTextFanny3: Uhhhhhhhhhhhhh, no.
+			XerocStairwayTextFanny4: Anyway, uh, you. Go kill Noxus.
+			XerocStairwayTextFanny5: We'll... fight in my garden when you're done, I guess?
+			XerocStairwayTextFanny6: Please don't bring Fanny with you.
 			OgsculeDontAnnoyCalDevsText: This ogscule effect is not added by the base Calamity Mod. Don't annoy their developers about it.
+		}
+
+		FannyDialog: {
+			StairwayText1: Stairs?! Where did this come from? Where is everything? Let me see if I can find some information on this...
+			StairwayText2: Video game stairs, seemingly infinite...
+			StairwayText3: Oh! I'm seeing something about a 'BLJ'! Maybe try that?
+			StairwayText4: Wait, that's from a different game...
+			StairwayText5: Well, just keep going up! Surely something will happen eventually...?
+			StairwayTextTop1: Wait, dad?!! Is that you???
+			StairwayTextTop2: You sure that wasn't Evil Fanny?
+			StairwayTextTop3: That's kind of mean, dad...
+			StairwayTextTop4: Noxus? Who's Noxus??? Maybe I should look for information on that sometime...
+			StairwayTextTop5: Oh! I remember when I razed that place! It was fun!
+			StairwayTextTop6: They have no choice!
 		}
 
 		Colors: {

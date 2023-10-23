@@ -3,8 +3,14 @@ Mods: {
 		Bestiary: {
 			EntropicGod: 无法描述的不可名状之存在。
 			NoxusEgg: 由纯粹黑暗构成的异常之卵。无数个世纪以来，它一直在耐心的等待着孵化。
-			XerocBoss: 创世之神。
 			ItemDropConditions.FirstTimeExclusive: 仅在首次击败时掉落。
+			XerocBoss1: Creation.
+			XerocBoss2: Shining light.
+			XerocBoss3: Celestial interweavings.
+			XerocBoss4: Power.
+			XerocBoss5: Unending.
+			XerocBoss6: The Maker.
+			XerocBoss7: Omniscience.
 		}
 
 		Biomes: {
@@ -110,7 +116,17 @@ Mods: {
 
 			GoodApple: {
 				DisplayName: Good Apple
-				Tooltip: 好苹果不会掉在离好树很远的地方!
+				Tooltip:
+					'''
+					The good apple never falls far from the good tree!
+					You must pass the test
+					'''
+				TooltipPostXeroc:
+					'''
+					The good apple never falls far from the good tree!
+					Grants 1 extra max life
+					May be used an unlimited number of times
+					'''
 			}
 
 			LoreNoxus: {
@@ -902,6 +918,7 @@ Mods: {
 			BabyNoxus.DisplayName: 诺克萨斯宝宝
 			BackgroundStar.DisplayName: 星辰
 			BlackHole.DisplayName: 黑洞
+			BlackHolePet.DisplayName: Black Hole
 			BookConstellation.DisplayName: 宏神之智
 			ClockConstellation.DisplayName: 柯罗诺斯之手
 			ControlledStar.DisplayName: 星辰
@@ -912,10 +929,13 @@ Mods: {
 			DarkWave.DisplayName: 暗之浪潮
 			DistortionField.DisplayName: 扭曲力场
 			ExplodingStar.DisplayName: 星辰
+			FallingGalaxy.DisplayName: Newborn Galaxy
 			GodRayVisual.DisplayName: 上帝之光
 			GroundStompShock.DisplayName: 撼地冲击
 			LightDagger.DisplayName: 光之匕首
 			LightPortal.DisplayName: 光之门
+			LightSlash.DisplayName: Light Slash
+			LightSlashTelegraph.DisplayName: Light Slash Telegraph
 			LightWave.DisplayName: 光之浪潮
 			NightmareDeathRay.DisplayName: 梦魇死光
 			NoxSpike.DisplayName: 熵神尖刺
@@ -926,6 +946,7 @@ Mods: {
 			SlowSolarSpark.DisplayName: 耀阳火花
 			Starburst.DisplayName: 星爆
 			StarPatterenedStarburst.DisplayName: 星爆
+			StarPet.DisplayName: Star
 			SunFireball.DisplayName: 烈阳火球
 			SuperCosmicBeam.DisplayName: 寰宇死亡射线
 			SuperLightBeam.DisplayName: 光之死亡射线
@@ -935,15 +956,11 @@ Mods: {
 			TelegraphedLightLaserbeam.DisplayName: 光之死亡射线
 			TelegraphedPortalLaserbeam.DisplayName: 寰宇爆破
 			TelegraphedScreenSlice.DisplayName: 维度裂片
-			TelegraphedScreenSlice2.DisplayName: 维度裂片
 			TelegraphedStarLaserbeam.DisplayName: 烈阳爆发
 			ThePurifierProj.DisplayName: 净化者
 			TerminusProj.DisplayName: 终末石
+			VergilScreenSlice.DisplayName: Judgement Cut
 			WindStreakVisual.DisplayName: 风
-			BlackHolePet.DisplayName: 黑洞宠物
-			StarPet.DisplayName: 恒星
-			LightSlashTelegraph.DisplayName: 光斩预判线
-			LightSlash.DisplayName: 光斩
 		}
 
 		Tiles: {
@@ -992,6 +1009,7 @@ Mods: {
 			TerminusHintLine2: 现在，去找到终末石，你的最终试炼就在眼前。
 			XerocEnterGardenText: 你的最终试炼开始了。
 			XerocEndScreenText: 你已经通过了试炼。
+			XerocEndScreenSkipText: Press ESCAPE to not get sent to the title screen!
 			XerocPlayerDeathText: 你未能通过试炼。
 			XerocEndScreenMainMenuTip: 你已经通过了试炼。你已经通过了试炼。你已经通过了试炼。你已经通过了试炼。你已经通过了试炼。你已经通过了试炼。你已经通过了试炼。你已经通过了试炼。你已经通过了试炼。你已经通过了试炼。
 			XerocNoxusSprayerTip: 别这样做。
@@ -1034,7 +1052,27 @@ Mods: {
 			XerocStairwayText4: 黑暗之主在你的领地内游荡，将其征服是你义不容辞的责任。
 			XerocStairwayText5: 一旦胜利，你的命运将再次与我的命运交织在一起，而你将受到试炼。
 			XerocStairwayText6: 祝你好运。
+			XerocStairwayTextFanny1: Welcome, usurpe-
+			XerocStairwayTextFanny2: Wait, Fanny? What the hell are you doing here?! I thought I disowned you!
+			XerocStairwayTextFanny3: Uhhhhhhhhhhhhh, no.
+			XerocStairwayTextFanny4: Anyway, uh, you. Go kill Noxus.
+			XerocStairwayTextFanny5: We'll... fight in my garden when you're done, I guess?
+			XerocStairwayTextFanny6: Please don't bring Fanny with you.
 			OgsculeDontAnnoyCalDevsText: 这个ogscule的效果不是灾厄本体加的，不要拿这个去打扰他们的开发者。
+		}
+		
+		FannyDialog: {
+			StairwayText1: Stairs?! Where did this come from? Where is everything? Let me see if I can find some information on this...
+			StairwayText2: Video game stairs, seemingly infinite...
+			StairwayText3: Oh! I'm seeing something about a 'BLJ'! Maybe try that?
+			StairwayText4: Wait, that's from a different game...
+			StairwayText5: Well, just keep going up! Surely something will happen eventually...?
+			StairwayTextTop1: Wait, dad?!! Is that you???
+			StairwayTextTop2: You sure that wasn't Evil Fanny?
+			StairwayTextTop3: That's kind of mean, dad...
+			StairwayTextTop4: Noxus? Who's Noxus??? Maybe I should look for information on that sometime...
+			StairwayTextTop5: Oh! I remember when I razed that place! It was fun!
+			StairwayTextTop6: They have no choice!
 		}
 
 		Colors: {
