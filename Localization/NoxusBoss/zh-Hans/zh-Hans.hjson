@@ -1053,7 +1053,7 @@ Mods: {
 			XerocStairwayText5: 一旦胜利，你的命运将再次与我的命运交织在一起，而你将受到试炼。
 			XerocStairwayText6: 祝你好运。
 			XerocStairwayTextFanny1: 欢迎，僭越—
-			XerocStairwayTextFanny2: 等等，Fanny？你他妈在这干什么？！我以为我已经跟你断绝关系了！
+			XerocStairwayTextFanny2: 等等，Fanny？你他妈在这干什么？！我以为我们早就一刀两断了！
 			XerocStairwayTextFanny3: 啊啊啊啊啊啊啊啊，不不不不不。
 			XerocStairwayTextFanny4: 不管怎样，呃，你，去杀了诺克萨斯。
 			XerocStairwayTextFanny5: 我想，我们将……在我的花园里打一架，在你完事之后？
@@ -1062,17 +1062,17 @@ Mods: {
 		}
 		
 		FannyDialog: {
-			StairwayText1: Stairs?! Where did this come from? Where is everything? Let me see if I can find some information on this...
-			StairwayText2: Video game stairs, seemingly infinite...
-			StairwayText3: Oh! I'm seeing something about a 'BLJ'! Maybe try that?
-			StairwayText4: Wait, that's from a different game...
-			StairwayText5: Well, just keep going up! Surely something will happen eventually...?
-			StairwayTextTop1: Wait, dad?!! Is that you???
-			StairwayTextTop2: You sure that wasn't Evil Fanny?
-			StairwayTextTop3: That's kind of mean, dad...
-			StairwayTextTop4: Noxus? Who's Noxus??? Maybe I should look for information on that sometime...
-			StairwayTextTop5: Oh! I remember when I razed that place! It was fun!
-			StairwayTextTop6: They have no choice!
+			StairwayText1: 阶梯？！这是从哪来的？其他东西呢！让我看看能不能找到这方面的资料……
+			StairwayText2: 电子游戏里的阶梯，看起来没有尽头……
+			StairwayText3: 哦！我找到了一些关于“BLJ”的东西！你可以试一下米妮？
+			StairwayText4: 等等，那来自另一个游戏……
+			StairwayText5: 好吧，继续往上走！总有什么事会发生的……？
+			StairwayTextTop1: 等等，爹？！！是你吗？？？
+			StairwayTextTop2: 你确定那不是邪恶Fanny？
+			StairwayTextTop3: 你说话太伤人了，爹……
+			StairwayTextTop4: 诺克萨斯？谁是诺克萨斯？？？也许我该找个时间看看这方面的资料……
+			StairwayTextTop5: 哦！我记得我把那地方夷为平地的时候！那很有意思！
+			StairwayTextTop6: 他们可没得选！
 		}
 
 		Colors: {
