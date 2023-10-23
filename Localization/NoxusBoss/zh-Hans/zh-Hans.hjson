@@ -118,14 +118,14 @@ Mods: {
 				DisplayName: Good Apple
 				Tooltip:
 					'''
-					The good apple never falls far from the good tree!
-					You must pass the test
+					好树无坏果！
+					你必须通过试炼
 					'''
 				TooltipPostXeroc:
 					'''
-					The good apple never falls far from the good tree!
-					Grants 1 extra max life
-					May be used an unlimited number of times
+					好树无坏果！
+					额外增加1点生命上限
+					可以无限次使用
 					'''
 			}
 
