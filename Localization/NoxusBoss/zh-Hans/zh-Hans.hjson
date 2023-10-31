@@ -6,9 +6,9 @@ Mods: {
 			ItemDropConditions.FirstTimeExclusive: 仅在首次击败时掉落。
 			XerocBoss1: 创世。
 			XerocBoss2: 璀璨之光。
-			XerocBoss3: 天界的交织。
+			XerocBoss3: 天界的交织体。
 			XerocBoss4: 神力。
-			XerocBoss5: 无穷无尽。
+			XerocBoss5: 无穷，无尽。
 			XerocBoss6: 制造者。
 			XerocBoss7: 全知之神。
 		}
@@ -93,7 +93,7 @@ Mods: {
 
 			EternalGardenMusicBox: {
 				DisplayName: 音乐盒（永恒花园）
-				Tooltip: Plays 'Edenic Whispers' by ENNWAY!
+				Tooltip: 播放“伊甸园的低语” 作者：ENNWAY!
 			}
 
 			FakeTerminus: {
@@ -814,7 +814,7 @@ Mods: {
 			}
 
             NoxusWorldFogStarter: {
-				DisplayName: Noxus World Fog Starter [DEBUG]
+				DisplayName: 诺克萨斯世界雾气启动器[DEBUG]
 				Tooltip: ""
 			}
 
@@ -863,8 +863,8 @@ Mods: {
 			}
 
 			XerocMusicBox: {
-				DisplayName: Music Box (Nameless Deity)
-				Tooltip: Plays 'Twisted Garden' by Heart Plus Up! and ENNWAY!
+				DisplayName: 音乐盒（无名光神）
+				Tooltip: 播放“扭曲花园” 作者：Heart Plus Up!与ENNWAY!
 			}
 
 			XerocRelic: {
@@ -883,7 +883,7 @@ Mods: {
 			}
 
 			StaircaseStarter: {
-				DisplayName: Staircase Starter [DEBUG]
+				DisplayName: 阶梯启动器[DEBUG]
 				Tooltip: ""
 			}
 		}
@@ -1027,7 +1027,7 @@ Mods: {
 			TerminusHintLine2: 现在，去找到终末石，你的最终试炼就在眼前。
 			XerocEnterGardenText: 你的最终试炼开始了。
 			XerocEndScreenText: 你已经通过了试炼。
-			XerocEndScreenSkipText: Press ESCAPE to skip!
+			XerocEndScreenSkipText: 按住ESCAPE键以跳过！
 			XerocPlayerDeathText: 你未能通过试炼。
 			XerocEndScreenMainMenuTip: 你已经通过了试炼。你已经通过了试炼。你已经通过了试炼。你已经通过了试炼。你已经通过了试炼。你已经通过了试炼。你已经通过了试炼。你已经通过了试炼。你已经通过了试炼。你已经通过了试炼。
 			XerocNoxusSprayerTip: 别这样做。
