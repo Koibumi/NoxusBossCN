@@ -91,9 +91,9 @@ Mods: {
 				Tooltip: ""
 			}
 
-			EternalGardenMusicBoxItem: {
+			EternalGardenMusicBox: {
 				DisplayName: 音乐盒（永恒花园）
-				Tooltip: ""
+				Tooltip: Plays 'Edenic Whispers' by ENNWAY!
 			}
 
 			FakeTerminus: {
@@ -813,6 +813,11 @@ Mods: {
 				Tooltip: ""
 			}
 
+            NoxusWorldFogStarter: {
+				DisplayName: Noxus World Fog Starter [DEBUG]
+				Tooltip: ""
+			}
+
 			NuminousDye: {
 				DisplayName: 光辉圣神染料
 				Tooltip: ""
@@ -857,9 +862,9 @@ Mods: {
 				Tooltip: "'你的脸将会变成【数据删除】'"
 			}
 
-			XerocMusicBoxItem: {
-				DisplayName: 音乐盒（无名光神）
-				Tooltip: ""
+			XerocMusicBox: {
+				DisplayName: Music Box (Nameless Deity)
+				Tooltip: Plays 'Twisted Garden' by Heart Plus Up! and ENNWAY!
 			}
 
 			XerocRelic: {
@@ -874,6 +879,11 @@ Mods: {
 
 			Starseed: {
 				DisplayName: 恒星之种
+				Tooltip: ""
+			}
+
+			StaircaseStarter: {
+				DisplayName: Staircase Starter [DEBUG]
 				Tooltip: ""
 			}
 		}
@@ -911,6 +921,10 @@ Mods: {
 					DespawnMessage: "[c/FF463D:你未能通过试炼。]"
 				}
 			}
+
+			DismalSeeker.DisplayName: Dismal Seeker
+			Fogwood.DisplayName: Fogwood
+			Mirrorwalker.DisplayName: Mirrorwalker
 		}
 
 		Projectiles: {
@@ -927,11 +941,14 @@ Mods: {
 			DarkFireball.DisplayName: 暗之火球
 			DarkPortal.DisplayName: 暗之门
 			DarkWave.DisplayName: 暗之浪潮
+			DismalSeekerLantern.DisplayName: Dismal Lantern
 			DistortionField.DisplayName: 扭曲力场
 			ExplodingStar.DisplayName: 星辰
 			FallingGalaxy.DisplayName: 新生之银河
+			FogwoodRoot.DisplayName: Fogwood Root
 			GodRayVisual.DisplayName: 上帝之光
 			GroundStompShock.DisplayName: 撼地冲击
+			LanternExplosion.DisplayName: Explosion
 			LightDagger.DisplayName: 光之匕首
 			LightPortal.DisplayName: 光之门
 			LightSlash.DisplayName: 光之斩击
@@ -943,6 +960,7 @@ Mods: {
 			NoxusGas.DisplayName: 熵神雾气
 			NoxusSprayerGas.DisplayName: 诺克萨斯喷雾雾气
 			Quasar.DisplayName: 恒星
+			RedirectingDarkFlame.DisplayName: Dark Flame
 			SlowSolarSpark.DisplayName: 耀阳火花
 			Starburst.DisplayName: 星爆
 			StarPatterenedStarburst.DisplayName: 星爆
@@ -964,8 +982,8 @@ Mods: {
 		}
 
 		Tiles: {
-			EternalGardenMusicBox.MapEntry: 音乐盒
-			XerocMusicBox.MapEntry: 音乐盒
+			EternalGardenMusicBoxTile.MapEntry: 音乐盒
+			XerocMusicBoxTile.MapEntry: 音乐盒
 		}
 
 		XerocDimensionMainMenu.DisplayName: 光之维度
@@ -1009,7 +1027,7 @@ Mods: {
 			TerminusHintLine2: 现在，去找到终末石，你的最终试炼就在眼前。
 			XerocEnterGardenText: 你的最终试炼开始了。
 			XerocEndScreenText: 你已经通过了试炼。
-			XerocEndScreenSkipText: 按住ESCAPE键将不会被送到标题页面！
+			XerocEndScreenSkipText: Press ESCAPE to skip!
 			XerocPlayerDeathText: 你未能通过试炼。
 			XerocEndScreenMainMenuTip: 你已经通过了试炼。你已经通过了试炼。你已经通过了试炼。你已经通过了试炼。你已经通过了试炼。你已经通过了试炼。你已经通过了试炼。你已经通过了试炼。你已经通过了试炼。你已经通过了试炼。
 			XerocNoxusSprayerTip: 别这样做。
