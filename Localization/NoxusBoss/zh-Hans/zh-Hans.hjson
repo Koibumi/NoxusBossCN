@@ -922,9 +922,9 @@ Mods: {
 				}
 			}
 
-			DismalSeeker.DisplayName: Dismal Seeker
-			Fogwood.DisplayName: Fogwood
-			Mirrorwalker.DisplayName: Mirrorwalker
+			DismalSeeker.DisplayName: 阴郁索求者
+			Fogwood.DisplayName: 雾中木
+			Mirrorwalker.DisplayName: 镜像行者
 		}
 
 		Projectiles: {
@@ -932,7 +932,7 @@ Mods: {
 			BabyNoxus.DisplayName: 诺克萨斯宝宝
 			BackgroundStar.DisplayName: 星辰
 			BlackHole.DisplayName: 黑洞
-			BlackHolePet.DisplayName: Black Hole
+			BlackHolePet.DisplayName: 黑洞
 			BookConstellation.DisplayName: 宏神之智
 			ClockConstellation.DisplayName: 柯罗诺斯之手
 			ControlledStar.DisplayName: 星辰
@@ -941,14 +941,14 @@ Mods: {
 			DarkFireball.DisplayName: 暗之火球
 			DarkPortal.DisplayName: 暗之门
 			DarkWave.DisplayName: 暗之浪潮
-			DismalSeekerLantern.DisplayName: Dismal Lantern
+			DismalSeekerLantern.DisplayName: 阴郁之灯
 			DistortionField.DisplayName: 扭曲力场
 			ExplodingStar.DisplayName: 星辰
 			FallingGalaxy.DisplayName: 新生之银河
-			FogwoodRoot.DisplayName: Fogwood Root
+			FogwoodRoot.DisplayName: 雾中木树根
 			GodRayVisual.DisplayName: 上帝之光
 			GroundStompShock.DisplayName: 撼地冲击
-			LanternExplosion.DisplayName: Explosion
+			LanternExplosion.DisplayName: 爆破
 			LightDagger.DisplayName: 光之匕首
 			LightPortal.DisplayName: 光之门
 			LightSlash.DisplayName: 光之斩击
@@ -960,11 +960,11 @@ Mods: {
 			NoxusGas.DisplayName: 熵神雾气
 			NoxusSprayerGas.DisplayName: 诺克萨斯喷雾雾气
 			Quasar.DisplayName: 恒星
-			RedirectingDarkFlame.DisplayName: Dark Flame
+			RedirectingDarkFlame.DisplayName: 黑暗之火
 			SlowSolarSpark.DisplayName: 耀阳火花
 			Starburst.DisplayName: 星爆
 			StarPatterenedStarburst.DisplayName: 星爆
-			StarPet.DisplayName: Star
+			StarPet.DisplayName: 恒星
 			SunFireball.DisplayName: 烈阳火球
 			SuperCosmicBeam.DisplayName: 寰宇死亡射线
 			SuperLightBeam.DisplayName: 光之死亡射线
