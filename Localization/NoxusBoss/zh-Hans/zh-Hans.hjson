@@ -984,10 +984,10 @@ Mods: {
 			TerminusProj.DisplayName: 终末石
 			VergilScreenSlice.DisplayName: 审判斩切
 			WindStreakVisual.DisplayName: 风
-			RodOfHarmonyExplosion.DisplayName: Rod Of Harmony Explosion
-			DarkField.DisplayName: Dark Field
-			PrimordialStardust.DisplayName: Primordial Stardust
-			NamelessDeityAfterimage.DisplayName: Afterimage
+			RodOfHarmonyExplosion.DisplayName: 和谐传送杖爆炸
+			DarkField.DisplayName: 黑暗视野
+			PrimordialStardust.DisplayName: 始源星尘
+			NamelessDeityAfterimage.DisplayName: 余像
 		}
 
 		Tiles: {
@@ -999,7 +999,7 @@ Mods: {
 
 		Configs: {
 			NoxusBossConfig: {
-				DisplayName: Main Config
+				DisplayName: 主要配置
 
 				DisplayConfigMessage: {
 					Label: Display Config Message
@@ -1110,7 +1110,7 @@ Mods: {
 			RodOfHarmonyRantSubtitle9: 等等，见鬼，你可能已经知道了。
 			RodOfHarmonyRantSubtitle10: 你可能已经在网上找到了这场战斗。
 			RodOfHarmonyRantSubtitle11: 你也许 知 道 我会这样做。
-			RodOfHarmonyRantSubtitle12: 我是说，我不知道为什么你没有猜到这个。我都已经砸烂了愤怒条和肾上腺素条，我当然要去砸烂和谐传送杖！
+			RodOfHarmonyRantSubtitle12: 我是说，我不知道为什么你没有猜到这个。我都已经砸烂了怒气条和肾上腺素条，我当然要去砸烂和谐传送杖！
 			RodOfHarmonyRantSubtitle13: 但是现在，我要砸烂你。
 			RodOfHarmonyRantSubtitle14: 哦草，我说错了……
 			RodOfHarmonyRantSubtitle15: 总而言之就是：我讨厌作弊者。
@@ -1130,19 +1130,19 @@ Mods: {
 			StairwayTextTop4: 诺克萨斯？谁是诺克萨斯？？？也许我该找个时间看看这方面的资料……
 			StairwayTextTop5: 哦！我记得我把那地方夷为平地的时候！那很有意思！
 			StairwayTextTop6: 他们可没得选！
-			NoxusLoreText1: Wow, buddy! That Noxus fellow sure was powerful! I agree though, he is quite mysterious...
-			NoxusLoreText2: Seriously??? This is just like everything else. Nothing of insight is actually being said!
-			NoxusLoreText3: And why is this "Yharim" guy even trying to relate this to dragons? Is that his SINGULAR purpose in life? To be a lame exposition dump?!
-			NoxusLoreText4: Why doesn't he for once actually show himself and speak directly, huh? Is he that fearful of revealing himself to be the one dimensional character he is?
-			NoxusLoreText5: God, what a headache.
-			RodOfHarmonyBreak: Oh no! Your Rod of Harmony was broken! Be careful, the fight may be a lot more difficult without it!
-			RodOfHarmonyBreakEvil1: HAHAHAHAHAHAHA!!! Would you look at that! That nonsensical pink stick finally has a cooldown! The cooldown is FOREVER! Isn't that cool?!
-			RodOfHarmonyBreakEvil2: Try winning now without your laughable little crutch, you witless, one-trick pony!
+			NoxusLoreText1: 哇，伙计！那个诺克萨斯真厉害！我同意，他确实挺荒谬的……
+			NoxusLoreText2: 认真的？？？这跟其他东西没啥区别。没有啥好说的！
+			NoxusLoreText3: 为什么这个“亚利姆”的家伙会想把这玩意跟龙联系在一起？这就是他生命中的 唯 一 目标吗？成为一个蹩脚的垃圾解析员？
+			NoxusLoreText4: 为啥他就不能光明正大的露面，直接说话呢，哈？他有这么害怕暴露自己吗，以至于成为了一维世界的主？
+			NoxusLoreText5: 天哪，这真让人头疼。
+			RodOfHarmonyBreak: 哦不！你的和谐传送杖坏了！当心，没了它，你接下来的战斗会困难的多！
+			RodOfHarmonyBreakEvil1: 哈哈哈哈哈哈！！！你看见了吗！那根荒诞的粉色棍子终于有了冷却时间！冷却时间是 永 久 的！这太酷了不是吗？！
+			RodOfHarmonyBreakEvil2: 试试不用你的滑稽小拐杖赢吧，你这个愚蠢的，只会用一招的小马！
 			NamelessDeityGFB1: 这场战斗的借口真是一堆华而不实的废话。
 			NamelessDeityGFB2:
 				'''
-				Dominic should be completely fucking ashamed of himself. First he steals Calamity's Xeroc character and then, like a bumbling, terminal Dunning-Kruger victim implements it in the most lame, monotonous, glitter-bomb way possible. Like, seriously? How many lasers can you hamfistedly squeeze into this?! And what the hell are these graphical effects?! This is a textbook example of making content that dimwitted youtube commenters can turn their brains off to and gawk at because "Haha, pretty bloom and shaders! Looks so unique!"
-				Is your FPS even above 15 right now???
+				Dominic真他妈应该为自己感到羞耻。首先他偷走了灾厄里的克希洛克，然后，他像一个笨手笨脚的，邓宁—克鲁格效应晚期的病人一样，用最蹩脚，无聊，光污染的形式实现了这个boss。认真的？你往这里面塞了多少个激光？！这些图像效果都是些啥？这简直就是个mod内容制作教科书般的反面教材，油管评论区那些愚蠢的人们会关上他们的大脑然后像铸币一样的看着，然后说“哈哈，非常好的bloom和shader效果，这太酷啦！”
+				你们现在的帧数甚至有超过15帧吗？？？
 				'''
 			NamelessDeityGFB3: I have no advice on how to deal with it. Frankly, I'd recommend just turning the game off and doing something actually interesting with your time instead of whatever the fuck this is.
 		}
