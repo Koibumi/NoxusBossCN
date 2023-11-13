@@ -4,13 +4,18 @@ Mods: {
 			EntropicGod: 无法描述的不可名状之存在。
 			NoxusEgg: 由纯粹黑暗构成的异常之卵。无数个世纪以来，它一直在耐心的等待着孵化。
 			ItemDropConditions.FirstTimeExclusive: 仅在首次击败时掉落。
-			XerocBoss1: 创世。
-			XerocBoss2: 璀璨之光。
-			XerocBoss3: 天界的交织体。
-			XerocBoss4: 神力。
-			XerocBoss5: 无穷，无尽。
-			XerocBoss6: 制造者。
-			XerocBoss7: 全知之神。
+			NamelessDeityBoss1: 创世。
+			NamelessDeityBoss2: 璀璨之光。
+			NamelessDeityBoss3: 天界的交织体。
+			NamelessDeityBoss4: 神力。
+			NamelessDeityBoss5: 无穷，无尽。
+			NamelessDeityBoss6: 制造者。
+			NamelessDeityBoss7: 全知之神。
+			NamelessDeityBoss8: Transcendence.
+			NamelessDeityBoss9: Eternity.
+			NamelessDeityBoss10: Refulgent Blossoms.
+			NamelessDeityBoss11: The Whisper of the Flowers.
+			NamelessDeityBoss12: Cosmic pulchritude.
 		}
 
 		Biomes: {
@@ -121,7 +126,7 @@ Mods: {
 					好树无坏果！
 					你必须通过试炼
 					'''
-				TooltipPostXeroc:
+				TooltipPostNamelessDeity:
 					'''
 					好树无坏果！
 					额外增加1点生命上限
@@ -150,7 +155,7 @@ Mods: {
 					'''
 			}
 
-			LoreXeroc: {
+			LoreNamelessDeity: {
 				DisplayName: 无名光神
 				Tooltip:
 					'''
@@ -794,7 +799,7 @@ Mods: {
 				Tooltip: ""
 			}
 
-			NoxusRelic: {
+			NoxusRelicItem: {
 				DisplayName: 诺克萨斯圣物
 				Tooltip: ""
 			}
@@ -857,22 +862,22 @@ Mods: {
 					'''
 			}
 
-			XerocMask: {
+			NamelessDeityMask: {
 				DisplayName: 无名光神面具
 				Tooltip: "'你的脸将会变成【数据删除】'"
 			}
 
-			XerocMusicBox: {
+			NamelessDeityMusicBox: {
 				DisplayName: 音乐盒（无名光神）
 				Tooltip: 播放“扭曲花园” 作者：Heart Plus Up!与ENNWAY!
 			}
 
-			XerocRelic: {
+			NamelessDeityRelicItem: {
 				DisplayName: 无名光神圣物
 				Tooltip: ""
 			}
 
-			XerocTrophy: {
+			NamelessDeityTrophy: {
 				DisplayName: 无名光神纪念章
 				Tooltip: 当接收电线发出的信号后，默认情况下眼睛将闭上，直到玩家靠近为止。
 			}
@@ -911,7 +916,7 @@ Mods: {
 				}
 			}
 
-			XerocBoss: {
+			NamelessDeityBoss: {
 				DisplayName: 无名光神
 				DisplayNameSingular: 无名光神
 				SillyDeathCountSuffix: ，无伤人的拷打者
@@ -979,18 +984,35 @@ Mods: {
 			TerminusProj.DisplayName: 终末石
 			VergilScreenSlice.DisplayName: 审判斩切
 			WindStreakVisual.DisplayName: 风
+			RodOfHarmonyExplosion.DisplayName: Rod Of Harmony Explosion
+			DarkField.DisplayName: Dark Field
+			PrimordialStardust.DisplayName: Primordial Stardust
+			NamelessDeityAfterimage.DisplayName: Afterimage
 		}
 
 		Tiles: {
 			EternalGardenMusicBoxTile.MapEntry: 音乐盒
-			XerocMusicBoxTile.MapEntry: 音乐盒
+			NamelessDeityMusicBoxTile.MapEntry: 音乐盒
 		}
 
-		XerocDimensionMainMenu.DisplayName: 光之维度
+		NamelessDeityDimensionMainMenu.DisplayName: 光之维度
 
 		Configs: {
 			NoxusBossConfig: {
-				DisplayName: 配置
+				DisplayName: Main Config
+
+				DisplayConfigMessage: {
+					Label: Display Config Message
+					Tooltip: Toggles the text overlay that instructs the player to look at the UI.
+					WarningText:
+						'''
+						Hi! Your first thought reading this is probably something along the lines of 'How do I get rid of this text? It's annoying.'
+						I'll cut to the chase. Given the intensity of various visual effects in the mod, it's important that you be aware of the config options to tone them down.
+						The reason this is outlined so explicitly is to ensure that those with photosensitivity are aware before doing anything else.
+						You can find the config by navigating to Settings -> Mod Configuration -> Wrath of the Gods -> Main Config.
+						In order to ensure that you've followed these steps correctly, this pop-up text can be turned off permanently in the config via the 'Display Config Message" option.
+						'''
+				}
 
 				PhotosensitivityMode: {
 					Label: 光敏模式
@@ -1025,14 +1047,14 @@ Mods: {
 			FinalBossDefeatNoxusIndicator_SeenNoxus: 黑暗的存在正在不断搅动......
 			TerminusHintLine1: 你做的很好。
 			TerminusHintLine2: 现在，去找到终末石，你的最终试炼就在眼前。
-			XerocEnterGardenText: 你的最终试炼开始了。
-			XerocEndScreenText: 你已经通过了试炼。
-			XerocEndScreenSkipText: 按住ESCAPE键以跳过！
-			XerocPlayerDeathText: 你未能通过试炼。
-			XerocEndScreenMainMenuTip: 你已经通过了试炼。你已经通过了试炼。你已经通过了试炼。你已经通过了试炼。你已经通过了试炼。你已经通过了试炼。你已经通过了试炼。你已经通过了试炼。你已经通过了试炼。你已经通过了试炼。
-			XerocNoxusSprayerTip: 别这样做。
-			XerocStatusText: 你已经通过了试炼。
-			XerocStatusPercentageText: 你已经通过了试炼：
+			NamelessDeityEnterGardenText: 你的最终试炼开始了。
+			NamelessDeityEndScreenText: 你已经通过了试炼。
+			NamelessDeityEndScreenSkipText: 按住ESCAPE键以跳过！
+			NamelessDeityPlayerDeathText: 你未能通过试炼。
+			NamelessDeityEndScreenMainMenuTip: 你已经通过了试炼。你已经通过了试炼。你已经通过了试炼。你已经通过了试炼。你已经通过了试炼。你已经通过了试炼。你已经通过了试炼。你已经通过了试炼。你已经通过了试炼。你已经通过了试炼。
+			NamelessDeityNoxusSprayerTip: 别这样做。
+			NamelessDeityStatusText: 你已经通过了试炼。
+			NamelessDeityStatusPercentageText: 你已经通过了试炼：
 			CattailText: CATTAIL PLACED!
 			PurifierMultiplayerUseAlertText: 净化者已由｛0｝部署，世界将在15秒内重置。
 			PurifierEntertainingRantText:
@@ -1064,19 +1086,36 @@ Mods: {
 				'wavedash.ppt'
 				作者：Lena Raine
 				'''
-			XerocStairwayText1: 欢迎，僭越者。
-			XerocStairwayText2: 在孤独中，唯有你能见证笼罩在这片领域天堂般的辉煌。
-			XerocStairwayText3: 你命中注定来到此地，只有这样，你才方可了解你的命运。
-			XerocStairwayText4: 黑暗之主在你的领地内游荡，将其征服是你义不容辞的责任。
-			XerocStairwayText5: 一旦胜利，你的命运将再次与我的命运交织在一起，而你将受到试炼。
-			XerocStairwayText6: 祝你好运。
-			XerocStairwayTextFanny1: 欢迎，僭越—
-			XerocStairwayTextFanny2: 等等，Fanny？你他妈在这干什么？！我以为我们早就一刀两断了！
-			XerocStairwayTextFanny3: 啊啊啊啊啊啊啊啊，不不不不不。
-			XerocStairwayTextFanny4: 不管怎样，呃，你，去杀了诺克萨斯。
-			XerocStairwayTextFanny5: 我想，我们将……在我的花园里打一架，在你完事之后？
-			XerocStairwayTextFanny6: 别把Fanny一起带过来，好吗。
+			NamelessDeityStairwayText1: 欢迎，僭越者。
+			NamelessDeityStairwayText2: 在孤独中，唯有你能见证笼罩在这片领域天堂般的辉煌。
+			NamelessDeityStairwayText3: 你命中注定来到此地，只有这样，你才方可了解你的命运。
+			NamelessDeityStairwayText4: 黑暗之主在你的领地内游荡，将其征服是你义不容辞的责任。
+			NamelessDeityStairwayText5: 一旦胜利，你的命运将再次与我的命运交织在一起，而你将受到试炼。
+			NamelessDeityStairwayText6: 祝你好运。
+			NamelessDeityStairwayTextFanny1: 欢迎，僭越—
+			NamelessDeityStairwayTextFanny2: 等等，Fanny？你他妈在这干什么？！我以为我们早就一刀两断了！
+			NamelessDeityStairwayTextFanny3: 啊啊啊啊啊啊啊啊，不不不不不。
+			NamelessDeityStairwayTextFanny4: 不管怎样，呃，你，去杀了诺克萨斯。
+			NamelessDeityStairwayTextFanny5: 我想，我们将……在我的花园里打一架，在你完事之后？
+			NamelessDeityStairwayTextFanny6: 别把Fanny一起带过来，好吗。
 			OgsculeDontAnnoyCalDevsText: 这个ogscule的效果不是灾厄本体加的，不要拿这个去打扰他们的开发者。
+			RodOfHarmonyRantSubtitle1: Get that Rod of Harmony out of here, I don't ever want to see that ever again!
+			RodOfHarmonyRantSubtitle2: I mean, what was Re-Logic thinking? A rod of discord with no cooldown? Seriously?
+			RodOfHarmonyRantSubtitle3: Post-Moon Lord modding is RUINED...
+			RodOfHarmonyRantSubtitle4: Come on, man.
+			RodOfHarmonyRantSubtitle5: I wanted to create a universe that is fair and square. But the Rod of Harmony ruins EVERYTHING.
+			RodOfHarmonyRantSubtitle6: So no. I'm not letting you use it.
+			RodOfHarmonyRantSubtitle7: You thought you could troll me, and it turns out YOU'RE the one getting trolled.
+			RodOfHarmonyRantSubtitle8: And you know that.
+			RodOfHarmonyRantSubtitle9: Hell, you probably already knew that anyway.
+			RodOfHarmonyRantSubtitle10: You probably looked up the fight on the Internet.
+			RodOfHarmonyRantSubtitle11: You probably KNOW that I'm doing this.
+			RodOfHarmonyRantSubtitle12: I mean, I can't see why you wouldn't expect it, I already smashed the Rage and Adrenaline, of COURSE I'm going to smash the Rod of Harmony!
+			RodOfHarmonyRantSubtitle13: But now, I'm gonna have to smash you.
+			RodOfHarmonyRantSubtitle14: Ooh, that came out wrong...
+			RodOfHarmonyRantSubtitle15: Basically, what it boils down to is: I don't like cheaters.
+			RodOfHarmonyRantSubtitle16: And if you disagree with that, I don't know what you're doing here.
+			RodOfHarmonyRantSubtitle17: And you probably should've never brought that damn item in here.
 		}
 		
 		FannyDialog: {
@@ -1091,6 +1130,21 @@ Mods: {
 			StairwayTextTop4: 诺克萨斯？谁是诺克萨斯？？？也许我该找个时间看看这方面的资料……
 			StairwayTextTop5: 哦！我记得我把那地方夷为平地的时候！那很有意思！
 			StairwayTextTop6: 他们可没得选！
+			NoxusLoreText1: Wow, buddy! That Noxus fellow sure was powerful! I agree though, he is quite mysterious...
+			NoxusLoreText2: Seriously??? This is just like everything else. Nothing of insight is actually being said!
+			NoxusLoreText3: And why is this "Yharim" guy even trying to relate this to dragons? Is that his SINGULAR purpose in life? To be a lame exposition dump?!
+			NoxusLoreText4: Why doesn't he for once actually show himself and speak directly, huh? Is he that fearful of revealing himself to be the one dimensional character he is?
+			NoxusLoreText5: God, what a headache.
+			RodOfHarmonyBreak: Oh no! Your Rod of Harmony was broken! Be careful, the fight may be a lot more difficult without it!
+			RodOfHarmonyBreakEvil1: HAHAHAHAHAHAHA!!! Would you look at that! That nonsensical pink stick finally has a cooldown! The cooldown is FOREVER! Isn't that cool?!
+			RodOfHarmonyBreakEvil2: Try winning now without your laughable little crutch, you witless, one-trick pony!
+			NamelessDeityGFB1: What a load of gaudy bullshit, this sorry excuse of a fight is.
+			NamelessDeityGFB2:
+				'''
+				Dominic should be completely fucking ashamed of himself. First he steals Calamity's Xeroc character and then, like a bumbling, terminal Dunning-Kruger victim implements it in the most lame, monotonous, glitter-bomb way possible. Like, seriously? How many lasers can you hamfistedly squeeze into this?! And what the hell are these graphical effects?! This is a textbook example of making content that dimwitted youtube commenters can turn their brains off to and gawk at because "Haha, pretty bloom and shaders! Looks so unique!"
+				Is your FPS even above 15 right now???
+				'''
+			NamelessDeityGFB3: I have no advice on how to deal with it. Frankly, I'd recommend just turning the game off and doing something actually interesting with your time instead of whatever the fuck this is.
 		}
 
 		Colors: {
@@ -1098,27 +1152,27 @@ Mods: {
 			NoxusTextHex: 745CBC
 			PurifierWarningTextHex: F00448
 			VanillaEventTextHex: 32FF82
-			XerocTextHex: FF3F5D
+			NamelessDeityTextHex: FF3F5D
 		}
 
 		PlayerDeathMessages: {
-			Xeroc1: "{0}未能通过试炼。"
-			Xeroc2: "{0}的原子结构被切割了，并被花园吸收。"
-			Xeroc3: "{0}在被圣光吞噬的过程中幸福的死去。"
-			Xeroc4: "{0}的形体将于群星融为一体。"
-			Xeroc5: "{0}的灵魂随着身体的崩解，在花园中徘徊。"
-			Xeroc6: "{0}的目的实现了。"
-			Xeroc7: "{0}见证了永恒，并湮灭于此。"
-			Xeroc8: "{0}的命运结束了。"
-			Xeroc9: "{0}在不屈的努力下死去了。"
-			Xeroc10: "{0}平静地面对了光芒。"
-			Xeroc11: "{0}与大群融为一体。"
-			Xeroc12: "{0}消失于以太之中。"
-			Xeroc13: "{0}融入了宇宙的壁毯之中。"
-			Xeroc14: "{0}超越死亡，化作星尘。"
-			Xeroc15: "{0}的旅途在花园那神圣的怀抱中结束了。"
-			Xeroc16: "{0}与宇宙交响乐融为一体。"
-			Xeroc17: "{0}溶于存在的无限晶格中。"
+			NamelessDeity1: "{0}未能通过试炼。"
+			NamelessDeity2: "{0}的原子结构被切割了，并被花园吸收。"
+			NamelessDeity3: "{0}在被圣光吞噬的过程中幸福的死去。"
+			NamelessDeity4: "{0}的形体将于群星融为一体。"
+			NamelessDeity5: "{0}的灵魂随着身体的崩解，在花园中徘徊。"
+			NamelessDeity6: "{0}的目的实现了。"
+			NamelessDeity7: "{0}见证了永恒，并湮灭于此。"
+			NamelessDeity8: "{0}的命运结束了。"
+			NamelessDeity9: "{0}在不屈的努力下死去了。"
+			NamelessDeity10: "{0}平静地面对了光芒。"
+			NamelessDeity11: "{0}与大群融为一体。"
+			NamelessDeity12: "{0}消失于以太之中。"
+			NamelessDeity13: "{0}融入了宇宙的壁毯之中。"
+			NamelessDeity14: "{0}超越死亡，化作星尘。"
+			NamelessDeity15: "{0}的旅途在花园那神圣的怀抱中结束了。"
+			NamelessDeity16: "{0}与宇宙交响乐融为一体。"
+			NamelessDeity17: "{0}溶于存在的无限晶格中。"
 		}
 	}
 }

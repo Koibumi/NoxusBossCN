@@ -4,13 +4,18 @@ Mods: {
 			EntropicGod: A fathomless being beyond description.
 			NoxusEgg: An anomalous egg of pure darkness. For countless eons it has been patiently waiting to hatch.
 			ItemDropConditions.FirstTimeExclusive: Only drops once.
-			XerocBoss1: Creation.
-			XerocBoss2: Shining light.
-			XerocBoss3: Celestial interweavings.
-			XerocBoss4: Power.
-			XerocBoss5: Unending.
-			XerocBoss6: The Maker.
-			XerocBoss7: Omniscience.
+			NamelessDeityBoss1: Creation.
+			NamelessDeityBoss2: Shining light.
+			NamelessDeityBoss3: Celestial interweavings.
+			NamelessDeityBoss4: Power.
+			NamelessDeityBoss5: Unending.
+			NamelessDeityBoss6: The Maker.
+			NamelessDeityBoss7: Omniscience.
+			NamelessDeityBoss8: Transcendence.
+			NamelessDeityBoss9: Eternity.
+			NamelessDeityBoss10: Refulgent Blossoms.
+			NamelessDeityBoss11: The Whisper of the Flowers.
+			NamelessDeityBoss12: Cosmic pulchritude.
 		}
 
 		Biomes: {
@@ -121,7 +126,7 @@ Mods: {
 					The good apple never falls far from the good tree!
 					You must pass the test
 					'''
-				TooltipPostXeroc:
+				TooltipPostNamelessDeity:
 					'''
 					The good apple never falls far from the good tree!
 					Grants 1 extra max life
@@ -150,7 +155,7 @@ Mods: {
 					'''
 			}
 
-			LoreXeroc: {
+			LoreNamelessDeity: {
 				DisplayName: The Nameless Deity
 				Tooltip:
 					'''
@@ -794,7 +799,7 @@ Mods: {
 				Tooltip: ""
 			}
 
-			NoxusRelic: {
+			NoxusRelicItem: {
 				DisplayName: Noxus Relic
 				Tooltip: ""
 			}
@@ -857,22 +862,22 @@ Mods: {
 					'''
 			}
 
-			XerocMask: {
+			NamelessDeityMask: {
 				DisplayName: Nameless Deity Mask
 				Tooltip: "'Your face will be 1984'd'"
 			}
 
-			XerocMusicBox: {
+			NamelessDeityMusicBox: {
 				DisplayName: Music Box (Nameless Deity)
 				Tooltip: Plays 'Twisted Garden' by Heart Plus Up! and ENNWAY!
 			}
 
-			XerocRelic: {
+			NamelessDeityRelicItem: {
 				DisplayName: Nameless Deity Relic
 				Tooltip: ""
 			}
 
-			XerocTrophy: {
+			NamelessDeityTrophy: {
 				DisplayName: Nameless Deity Trophy
 				Tooltip: When given a signal by wiring, the eye will remain closed by default until a player gets close
 			}
@@ -911,7 +916,7 @@ Mods: {
 				}
 			}
 
-			XerocBoss: {
+			NamelessDeityBoss: {
 				DisplayName: Nameless Deity
 				DisplayNameSingular: Nameless Deity
 				SillyDeathCountSuffix: ", Tormentor of Nohitters"
@@ -979,18 +984,35 @@ Mods: {
 			TerminusProj.DisplayName: Terminus
 			VergilScreenSlice.DisplayName: Judgement Cut
 			WindStreakVisual.DisplayName: Wind
+			RodOfHarmonyExplosion.DisplayName: Rod Of Harmony Explosion
+			DarkField.DisplayName: Dark Field
+			PrimordialStardust.DisplayName: Primordial Stardust
+			NamelessDeityAfterimage.DisplayName: Afterimage
 		}
 
 		Tiles: {
 			EternalGardenMusicBoxTile.MapEntry: Music Box
-			XerocMusicBoxTile.MapEntry: Music Box
+			NamelessDeityMusicBoxTile.MapEntry: Music Box
 		}
 
-		XerocDimensionMainMenu.DisplayName: Light Dimension
+		NamelessDeityDimensionMainMenu.DisplayName: Light Dimension
 
 		Configs: {
 			NoxusBossConfig: {
-				DisplayName: Config
+				DisplayName: Main Config
+
+				DisplayConfigMessage: {
+					Label: Display Config Message
+					Tooltip: Toggles the text overlay that instructs the player to look at the UI.
+					WarningText:
+						'''
+						Hi! Your first thought reading this is probably something along the lines of 'How do I get rid of this text? It's annoying.'
+						I'll cut to the chase. Given the intensity of various visual effects in the mod, it's important that you be aware of the config options to tone them down.
+						The reason this is outlined so explicitly is to ensure that those with photosensitivity are aware before doing anything else.
+						You can find the config by navigating to Settings -> Mod Configuration -> Wrath of the Gods -> Main Config.
+						In order to ensure that you've followed these steps correctly, this pop-up text can be turned off permanently in the config via the 'Display Config Message" option.
+						'''
+				}
 
 				PhotosensitivityMode: {
 					Label: Photosensitivity Mode
@@ -1025,14 +1047,14 @@ Mods: {
 			FinalBossDefeatNoxusIndicator_SeenNoxus: The dark presence is stirring...
 			TerminusHintLine1: You have done well.
 			TerminusHintLine2: Now, seek the Terminus. Your final test is at hand.
-			XerocEnterGardenText: Your final test begins.
-			XerocEndScreenText: You have passed the test.
-			XerocEndScreenSkipText: Press ESCAPE to skip!
-			XerocPlayerDeathText: You have failed the test.
-			XerocEndScreenMainMenuTip: You have passed the test. You have passed the test. You have passed the test. You have passed the test. You have passed the test. You have passed the test. You have passed the test. You have passed the test. You have passed the test. You have passed the test.
-			XerocNoxusSprayerTip: Do not.
-			XerocStatusText: You have passed the test.
-			XerocStatusPercentageText: You have passed the test:
+			NamelessDeityEnterGardenText: Your final test begins.
+			NamelessDeityEndScreenText: You have passed the test.
+			NamelessDeityEndScreenSkipText: Press ESCAPE to skip!
+			NamelessDeityPlayerDeathText: You have failed the test.
+			NamelessDeityEndScreenMainMenuTip: You have passed the test. You have passed the test. You have passed the test. You have passed the test. You have passed the test. You have passed the test. You have passed the test. You have passed the test. You have passed the test. You have passed the test.
+			NamelessDeityNoxusSprayerTip: Do not.
+			NamelessDeityStatusText: You have passed the test.
+			NamelessDeityStatusPercentageText: You have passed the test:
 			CattailText: CATTAIL PLACED!
 			PurifierMultiplayerUseAlertText: The Purifier has been deployed by {0}. The world will be reset in 15 seconds.
 			PurifierEntertainingRantText:
@@ -1064,19 +1086,36 @@ Mods: {
 				'wavedash.ppt'
 				By Lena Raine
 				'''
-			XerocStairwayText1: Welcome, usurper.
-			XerocStairwayText2: In solitude, only you behold the heavenly splendor enveloping this realm.
-			XerocStairwayText3: Your presence here has been ordained, so that you might fathom your destiny.
-			XerocStairwayText4: The Dark One drifts in your domain. It is incumbent upon you to conquer it.
-			XerocStairwayText5: Once triumphant, your fate shall interlace with mine once more, and you will be tested.
-			XerocStairwayText6: Good luck.
-			XerocStairwayTextFanny1: Welcome, usurpe-
-			XerocStairwayTextFanny2: Wait, Fanny? What the hell are you doing here?! I thought I disowned you!
-			XerocStairwayTextFanny3: Uhhhhhhhhhhhhh, no.
-			XerocStairwayTextFanny4: Anyway, uh, you. Go kill Noxus.
-			XerocStairwayTextFanny5: We'll... fight in my garden when you're done, I guess?
-			XerocStairwayTextFanny6: Please don't bring Fanny with you.
+			NamelessDeityStairwayText1: Welcome, usurper.
+			NamelessDeityStairwayText2: In solitude, only you behold the heavenly splendor enveloping this realm.
+			NamelessDeityStairwayText3: Your presence here has been ordained, so that you might fathom your destiny.
+			NamelessDeityStairwayText4: The Dark One drifts in your domain. It is incumbent upon you to conquer it.
+			NamelessDeityStairwayText5: Once triumphant, your fate shall interlace with mine once more, and you will be tested.
+			NamelessDeityStairwayText6: Good luck.
+			NamelessDeityStairwayTextFanny1: Welcome, usurpe-
+			NamelessDeityStairwayTextFanny2: Wait, Fanny? What the hell are you doing here?! I thought I disowned you!
+			NamelessDeityStairwayTextFanny3: Uhhhhhhhhhhhhh, no.
+			NamelessDeityStairwayTextFanny4: Anyway, uh, you. Go kill Noxus.
+			NamelessDeityStairwayTextFanny5: We'll... fight in my garden when you're done, I guess?
+			NamelessDeityStairwayTextFanny6: Please don't bring Fanny with you.
 			OgsculeDontAnnoyCalDevsText: This ogscule effect is not added by the base Calamity Mod. Don't annoy their developers about it.
+			RodOfHarmonyRantSubtitle1: Get that Rod of Harmony out of here, I don't ever want to see that ever again!
+			RodOfHarmonyRantSubtitle2: I mean, what was Re-Logic thinking? A rod of discord with no cooldown? Seriously?
+			RodOfHarmonyRantSubtitle3: Post-Moon Lord modding is RUINED...
+			RodOfHarmonyRantSubtitle4: Come on, man.
+			RodOfHarmonyRantSubtitle5: I wanted to create a universe that is fair and square. But the Rod of Harmony ruins EVERYTHING.
+			RodOfHarmonyRantSubtitle6: So no. I'm not letting you use it.
+			RodOfHarmonyRantSubtitle7: You thought you could troll me, and it turns out YOU'RE the one getting trolled.
+			RodOfHarmonyRantSubtitle8: And you know that.
+			RodOfHarmonyRantSubtitle9: Hell, you probably already knew that anyway.
+			RodOfHarmonyRantSubtitle10: You probably looked up the fight on the Internet.
+			RodOfHarmonyRantSubtitle11: You probably KNOW that I'm doing this.
+			RodOfHarmonyRantSubtitle12: I mean, I can't see why you wouldn't expect it, I already smashed the Rage and Adrenaline, of COURSE I'm going to smash the Rod of Harmony!
+			RodOfHarmonyRantSubtitle13: But now, I'm gonna have to smash you.
+			RodOfHarmonyRantSubtitle14: Ooh, that came out wrong...
+			RodOfHarmonyRantSubtitle15: Basically, what it boils down to is: I don't like cheaters.
+			RodOfHarmonyRantSubtitle16: And if you disagree with that, I don't know what you're doing here.
+			RodOfHarmonyRantSubtitle17: And you probably should've never brought that damn item in here.
 		}
 
 		FannyDialog: {
@@ -1091,6 +1130,21 @@ Mods: {
 			StairwayTextTop4: Noxus? Who's Noxus??? Maybe I should look for information on that sometime...
 			StairwayTextTop5: Oh! I remember when I razed that place! It was fun!
 			StairwayTextTop6: They have no choice!
+			NoxusLoreText1: Wow, buddy! That Noxus fellow sure was powerful! I agree though, he is quite mysterious...
+			NoxusLoreText2: Seriously??? This is just like everything else. Nothing of insight is actually being said!
+			NoxusLoreText3: And why is this "Yharim" guy even trying to relate this to dragons? Is that his SINGULAR purpose in life? To be a lame exposition dump?!
+			NoxusLoreText4: Why doesn't he for once actually show himself and speak directly, huh? Is he that fearful of revealing himself to be the one dimensional character he is?
+			NoxusLoreText5: God, what a headache.
+			RodOfHarmonyBreak: Oh no! Your Rod of Harmony was broken! Be careful, the fight may be a lot more difficult without it!
+			RodOfHarmonyBreakEvil1: HAHAHAHAHAHAHA!!! Would you look at that! That nonsensical pink stick finally has a cooldown! The cooldown is FOREVER! Isn't that cool?!
+			RodOfHarmonyBreakEvil2: Try winning now without your laughable little crutch, you witless, one-trick pony!
+			NamelessDeityGFB1: What a load of gaudy bullshit, this sorry excuse of a fight is.
+			NamelessDeityGFB2:
+				'''
+				Dominic should be completely fucking ashamed of himself. First he steals Calamity's Xeroc character and then, like a bumbling, terminal Dunning-Kruger victim implements it in the most lame, monotonous, glitter-bomb way possible. Like, seriously? How many lasers can you hamfistedly squeeze into this?! And what the hell are these graphical effects?! This is a textbook example of making content that dimwitted youtube commenters can turn their brains off to and gawk at because "Haha, pretty bloom and shaders! Looks so unique!"
+				Is your FPS even above 15 right now???
+				'''
+			NamelessDeityGFB3: I have no advice on how to deal with it. Frankly, I'd recommend just turning the game off and doing something actually interesting with your time instead of whatever the fuck this is.
 		}
 
 		Colors: {
@@ -1098,27 +1152,27 @@ Mods: {
 			NoxusTextHex: 745CBC
 			PurifierWarningTextHex: F00448
 			VanillaEventTextHex: 32FF82
-			XerocTextHex: FF3F5D
+			NamelessDeityTextHex: FF3F5D
 		}
 
 		PlayerDeathMessages: {
-			Xeroc1: "{0} failed the test."
-			Xeroc2: "{0}'s atomic structure was divided for the purpose of being absorbed by the garden."
-			Xeroc3: "{0} died in bliss as the divine light consumed them."
-			Xeroc4: "{0}'s form will soon be one with the stars."
-			Xeroc5: "{0}'s spirit will linger in the garden as their body disintegrates."
-			Xeroc6: "{0}'s purpose has been fulfilled."
-			Xeroc7: "{0} witnessed eternity, and then perished."
-			Xeroc8: "{0}'s fate has concluded."
-			Xeroc9: "{0} died in spite of their valiant efforts."
-			Xeroc10: "{0} calmly faces the light."
-			Xeroc11: "{0} became one with all."
-			Xeroc12: "{0} faded into the aether."
-			Xeroc13: "{0} dissolved into the cosmic tapestry."
-			Xeroc14: "{0} transcended mortality, becoming stardust."
-			Xeroc15: "{0}'s journey ended in the sacred embrace of the garden."
-			Xeroc16: "{0} merged with the symphony of the universe."
-			Xeroc17: "{0} dissolved into the infinite lattice of existence."
+			NamelessDeity1: "{0} failed the test."
+			NamelessDeity2: "{0}'s atomic structure was divided for the purpose of being absorbed by the garden."
+			NamelessDeity3: "{0} died in bliss as the divine light consumed them."
+			NamelessDeity4: "{0}'s form will soon be one with the stars."
+			NamelessDeity5: "{0}'s spirit will linger in the garden as their body disintegrates."
+			NamelessDeity6: "{0}'s purpose has been fulfilled."
+			NamelessDeity7: "{0} witnessed eternity, and then perished."
+			NamelessDeity8: "{0}'s fate has concluded."
+			NamelessDeity9: "{0} died in spite of their valiant efforts."
+			NamelessDeity10: "{0} calmly faces the light."
+			NamelessDeity11: "{0} became one with all."
+			NamelessDeity12: "{0} faded into the aether."
+			NamelessDeity13: "{0} dissolved into the cosmic tapestry."
+			NamelessDeity14: "{0} transcended mortality, becoming stardust."
+			NamelessDeity15: "{0}'s journey ended in the sacred embrace of the garden."
+			NamelessDeity16: "{0} merged with the symphony of the universe."
+			NamelessDeity17: "{0} dissolved into the infinite lattice of existence."
 		}
 	}
 }
