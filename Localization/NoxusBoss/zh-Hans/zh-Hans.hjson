@@ -1099,23 +1099,23 @@ Mods: {
 			NamelessDeityStairwayTextFanny5: 我想，我们将……在我的花园里打一架，在你完事之后？
 			NamelessDeityStairwayTextFanny6: 别把Fanny一起带过来，好吗。
 			OgsculeDontAnnoyCalDevsText: 这个ogscule的效果不是灾厄本体加的，不要拿这个去打扰他们的开发者。
-			RodOfHarmonyRantSubtitle1: Get that Rod of Harmony out of here, I don't ever want to see that ever again!
-			RodOfHarmonyRantSubtitle2: I mean, what was Re-Logic thinking? A rod of discord with no cooldown? Seriously?
-			RodOfHarmonyRantSubtitle3: Post-Moon Lord modding is RUINED...
-			RodOfHarmonyRantSubtitle4: Come on, man.
-			RodOfHarmonyRantSubtitle5: I wanted to create a universe that is fair and square. But the Rod of Harmony ruins EVERYTHING.
-			RodOfHarmonyRantSubtitle6: So no. I'm not letting you use it.
-			RodOfHarmonyRantSubtitle7: You thought you could troll me, and it turns out YOU'RE the one getting trolled.
-			RodOfHarmonyRantSubtitle8: And you know that.
-			RodOfHarmonyRantSubtitle9: Hell, you probably already knew that anyway.
-			RodOfHarmonyRantSubtitle10: You probably looked up the fight on the Internet.
-			RodOfHarmonyRantSubtitle11: You probably KNOW that I'm doing this.
-			RodOfHarmonyRantSubtitle12: I mean, I can't see why you wouldn't expect it, I already smashed the Rage and Adrenaline, of COURSE I'm going to smash the Rod of Harmony!
-			RodOfHarmonyRantSubtitle13: But now, I'm gonna have to smash you.
-			RodOfHarmonyRantSubtitle14: Ooh, that came out wrong...
-			RodOfHarmonyRantSubtitle15: Basically, what it boils down to is: I don't like cheaters.
-			RodOfHarmonyRantSubtitle16: And if you disagree with that, I don't know what you're doing here.
-			RodOfHarmonyRantSubtitle17: And you probably should've never brought that damn item in here.
+			RodOfHarmonyRantSubtitle1: 把和谐传送杖拿出去，我再也不想看见它了！
+			RodOfHarmonyRantSubtitle2: 我是说，Re-Logic都在想些什么？一个没有冷却的传送杖？认真的吗？
+			RodOfHarmonyRantSubtitle3: 月亮领主后的模组制作都被 毁 了 ……
+			RodOfHarmonyRantSubtitle4: 拜托，伙计。
+			RodOfHarmonyRantSubtitle5: 我想创造一个公平公正的宇宙，但是和谐传送杖摧毁了 一 切 。
+			RodOfHarmonyRantSubtitle6: 所以我不会让你用它的。
+			RodOfHarmonyRantSubtitle7: 你以为你可以愚弄我，结果 你 才是那个被愚弄的人。
+			RodOfHarmonyRantSubtitle8: 以及你知道的。
+			RodOfHarmonyRantSubtitle9: 等等，见鬼，你可能已经知道了。
+			RodOfHarmonyRantSubtitle10: 你可能已经在网上找到了这场战斗。
+			RodOfHarmonyRantSubtitle11: 你也许 知 道 我会这样做。
+			RodOfHarmonyRantSubtitle12: 我是说，我不知道为什么你没有猜到这个。我都已经砸烂了愤怒条和肾上腺素条，我当然要去砸烂和谐传送杖！
+			RodOfHarmonyRantSubtitle13: 但是现在，我要砸烂你。
+			RodOfHarmonyRantSubtitle14: 哦草，我说错了……
+			RodOfHarmonyRantSubtitle15: 总而言之就是：我讨厌作弊者。
+			RodOfHarmonyRantSubtitle16: 如果你不同意这个观点，那我都不知道你来这里是干什么的。
+			RodOfHarmonyRantSubtitle17: 也许你就不该把那该死的物品带进来。
 		}
 		
 		FannyDialog: {
@@ -1138,7 +1138,7 @@ Mods: {
 			RodOfHarmonyBreak: Oh no! Your Rod of Harmony was broken! Be careful, the fight may be a lot more difficult without it!
 			RodOfHarmonyBreakEvil1: HAHAHAHAHAHAHA!!! Would you look at that! That nonsensical pink stick finally has a cooldown! The cooldown is FOREVER! Isn't that cool?!
 			RodOfHarmonyBreakEvil2: Try winning now without your laughable little crutch, you witless, one-trick pony!
-			NamelessDeityGFB1: What a load of gaudy bullshit, this sorry excuse of a fight is.
+			NamelessDeityGFB1: 这场战斗的借口真是一堆华而不实的废话。
 			NamelessDeityGFB2:
 				'''
 				Dominic should be completely fucking ashamed of himself. First he steals Calamity's Xeroc character and then, like a bumbling, terminal Dunning-Kruger victim implements it in the most lame, monotonous, glitter-bomb way possible. Like, seriously? How many lasers can you hamfistedly squeeze into this?! And what the hell are these graphical effects?! This is a textbook example of making content that dimwitted youtube commenters can turn their brains off to and gawk at because "Haha, pretty bloom and shaders! Looks so unique!"
