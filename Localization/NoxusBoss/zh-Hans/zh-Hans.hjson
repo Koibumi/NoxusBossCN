@@ -1001,16 +1001,16 @@ Mods: {
 			NoxusBossConfig: {
 				DisplayName: 主要配置
 
-				DisplayConfigMessage: {
-					Label: Display Config Message
-					Tooltip: Toggles the text overlay that instructs the player to look at the UI.
+			DisplayConfigMessage: {
+					Label: 显示配置信息
+					Tooltip: 开关指导玩家查看UI的文本。
 					WarningText:
 						'''
-						Hi! Your first thought reading this is probably something along the lines of 'How do I get rid of this text? It's annoying.'
-						I'll cut to the chase. Given the intensity of various visual effects in the mod, it's important that you be aware of the config options to tone them down.
-						The reason this is outlined so explicitly is to ensure that those with photosensitivity are aware before doing anything else.
-						You can find the config by navigating to Settings -> Mod Configuration -> Wrath of the Gods -> Main Config.
-						In order to ensure that you've followed these steps correctly, this pop-up text can be turned off permanently in the config via the 'Display Config Message" option.
+						嗨！你读到这篇小作文的第一个想法可能是“我该如何摆脱这篇小作文？这太烦人了。”
+						开门见山吧，考虑到这个mod中各种视觉效果的强度很逆天，你要知道如何通过配置选项来降低它们的效果。
+						我之所以要阐明这一点，是为了确保那些具有光敏性疾病的人在开始游玩之前都能够了解到这一问题。
+						你可以通过“设置”-> “模组配置”->“众神之怒”->“主要配置”找到配置选项。
+						为了确保你正确地遵循了这些步骤，你需要通过“显示配置信息”选项在配置中永久关闭此文本。
 						'''
 				}
 
