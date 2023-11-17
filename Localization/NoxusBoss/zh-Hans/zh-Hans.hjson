@@ -1009,7 +1009,7 @@ Mods: {
 						嗨！你读到这篇小作文的第一个想法可能是“我该如何摆脱这篇小作文？这太烦人了。”
 						开门见山吧，考虑到这个mod中各种视觉效果的强度很逆天，你要知道如何通过配置选项来降低它们的效果。
 						我之所以要阐明这一点，是为了确保那些具有光敏性疾病的人在开始游玩之前都能够了解到这一问题。
-						你可以通过“设置”->“模组配置”->“众神之怒”->“主要配置”找到配置选项。
+						你可以通过“设置”->“模组配置”->“Wrath of the Gods”->“主要配置”找到配置选项。
 						为了确保你正确地遵循了这些步骤，你需要通过“显示配置信息”选项在配置中永久关闭此文本。
 						'''
 				}
@@ -1056,7 +1056,7 @@ Mods: {
 			NamelessDeityStatusText: 你已经通过了试炼。
 			NamelessDeityStatusPercentageText: 你已经通过了试炼：
 			CattailText: CATTAIL PLACED!
-			PurifierMultiplayerUseAlertText: 净化者已由｛0｝部署，世界将在15秒内重置。
+			PurifierMultiplayerUseAlertText: 净化者已由{0}部署，世界将在15秒内重置。
 			PurifierEntertainingRantText:
 				'''
 				你好！这种白色的背景很正常，你的游戏没有炸，请不要把这一长时间的等待当作bug报上去。
@@ -1098,7 +1098,7 @@ Mods: {
 			NamelessDeityStairwayTextFanny4: 不管怎样，呃，你，去杀了诺克萨斯。
 			NamelessDeityStairwayTextFanny5: 我想，我们将……在我的花园里打一架，在你完事之后？
 			NamelessDeityStairwayTextFanny6: 别把Fanny一起带过来，好吗。
-			OgsculeDontAnnoyCalDevsText: 这个ogscule的效果不是灾厄本体加的，不要拿这个去打扰他们的开发者。
+			OgsculeDontAnnoyCalDevsText: 这个终末石的效果不是灾厄本体加的，不要拿这个去打扰他们的开发者。
 			RodOfHarmonyRantSubtitle1: 把和谐传送杖拿出去，我再也不想看见它了！
 			RodOfHarmonyRantSubtitle2: 我是说，Re-Logic都在想些什么？一个没有冷却的传送杖？认真的吗？
 			RodOfHarmonyRantSubtitle3: 月亮领主后的模组制作都被 毁 了 ……
@@ -1125,7 +1125,7 @@ Mods: {
 			StairwayText4: 等等，那来自另一个游戏……
 			StairwayText5: 好吧，继续往上走！总有什么事会发生的……？
 			StairwayTextTop1: 等等，爹？！！是你吗？？？
-			StairwayTextTop2: 你确定那不是邪恶Fanny？
+			StairwayTextTop2: 你确定那不是邪恶的Fanny？
 			StairwayTextTop3: 你说话太伤人了，爹……
 			StairwayTextTop4: 诺克萨斯？谁是诺克萨斯？？？也许我该找个时间看看这方面的资料……
 			StairwayTextTop5: 哦！我记得我把那地方夷为平地的时候！那很有意思！
