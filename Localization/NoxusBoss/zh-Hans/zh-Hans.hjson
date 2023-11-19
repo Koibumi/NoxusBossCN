@@ -4,11 +4,11 @@ Mods: {
 			EntropicGod: 无法描述的不可名状之存在。
 			NoxusEgg: 由纯粹黑暗构成的异常之卵。无数个世纪以来，它一直在耐心的等待着孵化。
 			ItemDropConditions.FirstTimeExclusive: 仅在首次击败时掉落。
-			NamelessDeityBoss1: 创世。
+			NamelessDeityBoss1: 混沌初开。
 			NamelessDeityBoss2: 璀璨之光。
 			NamelessDeityBoss3: 天界的交织体。
 			NamelessDeityBoss4: 权能。
-			NamelessDeityBoss5: 无穷，无尽。
+			NamelessDeityBoss5: 无穷无尽。
 			NamelessDeityBoss6: 创世者。
 			NamelessDeityBoss7: 全知之神。
 			NamelessDeityBoss8: 超脱于世。
@@ -253,15 +253,15 @@ Mods: {
 				Verb86: 联合了
 				Verb87: 治愈了
 				Verb88: 承认了
-				Verb89: 吓傻了
+				Verb89: 吃惊于
 				Verb90: 缄默着
 				Verb91: 冻结了
 				Verb92: 合格了
-				Verb93: 擅长
+				Verb93: 擅长于
 				Verb94: 沉思着
 				Verb95: 治好了
 				Verb96: 重获新生了
-				Verb97: 区别对待了
+				Verb97: 区别对待着
 				Verb98: 爬行于
 				Verb99: 吞噬了
 				Verb100: 终结了
@@ -269,33 +269,33 @@ Mods: {
 				Verb102: 阐明了
 				Verb103: 说明了
 				Verb104: 悼念着
-				Verb105: 繁盛
-				Verb106: 腐烂
+				Verb105: 繁盛了
+				Verb106: 糜烂了
 				Verb107: 应允了
 				Verb108: 默认了
 				Verb109: 布置了
-				Verb110: 渴望
+				Verb110: 渴望着
 				Verb111: 困扰了
-				Verb112: 栖身
+				Verb112: 栖身于
 				Verb113: 深思着
 				Verb114: 拒绝了
 				Verb115: 沉思着
 				Verb116: 瓦解了
 				Verb117: 出现了
-				Verb118: 哀悼
+				Verb118: 哀悼着
 				Verb119: 忏悔了
 				Verb120: 嬉笑着
 				Verb121: 悸动着
 				Verb122: 统一着
 				Verb123: 颤抖着
-				Verb124: 卑躬屈膝
-				Verb125: 严惩
+				Verb124: 臣服于
+				Verb125: 严惩了
 				Verb126: 生长着
 				Verb127: 跳动着
 				Verb128: 欺骗着
-				Verb129: 攻击
+				Verb129: 攻击着
 				Verb130: 警告着
-				Verb131: 诺许
+				Verb131: 允许了
 				Verb132: 忽视了
 				Verb133: 贬低了
 				Verb134: 超越了
@@ -1007,9 +1007,9 @@ Mods: {
 					WarningText:
 						'''
 						嗨！你读到这篇小作文的第一个想法可能是“我该如何摆脱这篇小作文？这太烦人了。”
-						开门见山吧，考虑到这个mod中各种视觉效果的强度很逆天，你要知道如何通过配置选项来降低它们的效果。
+						开门见山吧，考虑到这个mod中各种视觉效果的强度十分逆天，你要知道如何通过配置选项来降低它们的效果。
 						我之所以要阐明这一点，是为了确保那些具有光敏性疾病的人在开始游玩之前都能够了解到这一问题。
-						你可以通过“设置”->“模组配置”->“Wrath of the Gods”->“主要配置”找到配置选项。
+						你可以通过“设置”->“模组配置”->“众神之怒”->“主要配置”找到配置选项。
 						为了确保你正确地遵循了这些步骤，你需要通过“显示配置信息”选项在配置中永久关闭此文本。
 						'''
 				}
@@ -1030,12 +1030,12 @@ Mods: {
 
 				ScreenShatterEffects: {
 					Label: 碎屏效果
-					Tooltip: 启用碎屏效果，如果它会伤害到你眼睛的话请禁用它。
+					Tooltip: 启用碎屏效果，如果你的眼睛因此受到损伤，请禁用它。
 				}
 
 				VisualOverlayIntensity: {
 					Label: 视觉叠加强度
-					Tooltip: 调整视觉叠加的强度，比如模糊和色差。
+					Tooltip: 调整视觉叠加的强度，例如模糊和色差。
 				}
 			}
 		}
