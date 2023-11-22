@@ -1,6 +1,8 @@
 Mods: {
 	NoxusBoss: {
 		Bestiary: {
+			Aelithrysuwl: Although resembling solitary owls, these mysterious creatures are remarkably social, enjoying singing together in the trees. Their shining eyes suggest that they may be sapient.
+			Vivajuyfylae: Each one of these enigmatic beings is seemingly a single star given life. They endlessly flutter about in a mesmerizing swarm, occasionally forming constellations.
 			EntropicGod: 无法描述的不可名状之存在。
 			NoxusEgg: 由纯粹黑暗构成的异常之卵。无数个世纪以来，它一直在耐心的等待着孵化。
 			ItemDropConditions.FirstTimeExclusive: 仅在首次击败时掉落。
@@ -132,6 +134,11 @@ Mods: {
 					额外增加1点生命上限
 					可以无限次使用
 					'''
+			}
+
+			GoodAppleResetter: {
+				DisplayName: Good Apple Resetter [DEBUG]
+				Tooltip: ""
 			}
 
 			LoreNoxus: {
@@ -306,11 +313,11 @@ Mods: {
 				Verb139: 承诺着
 				Verb140: 透露了
 				Verb141: 表演着				
-                                Verb142: 感受着
+                Verb142: 感受着
 				Verb143: 期望着
 				Verb144: 废除了
 				Verb145: 吹拂着
-				Verb146: 引起了
+				Verb146: unfurls
 				Verb147: 发生了
 				Verb148: 决定了
 				Verb149: 废除了
@@ -842,11 +849,10 @@ Mods: {
 				DisplayName: 终末之石
 				Tooltip:
 					'''
-					目前，我们拒绝将Boss Rush视作一个事件，无论如何我们都不认为它是个规范的挑战
+					目前，我们拒绝将Boss Rush视作一个事件
 					事实上，它充其量也只是个拥有些许挑战性的战斗
-					尽管如此，我们还是觉得随着终末石功能的改变
-					最好为那些喜欢或期待试炼的人增加一种体验事件的替代方式
-					诺克萨斯和无名光神的掉落物与其对应
+					However, in spite of this, we have decided that with Terminus' changed functionality it would be best
+					to add an alternative way of experiencing the event, for those who do enjoy it or find it useful for testing
 					'''
 			}
 
@@ -891,6 +897,11 @@ Mods: {
 				DisplayName: 阶梯启动器[DEBUG]
 				Tooltip: ""
 			}
+
+			Xenqiterthralyensyr: {
+				DisplayName: Xenqiterthralyensyr
+				Tooltip: The name of its author has been lost to time
+			}
 		}
 
 		NPCs: {
@@ -914,6 +925,8 @@ Mods: {
 					SpawnInfo: 使用[i:NoxusBoss/Genesis]
 					DespawnMessage: "[c/7D5CC4:诺克萨斯在转瞬之间消失了。]"
 				}
+
+				InfernumCompatibility.Title: Noxus.
 			}
 
 			NamelessDeityBoss: {
@@ -925,11 +938,16 @@ Mods: {
 					SpawnInfo: 在[i:CalamityMod/Terminus]的眼睛睁开后，使用它。
 					DespawnMessage: "[c/FF463D:你未能通过试炼。]"
 				}
+
+				InfernumCompatibility.Title: ??????????????????????????????????????????????????
 			}
 
 			DismalSeeker.DisplayName: 阴郁索求者
 			Fogwood.DisplayName: 雾中木
 			Mirrorwalker.DisplayName: 镜像行者
+			# These names do not have to be translated, since when displayed ingame they are drawn in a divine language anyway via a special font.
+			Aelithrysuwl.DisplayName: Aelithrysuwl
+			Vivajuyfylae.DisplayName: Vivajuyfylae
 		}
 
 		Projectiles: {

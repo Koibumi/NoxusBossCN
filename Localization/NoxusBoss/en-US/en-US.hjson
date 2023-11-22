@@ -1,6 +1,8 @@
 Mods: {
 	NoxusBoss: {
 		Bestiary: {
+			Aelithrysuwl: Although resembling solitary owls, these mysterious creatures are remarkably social, enjoying singing together in the trees. Their shining eyes suggest that they may be sapient.
+			Vivajuyfylae: Each one of these enigmatic beings is seemingly a single star given life. They endlessly flutter about in a mesmerizing swarm, occasionally forming constellations.
 			EntropicGod: A fathomless being beyond description.
 			NoxusEgg: An anomalous egg of pure darkness. For countless eons it has been patiently waiting to hatch.
 			ItemDropConditions.FirstTimeExclusive: Only drops once.
@@ -132,6 +134,11 @@ Mods: {
 					Grants 1 extra max life
 					May be used an unlimited number of times
 					'''
+			}
+
+			GoodAppleResetter: {
+				DisplayName: Good Apple Resetter [DEBUG]
+				Tooltip: ""
 			}
 
 			LoreNoxus: {
@@ -310,7 +317,7 @@ Mods: {
 				Verb143: anticipates
 				Verb144: annuls
 				Verb145: blows
-				Verb146: strikes
+				Verb146: unfurls
 				Verb147: emerges
 				Verb148: decides
 				Verb149: abolishes
@@ -842,11 +849,10 @@ Mods: {
 				DisplayName: Terminal
 				Tooltip:
 					'''
-					We reject Boss Rush as an event in its current state. We do not consider it canonical in any way
+					We reject Boss Rush as an event in its current state
 					As is, it's more or less just a slog with a small handful of challenges
-					In spite of this, we have decided that with Terminus' changed functionality it would be best
-					to add an alternative way of experiencing the event, for those who do enjoy it or wish to test
-					Noxus and the Nameless Deity's drops against it
+					However, in spite of this, we have decided that with Terminus' changed functionality it would be best
+					to add an alternative way of experiencing the event, for those who do enjoy it or find it useful for testing
 					'''
 			}
 
@@ -891,6 +897,11 @@ Mods: {
 				DisplayName: Staircase Starter [DEBUG]
 				Tooltip: ""
 			}
+
+			Xenqiterthralyensyr: {
+				DisplayName: Xenqiterthralyensyr
+				Tooltip: The name of its author has been lost to time
+			}
 		}
 
 		NPCs: {
@@ -914,6 +925,8 @@ Mods: {
 					SpawnInfo: Use the [i:NoxusBoss/Genesis]
 					DespawnMessage: "[c/7D5CC4:Noxus vanishes in the blink of an eye.]"
 				}
+
+				InfernumCompatibility.Title: Noxus.
 			}
 
 			NamelessDeityBoss: {
@@ -925,11 +938,16 @@ Mods: {
 					SpawnInfo: Use the [i:CalamityMod/Terminus] after its gaze has opened
 					DespawnMessage: "[c/FF463D:You have failed the test.]"
 				}
+
+				InfernumCompatibility.Title: ??????????????????????????????????????????????????
 			}
 
 			DismalSeeker.DisplayName: Dismal Seeker
 			Fogwood.DisplayName: Fogwood
 			Mirrorwalker.DisplayName: Mirrorwalker
+			# These names do not have to be translated, since when displayed ingame they are drawn in a divine language anyway via a special font.
+			Aelithrysuwl.DisplayName: Aelithrysuwl
+			Vivajuyfylae.DisplayName: Vivajuyfylae
 		}
 
 		Projectiles: {
@@ -982,7 +1000,7 @@ Mods: {
 			TelegraphedStarLaserbeam.DisplayName: Solar Burst
 			ThePurifierProj.DisplayName: The Purifier
 			TerminusProj.DisplayName: Terminus
-			VergilScreenSlice.DisplayName: Judgement Cut
+			VergilScreenSlice.DisplayName: Judgment Cut
 			WindStreakVisual.DisplayName: Wind
 			RodOfHarmonyExplosion.DisplayName: Rod Of Harmony Explosion
 			DarkField.DisplayName: Dark Field
