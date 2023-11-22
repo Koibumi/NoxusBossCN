@@ -1,8 +1,8 @@
 Mods: {
 	NoxusBoss: {
 		Bestiary: {
-			Aelithrysuwl: Although resembling solitary owls, these mysterious creatures are remarkably social, enjoying singing together in the trees. Their shining eyes suggest that they may be sapient.
-			Vivajuyfylae: Each one of these enigmatic beings is seemingly a single star given life. They endlessly flutter about in a mesmerizing swarm, occasionally forming constellations.
+			Aelithrysuwl: 尽管这些神秘的生物看起来像是某种独居的猫头鹰，但它们实际具有相当强的社会性。闪闪发光的眼睛仿佛在暗示它们具备相当程度的智慧。
+			Vivajuyfylae: 这些神秘生物中每个个体看起来都像是被一颗星辰所赋予的生命。它们成群结队地飞舞着，永无休止，偶尔还会形成星座。
 			EntropicGod: 无法描述的不可名状之存在。
 			NoxusEgg: 由纯粹黑暗构成的异常之卵。无数个世纪以来，它一直在耐心的等待着孵化。
 			ItemDropConditions.FirstTimeExclusive: 仅在首次击败时掉落。
@@ -137,7 +137,7 @@ Mods: {
 			}
 
 			GoodAppleResetter: {
-				DisplayName: Good Apple Resetter [DEBUG]
+				DisplayName: Good Apple重设器[DEBUG]
 				Tooltip: ""
 			}
 
@@ -900,7 +900,7 @@ Mods: {
 
 			Xenqiterthralyensyr: {
 				DisplayName: Xenqiterthralyensyr
-				Tooltip: The name of its author has been lost to time
+				Tooltip: 其作者的名字早已消失于时间的长河之中
 			}
 		}
 
@@ -926,7 +926,7 @@ Mods: {
 					DespawnMessage: "[c/7D5CC4:诺克萨斯在转瞬之间消失了。]"
 				}
 
-				InfernumCompatibility.Title: Noxus.
+				InfernumCompatibility.Title: 诺克萨斯.
 			}
 
 			NamelessDeityBoss: {
