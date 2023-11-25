@@ -170,8 +170,8 @@ Mods: {
 					按住“左Shift”仔细聆听
 					'''
 				Lore: ""
-				Determiner1: 1
-				Determiner2: 2
+				Determiner1:  
+				Determiner2:  
 				Verb1: 折射在
 				Verb2: 超出了
 				Verb3: 预言了
@@ -313,11 +313,11 @@ Mods: {
 				Verb139: 承诺着
 				Verb140: 透露了
 				Verb141: 表演着				
-                Verb142: 感受着
+                		Verb142: 感受着
 				Verb143: 期望着
 				Verb144: 废除了
 				Verb145: 吹拂着
-				Verb146: unfurls
+				Verb146: 打开了
 				Verb147: 发生了
 				Verb148: 决定了
 				Verb149: 废除了
@@ -724,46 +724,46 @@ Mods: {
 				Noun200: 科学家
 				Noun201: 终末之杖
 				Preposition1: 关于
-				Preposition2: 之上
-				Preposition3: across
-				Preposition4: 之后
-				Preposition5: against
-				Preposition6: along
-				Preposition7: among
-				Preposition8: around
-				Preposition9: as
-				Preposition10: at
-				Preposition11: before
-				Preposition12: behind
-				Preposition13: below
-				Preposition14: beneath
-				Preposition15: beside
-				Preposition16: betwixt
-				Preposition17: beyond
-				Preposition18: by
-				Preposition19: despite
-				Preposition20: during
-				Preposition21: except
-				Preposition22: for
-				Preposition23: from
-				Preposition24: into
-				Preposition25: like
-				Preposition26: nears
-				Preposition27: of
-				Preposition28: on
-				Preposition29: opposite
-				Preposition30: over
-				Preposition31: since
-				Preposition32: than
-				Preposition33: to
-				Preposition34: toward
-				Preposition35: under
-				Preposition36: until
-				Preposition37: up
-				Preposition38: upon
-				Preposition39: with
-				Preposition40: within
-				Preposition41: without
+				Preposition2: 之
+				Preposition3: 之
+				Preposition4: 之
+				Preposition5: 之
+				Preposition6: 之
+				Preposition7: 之
+				Preposition8: 之
+				Preposition9: 之
+				Preposition10: 在
+				Preposition11: 之
+				Preposition12: 之
+				Preposition13: 之
+				Preposition14: 之
+				Preposition15: 之
+				Preposition16: 之
+				Preposition17: 之
+				Preposition18: 来自
+				Preposition19: 之
+				Preposition20: 之
+				Preposition21: 之
+				Preposition22: 为了
+				Preposition23: 来自
+				Preposition24: 之
+				Preposition25: 像
+				Preposition26: 之
+				Preposition27: 在
+				Preposition28: 之
+				Preposition29: 之
+				Preposition30: 之
+				Preposition31: 之
+				Preposition32: 之
+				Preposition33: 之
+				Preposition34: 之
+				Preposition35: 之
+				Preposition36: 直至
+				Preposition37: 之
+				Preposition38: 之
+				Preposition39: 与
+				Preposition40: 之
+				Preposition41: 之
 				EasterEggSentence: 是的，虫潮开荒摸了
 				# This key is used for the purpose of defining the general layout of the language's grammar. Barring requirements below you can create any rules you want.
 				# This system relies on Phrase Structure Rules. It would be wise to research this independently to get a firmer grasp on how this works.
@@ -926,7 +926,7 @@ Mods: {
 					DespawnMessage: "[c/7D5CC4:诺克萨斯在转瞬之间消失了。]"
 				}
 
-				InfernumCompatibility.Title: 诺克萨斯.
+				InfernumCompatibility.Title: 诺克萨斯
 			}
 
 			NamelessDeityBoss: {
