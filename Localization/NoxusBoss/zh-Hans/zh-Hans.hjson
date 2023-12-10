@@ -117,8 +117,8 @@ Mods: {
 
 			Genesis: {
 				DisplayName: 起源石
-				Tooltip: Opens the Dark One's rift
-				AlternateTooltip: Left click to summon the the Dark One's rift in its second phase, right click to summon it in its first
+				Tooltip: 开启黑暗之神的裂隙
+				AlternateTooltip: 左键召唤黑暗之神二阶段的裂隙，右键召唤一阶段。
 			}
 
 			GoodApple: {
@@ -910,12 +910,12 @@ Mods: {
 			NoxusEggCutscene.DisplayName: ???
 
 			NoxusRift: {
-				DisplayName: Recondite Sprout, Noxus
-				DisplayNameSingular: Budding Nyctitropic Stamen, Noxus
+				DisplayName: 深邃初芽，诺克萨斯
+				DisplayNameSingular: Budding Nyctitropic Stamen，诺克萨斯
 
 				BossChecklistIntegration: {
 					SpawnInfo: 使用[i:NoxusBoss/Genesis]
-					DespawnMessage: "[c/7D5CC4:The rift在转瞬之间消失了。]"
+					DespawnMessage: "[c/7D5CC4:裂隙在转瞬之间消失了。]"
 				}
 			}
 
@@ -925,10 +925,10 @@ Mods: {
 
 				BossChecklistIntegration: {
 					SpawnInfo: 使用[i:NoxusBoss/Genesis]
-					DespawnMessage: "[c/7D5CC4:The Dark One's grotesque form在转瞬之间消失了。]"
+					DespawnMessage: "[c/7D5CC4:暗神的怪诞之躯在转瞬之间消失了。]"
 				}
 
-				InfernumCompatibility.Title: Last Star In A Perfect World
+				InfernumCompatibility.Title: 臻世末星
 			}
 
 			NamelessDeityBoss: {
