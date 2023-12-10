@@ -117,8 +117,8 @@ Mods: {
 
 			Genesis: {
 				DisplayName: Genesis
-				Tooltip: Summons The Godless Spawn, Noxus
-				AlternateTooltip: Left click to summon the The Entropic God, right click to summon the Godless Spawn
+				Tooltip: Opens the Dark One's rift
+				AlternateTooltip: Left click to summon the the Dark One's rift in its second phase, right click to summon it in its first
 			}
 
 			GoodApple: {
@@ -781,6 +781,8 @@ Mods: {
 					NOUNPHRASE = DETERMINER ADJECTIVE NOUN, DETERMINER NOUN
 					VERBPHRASE = VERB PREPOSITION NOUNPHRASE
 					'''
+				# This was requested by the Chinese translators, whose language does not require spacing between the words. Set this to True or False depending on your needs.
+				IncludeSpacesBetweenWords: True
 			}
 
 			MidnightMonolith: {
@@ -907,13 +909,13 @@ Mods: {
 		NPCs: {
 			NoxusEggCutscene.DisplayName: ???
 
-			NoxusEgg: {
-				DisplayName: Godless Spawn, Noxus
-				DisplayNameSingular: Godless Spawn, Noxus
+			NoxusRift: {
+				DisplayName: Recondite Sprout, Noxus
+				DisplayNameSingular: Budding Nyctitropic Stamen, Noxus
 
 				BossChecklistIntegration: {
 					SpawnInfo: Use the [i:NoxusBoss/Genesis]
-					DespawnMessage: "[c/7D5CC4:Noxus vanishes in the blink of an eye.]"
+					DespawnMessage: "[c/7D5CC4:The rift vanishes in the blink of an eye.]"
 				}
 			}
 
@@ -923,10 +925,10 @@ Mods: {
 
 				BossChecklistIntegration: {
 					SpawnInfo: Use the [i:NoxusBoss/Genesis]
-					DespawnMessage: "[c/7D5CC4:Noxus vanishes in the blink of an eye.]"
+					DespawnMessage: "[c/7D5CC4:The Dark One's grotesque form vanishes in the blink of an eye.]"
 				}
 
-				InfernumCompatibility.Title: Noxus.
+				InfernumCompatibility.Title: Last Star In A Perfect World.
 			}
 
 			NamelessDeityBoss: {
@@ -1027,7 +1029,7 @@ Mods: {
 						Hi! Your first thought reading this is probably something along the lines of 'How do I get rid of this text? It's annoying.'
 						I'll cut to the chase. Given the intensity of various visual effects in the mod, it's important that you be aware of the config options to tone them down.
 						The reason this is outlined so explicitly is to ensure that those with photosensitivity are aware before doing anything else.
-						You can find the config by navigating to Settings -> Mod Configuration -> Wrath of the Gods -> Main Config.
+						You can find the config by navigating to Settings -> Mod Configuration -> Calamity: Wrath of the Gods -> Main Config.
 						In order to ensure that you've followed these steps correctly, this pop-up text can be turned off permanently in the config via the 'Display Config Message" option.
 						'''
 				}
