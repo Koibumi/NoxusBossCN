@@ -782,7 +782,7 @@ Mods: {
 					VERBPHRASE = VERB PREPOSITION NOUNPHRASE
 					'''
 					# This was requested by the Chinese translators, whose language does not require spacing between the words. Set this to True or False depending on your needs.
-				IncludeSpacesBetweenWords: True
+				IncludeSpacesBetweenWords: False
 			}
 
 			MidnightMonolith: {
@@ -844,13 +844,13 @@ Mods: {
 
 			Rock.Tooltip:
 				'''
-				[c/FF3F5D:Creation. The first and last divine act]
+				[c/FF3F5D:创造，最为神圣而又最为污秽的行为]
 
-				[c/2EA95F:A being without moniker erected the Garden in the image of its infinite pulchritude, blessing it as the center of all Creation]
-				[c/60706B:This stone is the first, a faded memory of that unmistakable moment]
+				[c/2EA95F:一位无名的存在以它那无与伦比的美丽形象为蓝本，建成了这座花园，并祝福它成为一切创造的中心]
+				[c/60706B:这块石头是第一件造物，是那无疑之瞬已然消逝的记忆]
 
-				[c/FF3F5D:Usurper. You have passed the test]
-				[c/FF3F5D:I bestow it upon you]
+				[c/FF3F5D:僭越者，你已经通过了试炼]
+				[c/FF3F5D:我将它赠予你]
 				'''
 
 			Rok: {
@@ -926,7 +926,7 @@ Mods: {
 
 				BossChecklistIntegration: {
 					SpawnInfo: 使用[i:NoxusBoss/Genesis]
-					DespawnMessage: "[c/7D5CC4:裂隙在转瞬之间消失了。]"
+					DespawnMessage: "[c/7D5CC4:隙间在转瞬之间消失了。]"
 				}
 			}
 
@@ -1019,8 +1019,8 @@ Mods: {
 			DarkField.DisplayName: 黑暗视野
 			PrimordialStardust.DisplayName: 始源星尘
 			NamelessDeityAfterimage.DisplayName: 余像
-			DisgustingStar.DisplayName: Disgusting Star
-			AcceleratingRubble.DisplayName: Rubble
+			DisgustingStar.DisplayName: 憎恶异星
+			AcceleratingRubble.DisplayName: 碎石
 		}
 
 		Tiles: {
