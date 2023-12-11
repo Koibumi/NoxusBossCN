@@ -842,6 +842,17 @@ Mods: {
 				Tooltip: ""
 			}
 
+			Rock.Tooltip:
+				'''
+				[c/FF3F5D:Creation. The first and last divine act]
+
+				[c/2EA95F:A being without moniker erected the Garden in the image of its infinite pulchritude, blessing it as the center of all Creation]
+				[c/60706B:This stone is the first, a faded memory of that unmistakable moment]
+
+				[c/FF3F5D:Usurper. You have passed the test]
+				[c/FF3F5D:I bestow it upon you]
+				'''
+
 			Rok: {
 				DisplayName: Rok
 				Tooltip: It's just an ordinary rock
@@ -910,8 +921,8 @@ Mods: {
 			NoxusEggCutscene.DisplayName: ???
 
 			NoxusRift: {
-				DisplayName: Recondite Sprout, Noxus
-				DisplayNameSingular: Budding Nyctitropic Stamen, Noxus
+				DisplayName: Evanescent Lilysprout, Noxus
+				DisplayNameSingular: Evanescent Lilysprout, Noxus
 
 				BossChecklistIntegration: {
 					SpawnInfo: Use the [i:NoxusBoss/Genesis]
@@ -1008,6 +1019,8 @@ Mods: {
 			DarkField.DisplayName: Dark Field
 			PrimordialStardust.DisplayName: Primordial Stardust
 			NamelessDeityAfterimage.DisplayName: Afterimage
+			DisgustingStar.DisplayName: Disgusting Star
+			AcceleratingRubble.DisplayName: Rubble
 		}
 
 		Tiles: {
